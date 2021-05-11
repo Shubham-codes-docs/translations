@@ -141,6 +141,51 @@
 
 
 
-,"commentsk2":"above is shashank's work"
+,"commentsk2":"above is shashank's work",
+  
+  
+  "commenthk1" : "below is himanshu's work",
+  
+ 
+  "p-home" : "लोग" ,
+  "director" : "निदेशक" ,
+  "deans" : "डीन" ,
+  "associate" : "सहयोगी डीन" ,
+  "assistant" : "सहायक डीन" ,
+  "hod" : "विभाग के प्रमुख" ,
+  "fic" : "संकाय प्रभारी" ,
+  "fac" : "संकाय" ,
+  "ward" : "वार्डन" ,
+  "reg" : "रजिस्ट्रार" ,
+  "off" : "अफ़सर" ,
+  "staff" : "कर्मचारी" ,
+
+
+
+   "dir-profile-head" : "प्रोफ़ाइल" ,
+   "dean-head" : "डीन",
+
+
+   "asso-d-head" : "सहयोगी डीन",
+    "card-md-hassan" : "डॉ। एमडी आशिक हसन",
+    "card-rao" : "डॉ। चिंतलचेरुवु मधुसूदन राव",
+     "p-rao" : "शैक्षणिक: मान्यता और प्रत्यायन",
+    "card-tushar" : "डॉ। तुषार बैनर्जी" ,
+      "p-tushar" : "उद्योग और पूर्व छात्र संबंध",
+    "card-vishesh" : "डॉ। विशेश रंजन कर",
+      "p-vishesh" : "अनुसंधान और परामर्श",
+    "card-prashant" : "डॉ। प्रशांत कुमार" ,
+      "p-prashant" : "छात्र कल्याण",
+    "card-subhash" : "डॉ। सुभाष सिंह",
+      "p-subhash" : "संकाय कल्याण",
+    "card-awdhesh" : "डॉ अवधेश कुमार चौधरी",
+      "p-awdhesh" : "योजना और विकास",
+    "card-sanjay" : "डॉ संजय कुमार" ,
+     "p-sanjay" : "योजना और विकास",
+    "card-namrata" : "डॉ। कुमारी नम्रता",
+      "p-namrata" : "छात्र कल्याण" 
+  
+  
+ "commenthk2" : "above is himanshu's work"
 
 }
