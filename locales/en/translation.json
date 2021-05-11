@@ -134,7 +134,53 @@
 
 
 
-,"commentsk2":"above is shashank's work"
+,"commentsk2":"above is shashank's work" ,
+  
+  
+  
+"commenths1" : "below is himanshu's work" ,
+
+  "p-home" : "People Home" ,
+  "director" : "Director" ,
+  "deans" : "Deans" ,
+  "associate" : "Associate Deans" ,
+  "assistant" : "Assistant Deans" ,
+  "hod" : "Head of Departments" ,
+  "fic" : "Faculty In-charge" ,
+  "fac" : "Faculty" ,
+  "ward" : "Wardens" ,
+  "reg" : "Registrar" ,
+  "off" : "Officers" ,
+  "staff" : "Staff" ,
+
+
+
+   "profile-head" : "Profile" ,
+   "dean-head" : "Deans" ,
+
+
+   "asso-d-head" : "Associate Deans",
+      "card-md-hassan" : "Dr. Md Ashique Hassan",
+       "p-hassan" : "Academic" , 
+      "card-rao" : "Dr. Chintalacheruvu Madhusudana Rao",
+       "p-rao" : "Academic: Recognition and Accreditation",
+      "card-tushar" : "Dr. Tushar Banerjee" ,
+       "p-tushar" : "Industry and Alumni Relations",
+      "card-vishesh" : "Dr. Vishesh Ranjan Kar",
+       "p-vishesh" : "Research and Consultancy",
+      "card-prashant" : "Dr. Prashant Kumar" ,
+       "p-prashant" : "Students Welfare",
+      "card-subhash" : "Dr. Subhash Singh",
+       "p-subhash" : "Faculty Welfare",
+      "card-awdhesh" : "Dr. Awdhesh Kumar Choudhary",
+       "p-awdhesh" : "Planning and Development",
+      "card-sanjay" : "Dr. Sanjay Kumar" ,
+       "p-sanjay" : "Planning and Development",
+      "card-namrata" : "Dr. Kumari Namrata",
+       "p-namrata" : "Students Welfare",
+    
+"commenths2" : "above is himanshu's work" 
+
 
 
 
