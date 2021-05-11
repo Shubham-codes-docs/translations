@@ -1,0 +1,93 @@
+{
+
+"title1":"Academics",
+"title2":"Admissions",
+"title3":"People",
+"title4":"Departments",
+"title5":"Curriculum",
+"title6":"Student Statistics",
+"title7":"Fee Structure",
+"title8":"Semester Schedule",
+"title9":"Ordinance",
+"title10":"Academic Documents",
+
+"li1":"Academics",
+"li2":"Admissions",
+"li3":"People",
+"li4":"Departments",
+"li5":"Curriculum",
+"li6":"Student Statistics",
+"li7":"Fee Structure",
+"li8":"Semester Schedule",
+"li9":"Ordinance",
+"li10":"Academic Documents",
+
+"academics_link":"Click here",
+
+"Academics_subtitle1":"Academics",
+"subtitle1_para":"NIT Jamshedpur is a prestigious institute of higher learning producing meritorious students with excellent career growth and universal recognition. The students get the best of opportunities in the form of highly advanced courses and eminent faculty members.The institute is committed to academic excellence and good governance. NIT Jamshedpur was ranked overall 78th for 2015-16 among the best 100 engineering institutes in the country by the National Institutional Ranking Framework (NIRF) for higher education institutions approved by the Minister of Human Resources Development, Government of India. There are 12 departments with 7 Under-graduate(UG) programmes, 23 Post-graduate(PG) programmes and Ph.D. Programmes:",
+
+"Academics_subtitle2":"UG Programmes",
+"subtitle2_para":"Number of UG Programmes in our institute is 7",
+"subtitle2_table1_li1":"Mechanical Engineering",
+"subtitle2_table1_li2":"Electrical Engineering",
+"subtitle2_table1_li3" :"Metallurgical and Material Engineering",
+
+"subtitle2_table2_li1":"Production and Industrial Engineering",
+"subtitle2_table2_li2":"Electronics and Communication Engineering",
+"subtitle2_table2_li3":"Civil Engineering",
+
+"subtitle2_table3_li1":"Computer Science and Engineering",
+
+"Academics_subtitle3":"PG Programmes",
+"subtitle3_para":"Number of PG Programmes in our institute is 23",
+"subtitle3_table1_li1":"Computer Integrated Design and Manufacturing",
+"subtitle3_table1_li2":"Materials Technology",
+"subtitle3_table1_li3" :"Computer Science and Engineering",
+"subtitle3_table1_li4":"Foundry Technology",
+"subtitle3_table1_li5":"Industrial and Management Engineering",
+"subtitle3_table1_li6" :"Power System Engineering",
+"subtitle3_table1_li7":"Structural Engineering",
+"subtitle3_table1_li8" :"Surface Science and Engineering",
+
+
+"subtitle3_table2_li1":"Manufacturing Systems Engineering",
+"subtitle3_table2_li2":"Information Systems Security Engineering",
+"subtitle3_table2_li3":"Power Electronics and Drives",
+"subtitle3_table2_li4":"Geotechnical Engineering",
+"subtitle3_table2_li5":"Energy Systems Engineering",
+"subtitle3_table2_li6" :"Extractive Metallurgy",
+"subtitle3_table2_li7":"Iron and Steel Technology",
+"subtitle3_table2_li8" :"Computer Applications",
+
+"subtitle3_table3_li1":"Thermal and Fluid Engineering",
+"subtitle3_table3_li2":"Embedded Systems Engineering",
+"subtitle3_table3_li3":"Communication Systems Engineering",
+"subtitle3_table3_li4":"Water Resources Engineering",
+"subtitle3_table3_li5":"Master of Science (M.Sc.) in Mathematics",
+"subtitle3_table3_li6" :"Master of Science (M.Sc.) in Physics",
+"subtitle3_table3_li7":"Master of Science (M.Sc.) in Chemistry",
+
+
+"Academics_subtitle4":"Ph.d Programmes",
+"subtitle4_para":"Ph.D Programmes are offered by all the departments. For further details regarding Ph.D Programmes.",
+"Academics_subtitle5": "Important Links",
+"subtitle5_link1":"Guideline for educational verification of students by outside agencies",
+"subtitle5_link2":"Process and procedure to collect original degree from the Institute",
+"subtitle5_link3":"Process and procedure to collect Transcript from the Institute",
+
+"admissions_subtitle":"Admission Policy",
+"subtitle_para":"The Institute adopts the MHRD, Government of India guidelines for admission to all academic programmes of the Institute.",
+"course1":"UG",
+"course1_para":"The admission to the under graduate programmes is made on the performance in the class 12/equivalent qualifying examination and in the JEE (Main). The Joint Seat Allocation Authority (JoSAA) / Central Seat Allocation Board (CSAB) allocates the seats for Under Graduate Programmes through Common Counseling process.For general guidelines of B.Tech Admissions and documents required,",
+"course2":"M.Tech",
+"course2_para":"M. Tech. students are admitted on the basis of their GATE score & seat distribution according to Centralized Counselling for M.Tech./M.Arch./M.Plan. Admissions(CCMT). For Online Registration Form and other information of CCMT,",
+"course3":"M.Sc",
+"course3_para":"The admission to M.Sc. Programmes is based on JAM Score in the JAM examination and through Centralized Counseling for M.Sc. (CCMN).For admission procedure,",
+"course4":"MCA",
+"course4_para":"The admission to MCA Programme is based on NIT MCA Common Entrance Test (NIMCET) examination jointly conducted by NITs and through centralized common counseling. For Online Registration Form and other information of NIMCET ,",
+"course5":"PhD",
+"course5_para":"The admission to PhD programme is through direct notification given by the institute. The selection of the candidates are made on the basis of tests/interview conducted by the respective departments.For general guidelines of PhD Admissions and documents required,"
+
+}
+
