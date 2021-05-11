@@ -87,7 +87,144 @@
 "course4":"MCA",
 "course4_para":"The admission to MCA Programme is based on NIT MCA Common Entrance Test (NIMCET) examination jointly conducted by NITs and through centralized common counseling. For Online Registration Form and other information of NIMCET ,",
 "course5":"PhD",
-"course5_para":"The admission to PhD programme is through direct notification given by the institute. The selection of the candidates are made on the basis of tests/interview conducted by the respective departments.For general guidelines of PhD Admissions and documents required,"
+"course5_para":"The admission to PhD programme is through direct notification given by the institute. The selection of the candidates are made on the basis of tests/interview conducted by the respective departments.For general guidelines of PhD Admissions and documents required,",
 
+"people_title1":"People",
+   "people_title1_thead1":"Name",
+   "people_title1_thead2":"Post",
+   "people_title1_thead3":"Email",
+
+   "people_title1_tbody1_tr1":"Prof. Amaresh Kumar",
+   "people_title1_tbody1_tr2":"Dean(Academic)",
+   
+
+   "people_title1_tbody2_tr1":"Dr. Md Ashique Hassan",
+   "people_title1_tbody2_tr2":"Associate Dean(Academic)",
+   
+
+   "people_title1_tbody3_tr1":"Dr. Chintalacheruvu Madhusudana Rao",
+   "people_title1_tbody3_tr2":"Associate Dean(Academic: Recognition and Accreditation)",
+   
+   
+  "people_title2":"Academic Contacts",
+  "people_title2_thead1":"Post",
+  "people_title2_thead2":"Name",
+  "people_title2_thead3":"Contact",
+
+  "people_title2_tbody1_tr1":"Dean Academic",
+   "people_title2_tbody1_tr2":"Prof. Amaresh Kumar",
+    
+
+   "people_title2_tbody2_tr1":"Faculty In-Charge :Examination",
+   "people_title2_tbody2_tr2":"Dr. Satish Kumar",
+   
+
+   "people_title2_tbody3_tr1":"Associate Faculty In-Charge :Examination",
+   "people_title2_tbody3_tr2":"Dr. Snehasis Kundu",
+   
+
+   "people_title2_tbody4_tr1":"Faculty In-Charge :Admission",
+   "people_title2_tbody4_tr2":"Dr. Satish Kumar",
+   
+   "people_title2_tbody5_tr1":"Associate Faculty In-Charge :Admission",
+   "people_title2_tbody5_tr2":"Dr. Vipin Kumar",
+   
+
+   "people_title2_tbody6_tr1":"Associate Dean (Academic)",
+   "people_title2_tbody6_tr2":"Dr. Md Ashique Hassan",
+   
+
+   "people_title2_tbody7_tr1":"Assistant Dean (Academic) : Accreditation",
+   "people_title2_tbody7_tr2":"Dr. Ch. M. S. Rao",
+   
+
+   "people_title2_tbody8_tr1":"Deputy Registrar",
+   "people_title2_tbody8_tr2":"Dr. S. A. Hussain",
+   
+
+   "people_title2_tbody9_tr1":"Office Staff",
+   "people_title2_tbody9_tr2_1":"Sri Nand Kishore Jha (Fee Remission)",
+   "people_title2_tbody9_tr2_2":"Sri Tarun Kumar Kar (Examination)",
+   "people_title2_tbody9_tr2_3":"Sri Nand Lal Rajak (Registration)",
+   
+
+
+   "people_title2_tbody10_tr1":"Supporting Staff",
+   "people_title2_tbody10_tr2_1":"Sri Manoj Kumar Jha (Dispatch)",
+   "people_title2_tbody10_tr2_2":"Sri Shristidhar Mahto",
+   "people_title2_tbody10_tr2_3":"Sri Ruhi Manjhi",
+   "people_title2_tbody10_tr2_4":"Sri Sunil Kumar Gaur",
+
+
+"departments_title":"Departments",
+
+"img_civil":"Civil Engineering",
+"img_chem":"Chemistry",
+"img_computer":"Computer Application",
+"img_cse":"Computer Science and Engineering",
+"img_ece":"Electrical and Communication Engineering",
+"img_ee":"Electrical Engieering",
+"img_humanities":"Humanities, Social Sciences and Management",
+"img_maths":"Mathematics",
+"img_me":"Mechanical Engieering",
+"img_mme":"Metallurgical and Materials Engineering",
+"img_phy":"Physics",
+"img_pi":"Production and Industrial Engineering",
+  
+  
+ "curriculum_title":"First Years",
+ "curriculum_title_link":"Curriculum & Syllabus for all First year B.Tech Programme",
+
+
+ "student_statistics_title":"Student Statistics",
+
+ "student_statistics_para_pg": "The table here represents the number of intakes in each department for Post Graduate Programme.",
+
+"statistics_thead_tr1":"Batch",
+"statistics_thead1_tr2":"MCA",
+"statistics_thead1_tr3":"MTech",
+"statistics_thead1_tr4":"Ph.D",
+
+"student_statistics_para_ug": "Table here represents the number of intakes in each department for Under Graduate B.Tech Programme.",
+"statistics_thead2_tr1":"Batch",	
+
+ "Fee_title":"Fee Structure",
+
+"Fee_link1": "Fee Structure for 2014 and 2015 Batch - B.Tech (Hons) Programme",
+"Fee_link2":"Fee Structure for 2014 Batch DASA Students - B.Tech (Hons) Programme.",
+"Fee_link3":"Fee Structure for 2015 Batch DASA Students - B.Tech (Hons) Programme.",
+"Fee_link4":"Fee Structure for 2016 Batch - B.Tech (Hons) Programme.",
+"Fee_link5":"Fee Structure for 2016 Batch DASA Students - B.Tech (Hons) Programme.",
+"Fee_link6":"Fee Structure for 2017 Batch - B.Tech (Hons) Programme",
+"Fee_link7":"Fee Structure for 2017 Batch DASA Students - B.Tech (Hons) Programme",
+"Fee_link8":"Fee Structure for 2015 Batch Students - MCA Programme",
+"Fee_link9":"Fee Structure for 2016 and 2017 Batch Students - M.Tech and MCA Programme",
+"Fee_link10":"Fee Structure for 2017 Batch and all other students except 2017 Batch - M.Sc and Ph.D Programme",
+"Fee_link11": "Fee Structure for Academic Session 2019-20 at NIT Jamshedpur for various Programme",
+"Fee_clicklink":"Click Here to make Payment",
+"Fee_bottomlink":"Please take print out/PDF of the receipt of On-line Payment.",
+
+ "semester_schedule_title":"Master Time table for B.Tech Program.",
+
+ "schedule_1stsem":"First Semester",
+"schedule_2ndsem" :"Third Semester",
+
+
+ "ordinance_title":"Ordinance",
+  "ordinance_title_link1":"Undergraduate Programme",
+ "ordinance_title_link2": "Postgraduate Programme",
+  "ordinance_title_link3": "Ph.D Programme",
+
+  
+"academic_documents_title1":"Academic Calender",
+"academic_documents_title1_link":"Download Academic Calender 2020",
+
+"academic_documents_title2":"List of Holidays",
+"academic_documents_title2_link":"Download List of Holidays"
+
+
+
+   
+   
 }
 
