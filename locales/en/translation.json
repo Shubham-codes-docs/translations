@@ -1,4 +1,4 @@
-{
+{  
   "banner_head_title": "NATIONAL INSTITUTE OF TECHNOLOGY JAMSHEDPUR",
   "banner_head_lead": "We are leader in Education since 1960.",
   "vision_home_head": "Our Vision",
@@ -178,10 +178,91 @@
        "p-sanjay" : "Planning and Development",
       "card-namrata" : "Dr. Kumari Namrata",
        "p-namrata" : "Students Welfare",
+  
+   "assis-d-head" : "Assistant Deans",
+    "hod-page" :"Head of Departments",
+     "sel-dept" : "Select Departments",
+      "placehold" : "All departments",
+      "all-dept" : "All departments",
+      "cse" : "Computer Science and Engineering",
+      "ee" : "Electrical Engineering",
+      "ece" :"Electronics and Communication Enginneering",
+      "ce" : "Civil Engineering",
+      "me" : "Mechanical Engineering",
+      "mm" : "Metallurgy Engineering",
+      "pe" : "Production and Industrial Engineering",
+      "phy" : "Physics",
+      "math" : "Maths",
+      "human" : "Humanities",
+      "chem" : "Chemistry",
+      "mca" : "MCA",
+
+
+      "fic-head" : "Faculty InCharge",
+
+      "fac-head" : "Faculty", 
+      "ritik" : "Ritik Raj",
+      "ass-pro" : "Assistant Professor",
+      "teach-assis" : "Teaching Assistant",
+      "cs-short" : "CS",
+      "vivek" : "Vivek Sharma",
+      "kk" : "Koushalendra Kumar Singh",
+      "nir" : "Niranjan-Kumar",
+      "prof" : "Professor",
+      "ee-short" : "EE",
+      "nam" : "Kumari Namrata",
+      "asso-prof" : "Associate Professor",
+      "prashant" : "Prashant Kumar",
+      "ec-short" : "EC",
+      "vir" : "Virendra Kumar",
+      "ce-short" : "CE",
+      "name-comment" : " some names are given in deans-sec",
+      "me-short" : "ME",
+      "prabha" : "Prabha Chand",
+      "ram" : "Ram Vinoy Sharma",
+      "armes" : "Amaresh Kumar",
+      "subhas" : "Subhash Kumar",
+      "tushar" : "Tushar Banerjee",
+      "pi-short" : "PI",
+      "mandal" : "Tarni Mandal",
+      "ma" : "MA",
+      "abhis" : "Abhishek Kumar",
+
+
+      "warden-head" : "Wardens",
+      "c-ward" : "Cheif Warden",
+      "ass-ward"  :"Assistant Warden",
+      "a" : "Hostel-A",
+      "b" : "Hostel-B",
+      "c" : "Hostel-C",
+      "d" : "Hostel-D",
+      "e" : "Hostel-E",
+      "f" : "Hostel-F",
+      "g" : "Hostel-G",
+      "h" : "Hostel-H",
+      "i" : "Hostel-I",
+      "amb" : "Ambedkar",
+      "rlb" : "RLB",
+
+
+      "regis-head" : "Registrar Head",
+      "offi-head" : "Officers",
+      "staff-head" : "Staff",
+  
+  
+   "side-panel" : "contents of side panel" ,
+    "s-ho" : "Home",
+    "s-insti" : "Institute",
+    "s-aca" : "Academics",
+    "s-stud" : "Students",
+    "s-pep" : "People",
+    "s-recru" : "Recruitments",
+    "s-reser" : "Research & Development",
+    "s-ten" : "Tender",
+    "s-not" : "Notices",
+    "s-cel" : "Cells",
     
 "commenths2" : "above is himanshu's work" 
-
-
 
 
 
