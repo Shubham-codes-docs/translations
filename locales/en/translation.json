@@ -177,6 +177,19 @@
 "img_phy":"Physics",
 "img_pi":"Production and Industrial Engineering",
 
+"title_civil":"Civil Engineering",
+"title_chem":"Chemistry",
+"title_computer":"Computer Application",
+"title_cse":"Computer Science and Engineering",
+"title_ece":"Electrical and Communication Engineering",
+"title_ee":"Electrical Engieering",
+"title_humanities":"Humanities, Social Sciences and Management",
+"title_maths":"Mathematics",
+"title_me":"Mechanical Engieering",
+"title_mme":"Metallurgical and Materials Engineering",
+"title_phy":"Physics",
+"title_pi":"Production and Industrial Engineering",
+
 
 "civil_title1":"About",
 "civil_title1_para":"The Department of Civil Engineering of National Institute of Technology (formerly Regional Institute of Technology) Jamshedpur was started since the inception of the institute itself in 1960. This core department has sanctioned strength of 33 (thirty-three) faculty members with flexible faculty structure. The department is running UG course for B. Tech. (Hons) degree in Civil Engineering and PG courses as M. Tech. degree in the streams of Structural Engineering, Geotechnical Engineering and Water Resource Engineering as well as Ph. D. program in various streams of Civil Engineering. The department has well qualified and experienced faculty members. Apart from teaching and research, all faculty members are actively involved in administrative woks and other extracurricular activities for all round development of the Institute. Faculty members of the department are also undertaking design, testing & consultancy works for various organizations leading to resource generation for the Institute.",
@@ -184,21 +197,26 @@
 "civil_title2_para":"To become the best department for the research, academic and consultancy with the vigorous participation of faculty, research scholars and students and produce smart solutions with ethics and morals in the field of civil engineering for the benefit of society and industry.",
 "civil_title3":"Mission",
 "civil_title3_para":"To develop modern laboratories, centre of excellence and advanced computational facilities. To conduct research in all fields of civil engineering and interdisciplinary areas. To motivate research scholars and students towards best professional practices. To make graduating students exposed to industry and R & D organizations to get better opportunities. To offer educational programmes that imparts inventive knowledge with high levels of ethical and human values.",
-"civil_title4":"Faculty",
-"civil_title4button":"view All",
-"civil_title5":"Recent Researches",
 
-"civil_topleft_title":"Head of Department",
+"Faculty_title":"Faculty",
+
+"civil_Faculty_titlebutton":"view All",
+
+"Researches_title":"Recent Researches",
+
+"topleft_title":"Head of Department",
+
 "civil_topleft_title_name":"Dr. Rakesh Pratap Singh",
-"civil_topleft_title_contact":"contact",
-"civil_topleft_title_detail1":"Phone(HOD)",
-"civil_topleft_title_detail2":"Phone(HOD Office)",
-"civil_topleft_title_detail3":"Email",
-"civil_topleft_title_detail4":"Fax",
-"civil_topleft_title_detail5":"Address",
-"civil_topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
 
-"civil_topright_title":"Notices And Annoncements",
+"topleft_title_contact":"contact",
+"topleft_title_detail1":"Phone(HOD)",
+"topleft_title_detail2":"Phone(HOD Office)",
+"topleft_title_detail3":"Email",
+"topleft_title_detail4":"Fax",
+"topleft_title_detail5":"Address",
+"topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
+
+"topright_title":"Notices And Annoncements",
 
 "chem_title1":"About",
 "chem_title1_para":"Department of Chemistry, National Institute of Technology, Jamshedpur was originally founded as Regional Institute of Technology in 11260 with the aim of nurturing talent and setting high standards of education and excellence. The Department offers instruction in General Chemistry and Engineering Chemistry to the students in different branches of Engineering students at B.Tech level. The Department started Post Graduate Programme (M.Tech) in Surface Science and Engineering since 1982.The department is equipped with various instruments. Besides teaching, the highly qualified and energetic faculty members of the Department have contributed a lot to elevate the prestige of the institute through their research activities of both basic and applied areas of chemistry.",
@@ -206,41 +224,17 @@
 "chem_title2_para":"To create the Department of Chemistry as a centre of excellence in science and technology through enhanced collaboration between Industries and academia and serving the country. Building world class research facility to train young minds through extensive research curriculum. To provide a pool of bright scientists for advanced scientific endeavour of our country.",
 "chem_title3":"Mission",
 "chem_title3_para":"To provide good fundamental concept of Chemistry applied to the Engineering field. To introduce the importance of Chemistry in industry as well as in research field. To study the importance of chemicals, chemical reactions and physical phenomena, synthesis in higher study of Engineering.",
-"chem_title4":"Faculty",
-"chem_title4button":"view All",
-"chem_title5":"Recent Researches",
 
-"chem_topleft_title":"Head of Department",
+
+"chem_Faculty_titlebutton":"view All",
 "chem_topleft_title_name":"Dr. Balram Ambade",
-"chem_topleft_title_contact":"contact",
-"chem_topleft_title_detail1":"Phone(HOD)",
-"chem_topleft_title_detail2":"Phone(HOD Office)",
-"chem_topleft_title_detail3":"Email",
-"chem_topleft_title_detail4":"Fax",
-"chem_topleft_title_detail5":"Address",
-"chem_topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
-
-"chem_topright_title":"Notices And Annoncements",
 
 "ca_title1":"About",
 "ca_title1_para":"The Department of Computer Applications at the National Institute of Technology Jamshedpur, was formed in 1987. Since its inception, the department has always been recognized all over the country for its excellence. The Department has consistently produced quality professionals in the field of Computer & Network and strived for excellence in research and development. MIS of NIT Jamshedpur is managed by Department of Computer Applications.",
 
-
-"ca_title4":"Faculty",
-"ca_title4button":"view All",
-"ca_title5":"Recent Researches",
-
-"ca_topleft_title":"Head of Department",
+"ca_Faculty_titlebutton":"view All",
 "ca_topleft_title_name":"Prof. Dilip Kumar Yadav",
-"ca_topleft_title_contact":"contact",
-"ca_topleft_title_detail1":"Phone(HOD)",
-"ca_topleft_title_detail2":"Phone(HOD Office)",
-"ca_topleft_title_detail3":"Email",
-"ca_topleft_title_detail4":"Fax",
-"ca_topleft_title_detail5":"Address",
-"ca_topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
 
-"ca_topright_title":"Notices And Annoncements",
 
 "cse_title1":"About",
 "cse_title1_para":"The Department of Computer Science and Engineering at the National Institute of Technology Jamshedpur, was formed in 1992. Since its inception, the department has always been recognized all over the country for its excellence. The Department has consistently produced quality professionals in the field of Computer Science & Engineering and strived for excellence in research and development.",
@@ -248,21 +242,10 @@
 "cse_title2_para":"Producing high quality industry ready Computer engineers to cater to the needs of the society.",
 "cse_title3":"Mission",
 "cse_title3_para":"To train young minds and to equip them with the best possible technical knowledge to meet the current and future demands of the industry, academia & research. To create infrastructure, motivation and culture for the state of the art research work in the area of Computer Science & Information Technology.",
-"cse_title4":"Faculty",
-"cse_title4button":"view All",
-"cse_title5":"Recent Researches",
 
-"cse_topleft_title":"Head of Department",
+"cse_Faculty_titlebutton":"view All",
 "cse_topleft_title_name":"Dr. Sanjay Kumar",
-"cse_topleft_title_contact":"contact",
-"cse_topleft_title_detail1":"Phone(HOD)",
-"cse_topleft_title_detail2":"Phone(HOD Office)",
-"cse_topleft_title_detail3":"Email",
-"cse_topleft_title_detail4":"Fax",
-"cse_topleft_title_detail5":"Address",
-"cse_topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
 
-"cse_topright_title":"Notices And Annoncements",
 
 "ece_title1":"About",
 "ece_title1_para":"Department of Electronics and Communication Engineering was started in 1989. The department covers a host of subjects inclusive of Electronic Circuits, Microprocessor, Digital signal processing, Analog communication, Digital communication, Mobile communication, VLSI, Embedded systems, Instrumentation etc. The department has laboratories catering to all the subjects of studies. There are five research scholars working in different specializations under the groups of Communication Engineering, VLSI and Embedded systems, Signal Processing, Instrumentation and Soft computing. The Department has highly motivated faculty pool to cater our needs.",
@@ -270,21 +253,11 @@
 "ece_title2_para":"Global Knowledge Hub Excellence in technical and interdisciplinary domain Amalgam of research and entrepreneurship in pursuit of Make in India drive Beckoning pillar for digital India",
 "ece_title3":"Mission",
 "ece_title3_para":"Imparting total quality education to develop next generation professional scholar, fit for globally competitive environment. Value creation through economic, social, and environmental development using original ideas through discovery, inquiry, innovation, research, transformational scholarship, and creative activities. Dramatic increase in product oriented research for establishing a self-sustaining and wealth creating centre by involving the interaction between committed, diverse faculty, staff, students and community, to serve the societal needs of the State of Jharkhand, India and ultimately, the world.",
-"ece_title4":"Faculty",
-"ece_title4button":"view All",
-"ece_title5":"Recent Researches",
 
-"ece_topleft_title":"Head of Department",
+
+"ece_Faculty_titlebutton":"view All",
 "ece_topleft_title_name":"Prof. Shiva Nand Singh",
-"ece_topleft_title_contact":"contact",
-"ece_topleft_title_detail1":"Phone(HOD)",
-"ece_topleft_title_detail2":"Phone(HOD Office)",
-"ece_topleft_title_detail3":"Email",
-"ece_topleft_title_detail4":"Fax",
-"ece_topleft_title_detail5":"Address",
-"ece_topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
 
-"ece_topright_title":"Notices And Annoncements",
 
 "ee_title1":"About",
 "ee_title1_para":"The Department of Electrical Engineering was started in 1960. The Department has been consistently producing quality Electrical Engineers since its inception and is also involved in research and development activities. The alumni of the department are well placed in both public and private sectors. In addition to the UG program the department runs PG program in Power Systems and Ph.D. program in different areas of specialization.",
@@ -292,21 +265,10 @@
 "ee_title2_para":"To be a centre for imparting world class education in the field of electrical engineering and conduct extensive and quality research and to propel innovations for the betterment of society.",
 "ee_title3":"Mission",
 "ee_title3_para":"To train young minds and to equip them with the best possible technical knowledge to meet the current and future demands of the industry, to recognize education and research in close interaction with the industry and installing leadership qualities in young men and women who enter the portals of the institute with sensitivity for social development and with an eye for growth in international perspective.",
-"ee_title4":"Faculty",
-"ee_title4button":"view All",
-"ee_title5":"Recent Researches",
 
-"ee_topleft_title":"Head of Department",
+"ee_Faculty_titlebutton":"view All",
 "ee_topleft_title_name":"Prof. Rabindra Nath Mahanty",
-"ee_topleft_title_contact":"contact",
-"ee_topleft_title_detail1":"Phone(HOD)",
-"ee_topleft_title_detail2":"Phone(HOD Office)",
-"ee_topleft_title_detail3":"Email",
-"ee_topleft_title_detail4":"Fax",
-"ee_topleft_title_detail5":"Address",
-"ee_topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
 
-"ee_topright_title":"Notices And Annoncements",
 
 "humanities_title1":"About",
 "humanities_title1_para":"When the institute was established in 1960 as Regional Institute of Technology, the Department came into being as Humanities Department and was fashioned on the lines of the Department of Humanities and Social Sciences at IITs. The Department was engaged in the teaching of English, Philosophy, Psychology, Political Science and Economics to B.Sc. (Engg.) students. In 2014, the Department was upgraded to the Department of Humanities, Social Sciences and Management. The department is currently engaged in teaching English for Communication, Introduction to Soft Skills, Organizational Behaviour and Industrial Psychology, Industrial Economics and Accountancy, Management Information System courses to B Tech (Hons.) students and Technical Communication to M.Tech,Communication kills to M.Sc,Financial Management ,Drag Behaviour and Management to MCA and Electives(principles of eco entrepreneurship Development). The faculty members of the department are also training students in the area of oral and written communication skills for placement purposes. The department plans to start a two year full time, post graduate MBA programme in near future.",
@@ -314,44 +276,19 @@
 "humanities_title2_para":"To contribute to the emergence of NIT Jamshedpur as a world class institution, producing highly skilled engineers who are finest specimens of technology at its best merging aesthetics with human values and social responsibility to make this world a better place.",
 "humanities_title3":"Mission",
 "humanities_title3_para":"To contribute to the holistic development of the personality of the students so as to enable them to successfully meet their professional as well as societal challenges and to inculcate essential human values in them and also to make them sensitive to the concerns of environment.",
-"humanities_title4":"Faculty",
-"humanities_title4button":"view All",
-"humanities_title5":"Recent Researches",
 
-"humanities_topleft_title":"Head of Department",
+
+"humanities_Faculty_titlebutton":"view All",
 "humanities_topleft_title_name":"Dr. Rajiv Bhushan",
-"humanities_topleft_title_contact":"contact",
-"humanities_topleft_title_detail1":"Phone(HOD)",
-"humanities_topleft_title_detail2":"Phone(HOD Office)",
-"humanities_topleft_title_detail3":"Email",
-"humanities_topleft_title_detail4":"Fax",
-"humanities_topleft_title_detail5":"Address",
-"humanities_topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
-
-"humanities_topright_title":"Notices And Annoncements",
 
 
 "maths_title1":"About",
 "maths_title1_para":"Department of Mathematics was established since the inception of National Institute of Technology as Regional Institute of Technology, Jamshedpur in 1960. The Department provides an outstanding research environment complemented by excellent teaching for its students to flourish in different areas of academics and industry as well. The department has produced a good number of Ph.D students. The students of the department are well placed in leading Academic Institution, Research and Development organizations and Software industries like IIT’s, ONGC, IBM, WIPRO etc. Currently, Department has initiated M.Sc. Mathematics programme. Also, Department is planning to start new progammes like, 2-year M.Sc. in Applied Mathematics and 5-year Integrated M.Sc. programmes.",
-
-
 "maths_title3":"Mission",
 "maths_title3_para":"To provide sound fundamental of the subject. To focus on emerging area of Research fields. To link students with industries and Labs so that they visualize the real power of subject.",
-"maths_title4":"Faculty",
-"maths_title4button":"view All",
-"maths_title5":"Recent Researches",
 
-"maths_topleft_title":"Head of Department",
+"maths_Faculty_titlebutton":"view All",
 "maths_topleft_title_name":"Dr. Sunil Kumar",
-"maths_topleft_title_contact":"contact",
-"maths_topleft_title_detail1":"Phone(HOD)",
-"maths_topleft_title_detail2":"Phone(HOD Office)",
-"maths_topleft_title_detail3":"Email",
-"maths_topleft_title_detail4":"Fax",
-"maths_topleft_title_detail5":"Address",
-"maths_topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
-
-"maths_topright_title":"Notices And Annoncements",
 
 
 "me_title1":"About",
@@ -360,40 +297,17 @@
 "me_title2_para":"To be a centre for imparting world class education in the field of Mechanical Engineering and conduct extensive and quality research and to propel innovations for the betterment of society.",
 "me_title3":"Mission",
 "me_title3_para":"To train young minds and to equip them with the best possible technical knowledge to meet the current and future demands of the industry, academic & research. To create infrastructure, motivation and culture for the state of the art research work in the area of Mechanical Engineering. To enhance the research and teaching by interaction and development of relation with industry, R&D organization and academic institutions. To develop an energetic environment for excellence, creativity and perfection.",
-"me_title4":"Faculty",
-"me_title4button":"view All",
-"me_title5":"Recent Researches",
 
-"me_topleft_title":"Head of Department",
+
+"me_Faculty_titlebutton":"view All",
 "me_topleft_title_name":"Prof. Mani Kant Paswan",
-"me_topleft_title_contact":"contact",
-"me_topleft_title_detail1":"Phone(HOD)",
-"me_topleft_title_detail2":"Phone(HOD Office)",
-"me_topleft_title_detail3":"Email",
-"me_topleft_title_detail4":"Fax",
-"me_topleft_title_detail5":"Address",
-"me_topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
 
-"me_topright_title":"Notices And Annoncements",
 
 "mme_title1":"About",
 "mme_title1_para":"The Department of Metallurgical and Materials Engineering was amongst the four branches with which the institute was initially launched in 1960, with increasing focus on :Materials Technology Foundry Technology Iron & Steel Nanotechnology Mineral Benefaction and the R&D work being carried out in these fields in the metallurgical sector, Materials Engineering was included in the curriculum of the department in 1995.There are M.Tech course on Materials Technology & Foundry Technology.Current Research is going on:Physical Metallurgy Hydro Metallurgy Process Metallurgy Mineral Characterisation & Beneficiation",
 
-"mme_title4":"Faculty",
-"mme_title4button":"view All",
-"mme_title5":"Recent Researches",
-
-"mme_topleft_title":"Head of Department",
+"mme_Faculty_titlebutton":"view All",
 "mme_topleft_title_name":"Dr. Ashok Kumar",
-"mme_topleft_title_contact":"contact",
-"mme_topleft_title_detail1":"Phone(HOD)",
-"mme_topleft_title_detail2":"Phone(HOD Office)",
-"mme_topleft_title_detail3":"Email",
-"mme_topleft_title_detail4":"Fax",
-"mme_topleft_title_detail5":"Address",
-"mme_topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
-
-"mme_topright_title":"Notices And Annoncements",
 
 
 "phy_title1":"About",
@@ -402,21 +316,10 @@
 "phy_title2_para":"Quality education in physics and produce highly technically trained human resources of world class. Promote research and development in applied physics in the emerging and thrust areas and attainment of academic excellence. Provide greater understanding of the nature of physical science, an appreciation of physics in everyday life, and technical expertise. Excellence in technical and multidisciplinary domain.",
 "phy_title3":"Mission",
 "phy_title3_para":"To provide quality education, understanding in physics and development of experimental skills to produce well prepared graduates. To provide dynamic, forward looking and responsive to global technological development by imparting excellent technical education.",
-"phy_title4":"Faculty",
-"phy_title4button":"view All",
-"phy_title5":"Recent Researches",
 
-"phy_topleft_title":"Head of Department",
+"phy_Faculty_titlebutton":"view All",
 "phy_topleft_title_name":"Prof. Ujjwal Laha",
-"phy_topleft_title_contact":"contact",
-"phy_topleft_title_detail1":"Phone(HOD)",
-"phy_topleft_title_detail2":"Phone(HOD Office)",
-"phy_topleft_title_detail3":"Email",
-"phy_topleft_title_detail4":"Fax",
-"phy_topleft_title_detail5":"Address",
-"phy_topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
 
-"phy_topright_title":"Notices And Annoncements",
 
 "pi_title1":"About",
 "pi_title1_para":"The Department of Production & Industrial Engineering was started in year 1988 with the name of “Production Engineering & Management”. The name of this department was changed to Production & Industrial Engineering in the year 2007. The department was accredited by NBA in 2009. This core department has a sanctioned strength of 16 (Sixteen) faculty members with flexible faculty structure. Presently, there are 02 Professor, 03 Associate professors and 08 Assistant Professors. Every faculty member has received doctorate degree in different research areas. The department is running a UG course for B. Tech. (Hons.) degree in Production and industrial Engineering and a PG course in Manufacturing Systems Engineering as well as Ph. D. program in various streams of Production and Industrial Engineering. The Department is currently developing different engineering laboratories like CAD/CAM Lab., Advanced Manufacturing and Flexible manufacturing systems Lab., Non- Traditional Manufacturing lab, and Industrial Engineering & Ergonomics lab and Central workshop. Time to time curricula/syllabus is upgraded as per the market and technology requirement. The department has also proposed to start a new PG course in Production Management which will cater to the current industrial need.",
@@ -424,21 +327,10 @@
 "pi_title2_para":"To produce engineers and researchers with excellent technical knowledge, research acumen, leadership skills and ethical responsibility.",
 "pi_title3":"Mission",
 "pi_title3_para":"To educate B. Tech., M. Tech and Ph. D students with fundamental knowledge in concerned subjects, and to update them with the state-of-the-art in the field. To develop and maintain laboratories which cater to the needs of the students Quest for inter-disciplinary research. To promote academia-industry collaboration",
-"pi_title4":"Faculty",
-"pi_title4button":"view All",
-"pi_title5":"Recent Researches",
 
-"pi_topleft_title":"Head of Department",
+"pi_Faculty_titlebutton":"view All",
 "pi_topleft_title_name":"Dr. Shashi Bhushan Prasad",
-"pi_topleft_title_contact":"contact",
-"pi_topleft_title_detail1":"Phone(HOD)",
-"pi_topleft_title_detail2":"Phone(HOD Office)",
-"pi_topleft_title_detail3":"Email",
-"pi_topleft_title_detail4":"Fax",
-"pi_topleft_title_detail5":"Address",
-"pi_topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
 
-"pi_topright_title":"Notices And Annoncements",
 
 
  "curriculum_title":"First Years",
