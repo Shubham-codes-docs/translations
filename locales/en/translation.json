@@ -262,8 +262,393 @@
     "s-not" : "Notices",
     "s-cel" : "Cells",
     
-"commenths2" : "above is himanshu's work" 
+"commenths2" : "above is himanshu's work" ,
 
 
+"commenths3" : "below is pratibha's work",
+
+"title1":"Academics",
+"title2":"Admissions",
+"title3":"People",
+"title4":"Departments",
+"title5":"Curriculum",
+"title6":"Student Statistics",
+"title7":"Fee Structure",
+"title8":"Semester Schedule",
+"title9":"Ordinance",
+"title10":"Academic Documents",
+
+"li1":"Academics",
+"li2":"Admissions",
+"li3":"People",
+"li4":"Departments",
+"li5":"Curriculum",
+"li6":"Student Statistics",
+"li7":"Fee Structure",
+"li8":"Semester Schedule",
+"li9":"Ordinance",
+"li10":"Academic Documents",
+
+"academics_link":"Click Here",
+
+"Academics_subtitle1":"Academics",
+"subtitle1_para":"NIT Jamshedpur is a prestigious institute of higher learning producing meritorious students with excellent career growth and universal recognition. The students get the best of opportunities in the form of highly advanced courses and eminent faculty members.The institute is committed to academic excellence and good governance. NIT Jamshedpur was ranked overall 78th for 2015-16 among the best 100 engineering institutes in the country by the National Institutional Ranking Framework (NIRF) for higher education institutions approved by the Minister of Human Resources Development, Government of India. There are 12 departments with 7 Under-graduate(UG) programmes, 23 Post-graduate(PG) programmes and Ph.D. Programmes:",
+
+"Academics_subtitle2":"UG Programmes",
+"subtitle2_para":"Number of UG Programmes in our institute is 7",
+"subtitle2_table1_li1":"Mechanical Engineering",
+"subtitle2_table1_li2":"Electrical Engineering",
+"subtitle2_table1_li3" :"Metallurgical and Material Engineering",
+
+"subtitle2_table2_li1":"Production and Industrial Engineering",
+"subtitle2_table2_li2":"Electronics and Communication Engineering",
+"subtitle2_table2_li3":"Civil Engineering",
+
+"subtitle2_table3_li1":"Computer Science and Engineering",
+
+"Academics_subtitle3":"PG Programmes",
+"subtitle3_para":"Number of PG Programmes in our institute is 23",
+"subtitle3_table1_li1":"Computer Integrated Design and Manufacturing",
+"subtitle3_table1_li2":"Materials Technology",
+"subtitle3_table1_li3" :"Computer Science and Engineering",
+"subtitle3_table1_li4":"Foundry Technology",
+"subtitle3_table1_li5":"Industrial and Management Engineering",
+"subtitle3_table1_li6" :"Power System Engineering",
+"subtitle3_table1_li7":"Structural Engineering",
+"subtitle3_table1_li8" :"Surface Science and Engineering",
+
+
+"subtitle3_table2_li1":"Manufacturing Systems Engineering",
+"subtitle3_table2_li2":"Information Systems Security Engineering",
+"subtitle3_table2_li3":"Power Electronics and Drives",
+"subtitle3_table2_li4":"Geotechnical Engineering",
+"subtitle3_table2_li5":"Energy Systems Engineering",
+"subtitle3_table2_li6" :"Extractive Metallurgy",
+"subtitle3_table2_li7":"Iron and Steel Technology",
+"subtitle3_table2_li8" :"Computer Applications",
+
+"subtitle3_table3_li1":"Thermal and Fluid Engineering",
+"subtitle3_table3_li2":"Embedded Systems Engineering",
+"subtitle3_table3_li3":"Communication Systems Engineering",
+"subtitle3_table3_li4":"Water Resources Engineering",
+"subtitle3_table3_li5":"Master of Science (M.Sc.) in Mathematics",
+"subtitle3_table3_li6" :"Master of Science (M.Sc.) in Physics",
+"subtitle3_table3_li7":"Master of Science (M.Sc.) in Chemistry",
+
+
+"Academics_subtitle4":"Ph.d Programmes",
+"subtitle4_para":"Ph.D Programmes are offered by all the departments. For further details regarding Ph.D Programmes.",
+"Academics_subtitle5": "Important Links",
+"subtitle5_link1":"Guideline for educational verification of students by outside agencies",
+"subtitle5_link2":"Process and procedure to collect original degree from the Institute",
+"subtitle5_link3":"Process and procedure to collect Transcript from the Institute",
+
+"admissions_subtitle":"Admission Policy",
+"subtitle_para":"The Institute adopts the MHRD, Government of India guidelines for admission to all academic programmes of the Institute.",
+"course1":"UG",
+"course1_para":"The admission to the under graduate programmes is made on the performance in the class 12/equivalent qualifying examination and in the JEE (Main). The Joint Seat Allocation Authority (JoSAA) / Central Seat Allocation Board (CSAB) allocates the seats for Under Graduate Programmes through Common Counseling process.For general guidelines of B.Tech Admissions and documents required,",
+"course2":"M.Tech",
+"course2_para":"M. Tech. students are admitted on the basis of their GATE score & seat distribution according to Centralized Counselling for M.Tech./M.Arch./M.Plan. Admissions(CCMT). For Online Registration Form and other information of CCMT,",
+"course3":"M.Sc",
+"course3_para":"The admission to M.Sc. Programmes is based on JAM Score in the JAM examination and through Centralized Counseling for M.Sc. (CCMN).For admission procedure,",
+"course4":"MCA",
+"course4_para":"The admission to MCA Programme is based on NIT MCA Common Entrance Test (NIMCET) examination jointly conducted by NITs and through centralized common counseling. For Online Registration Form and other information of NIMCET ,",
+"course5":"PhD",
+"course5_para":"The admission to PhD programme is through direct notification given by the institute. The selection of the candidates are made on the basis of tests/interview conducted by the respective departments.For general guidelines of PhD Admissions and documents required,",
+
+"admission_link1":"Click Here",
+"admission_link2":"Click Here",
+"admission_link3":"Click Here",
+"admission_link4":"Click Here",
+"admission_link5":"Click Here",
+
+"people_title1":"People",
+   "people_title1_thead1":"Name",
+   "people_title1_thead2":"Post",
+   "people_title1_thead3":"Email",
+
+   "people_title1_tbody1_tr1":"Prof. Amaresh Kumar",
+   "people_title1_tbody1_tr2":"Dean(Academic)",
+   
+
+   "people_title1_tbody2_tr1":"Dr. Md Ashique Hassan",
+   "people_title1_tbody2_tr2":"Associate Dean(Academic)",
+   
+
+   "people_title1_tbody3_tr1":"Dr. Chintalacheruvu Madhusudana Rao",
+   "people_title1_tbody3_tr2":"Associate Dean(Academic: Recognition and Accreditation)",
+   
+   
+  "people_title2":"Academic Contacts",
+  "people_title2_thead1":"Post",
+  "people_title2_thead2":"Name",
+  "people_title2_thead3":"Contact",
+
+  "people_title2_tbody1_tr1":"Dean Academic",
+   "people_title2_tbody1_tr2":"Prof. Amaresh Kumar",
+    
+
+   "people_title2_tbody2_tr1":"Faculty In-Charge :Examination",
+   "people_title2_tbody2_tr2":"Dr. Satish Kumar",
+   
+
+   "people_title2_tbody3_tr1":"Associate Faculty In-Charge :Examination",
+   "people_title2_tbody3_tr2":"Dr. Snehasis Kundu",
+   
+
+   "people_title2_tbody4_tr1":"Faculty In-Charge :Admission",
+   "people_title2_tbody4_tr2":"Dr. Satish Kumar",
+   
+   "people_title2_tbody5_tr1":"Associate Faculty In-Charge :Admission",
+   "people_title2_tbody5_tr2":"Dr. Vipin Kumar",
+   
+
+   "people_title2_tbody6_tr1":"Associate Dean (Academic)",
+   "people_title2_tbody6_tr2":"Dr. Md Ashique Hassan",
+   
+
+   "people_title2_tbody7_tr1":"Assistant Dean (Academic) : Accreditation",
+   "people_title2_tbody7_tr2":"Dr. Ch. M. S. Rao",
+   
+
+   "people_title2_tbody8_tr1":"Deputy Registrar",
+   "people_title2_tbody8_tr2":"Dr. S. A. Hussain",
+   
+
+   "people_title2_tbody9_tr1":"Office Staff",
+   "people_title2_tbody9_tr2_1":"Sri Nand Kishore Jha (Fee Remission)",
+   "people_title2_tbody9_tr2_2":"Sri Tarun Kumar Kar (Examination)",
+   "people_title2_tbody9_tr2_3":"Sri Nand Lal Rajak (Registration)",
+   
+
+
+   "people_title2_tbody10_tr1":"Supporting Staff",
+   "people_title2_tbody10_tr2_1":"Sri Manoj Kumar Jha (Dispatch)",
+   "people_title2_tbody10_tr2_2":"Sri Shristidhar Mahto",
+   "people_title2_tbody10_tr2_3":"Sri Ruhi Manjhi",
+   "people_title2_tbody10_tr2_4":"Sri Sunil Kumar Gaur",
+
+
+"departments_title":"Departments",
+
+"img_civil":"Civil Engineering",
+"img_chem":"Chemistry",
+"img_computer":"Computer Application",
+"img_cse":"Computer Science and Engineering",
+"img_ece":"Electrical and Communication Engineering",
+"img_ee":"Electrical Engieering",
+"img_humanities":"Humanities, Social Sciences and Management",
+"img_maths":"Mathematics",
+"img_me":"Mechanical Engieering",
+"img_mme":"Metallurgical and Materials Engineering",
+"img_phy":"Physics",
+"img_pi":"Production and Industrial Engineering",
+
+"title_civil":"Civil Engineering",
+"title_chem":"Chemistry",
+"title_computer":"Computer Application",
+"title_cse":"Computer Science and Engineering",
+"title_ece":"Electrical and Communication Engineering",
+"title_ee":"Electrical Engieering",
+"title_humanities":"Humanities, Social Sciences and Management",
+"title_maths":"Mathematics",
+"title_me":"Mechanical Engieering",
+"title_mme":"Metallurgical and Materials Engineering",
+"title_phy":"Physics",
+"title_pi":"Production and Industrial Engineering",
+
+
+"civil_title1":"About",
+"civil_title1_para":"The Department of Civil Engineering of National Institute of Technology (formerly Regional Institute of Technology) Jamshedpur was started since the inception of the institute itself in 1960. This core department has sanctioned strength of 33 (thirty-three) faculty members with flexible faculty structure. The department is running UG course for B. Tech. (Hons) degree in Civil Engineering and PG courses as M. Tech. degree in the streams of Structural Engineering, Geotechnical Engineering and Water Resource Engineering as well as Ph. D. program in various streams of Civil Engineering. The department has well qualified and experienced faculty members. Apart from teaching and research, all faculty members are actively involved in administrative woks and other extracurricular activities for all round development of the Institute. Faculty members of the department are also undertaking design, testing & consultancy works for various organizations leading to resource generation for the Institute.",
+"civil_title2":"Vision",
+"civil_title2_para":"To become the best department for the research, academic and consultancy with the vigorous participation of faculty, research scholars and students and produce smart solutions with ethics and morals in the field of civil engineering for the benefit of society and industry.",
+"civil_title3":"Mission",
+"civil_title3_para":"To develop modern laboratories, centre of excellence and advanced computational facilities. To conduct research in all fields of civil engineering and interdisciplinary areas. To motivate research scholars and students towards best professional practices. To make graduating students exposed to industry and R & D organizations to get better opportunities. To offer educational programmes that imparts inventive knowledge with high levels of ethical and human values.",
+
+"Faculty_title":"Faculty",
+
+"civil_Faculty_titlebutton":"view All",
+
+"Researches_title":"Recent Researches",
+
+"topleft_title":"Head of Department",
+
+"civil_topleft_title_name":"Dr. Rakesh Pratap Singh",
+
+"topleft_title_contact":"contact",
+"topleft_title_detail1":"Phone(HOD)",
+"topleft_title_detail2":"Phone(HOD Office)",
+"topleft_title_detail3":"Email",
+"topleft_title_detail4":"Fax",
+"topleft_title_detail5":"Address",
+"topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",
+
+"topright_title":"Notices And Annoncements",
+
+"chem_title1":"About",
+"chem_title1_para":"Department of Chemistry, National Institute of Technology, Jamshedpur was originally founded as Regional Institute of Technology in 11260 with the aim of nurturing talent and setting high standards of education and excellence. The Department offers instruction in General Chemistry and Engineering Chemistry to the students in different branches of Engineering students at B.Tech level. The Department started Post Graduate Programme (M.Tech) in Surface Science and Engineering since 1982.The department is equipped with various instruments. Besides teaching, the highly qualified and energetic faculty members of the Department have contributed a lot to elevate the prestige of the institute through their research activities of both basic and applied areas of chemistry.",
+"chem_title2":"Vision",
+"chem_title2_para":"To create the Department of Chemistry as a centre of excellence in science and technology through enhanced collaboration between Industries and academia and serving the country. Building world class research facility to train young minds through extensive research curriculum. To provide a pool of bright scientists for advanced scientific endeavour of our country.",
+"chem_title3":"Mission",
+"chem_title3_para":"To provide good fundamental concept of Chemistry applied to the Engineering field. To introduce the importance of Chemistry in industry as well as in research field. To study the importance of chemicals, chemical reactions and physical phenomena, synthesis in higher study of Engineering.",
+
+
+"chem_Faculty_titlebutton":"view All",
+"chem_topleft_title_name":"Dr. Balram Ambade",
+
+"ca_title1":"About",
+"ca_title1_para":"The Department of Computer Applications at the National Institute of Technology Jamshedpur, was formed in 1987. Since its inception, the department has always been recognized all over the country for its excellence. The Department has consistently produced quality professionals in the field of Computer & Network and strived for excellence in research and development. MIS of NIT Jamshedpur is managed by Department of Computer Applications.",
+
+"ca_Faculty_titlebutton":"view All",
+"ca_topleft_title_name":"Prof. Dilip Kumar Yadav",
+
+
+"cse_title1":"About",
+"cse_title1_para":"The Department of Computer Science and Engineering at the National Institute of Technology Jamshedpur, was formed in 1992. Since its inception, the department has always been recognized all over the country for its excellence. The Department has consistently produced quality professionals in the field of Computer Science & Engineering and strived for excellence in research and development.",
+"cse_title2":"Vision",
+"cse_title2_para":"Producing high quality industry ready Computer engineers to cater to the needs of the society.",
+"cse_title3":"Mission",
+"cse_title3_para":"To train young minds and to equip them with the best possible technical knowledge to meet the current and future demands of the industry, academia & research. To create infrastructure, motivation and culture for the state of the art research work in the area of Computer Science & Information Technology.",
+
+"cse_Faculty_titlebutton":"view All",
+"cse_topleft_title_name":"Dr. Sanjay Kumar",
+
+
+"ece_title1":"About",
+"ece_title1_para":"Department of Electronics and Communication Engineering was started in 1989. The department covers a host of subjects inclusive of Electronic Circuits, Microprocessor, Digital signal processing, Analog communication, Digital communication, Mobile communication, VLSI, Embedded systems, Instrumentation etc. The department has laboratories catering to all the subjects of studies. There are five research scholars working in different specializations under the groups of Communication Engineering, VLSI and Embedded systems, Signal Processing, Instrumentation and Soft computing. The Department has highly motivated faculty pool to cater our needs.",
+"ece_title2":"Vision",
+"ece_title2_para":"Global Knowledge Hub Excellence in technical and interdisciplinary domain Amalgam of research and entrepreneurship in pursuit of Make in India drive Beckoning pillar for digital India",
+"ece_title3":"Mission",
+"ece_title3_para":"Imparting total quality education to develop next generation professional scholar, fit for globally competitive environment. Value creation through economic, social, and environmental development using original ideas through discovery, inquiry, innovation, research, transformational scholarship, and creative activities. Dramatic increase in product oriented research for establishing a self-sustaining and wealth creating centre by involving the interaction between committed, diverse faculty, staff, students and community, to serve the societal needs of the State of Jharkhand, India and ultimately, the world.",
+
+
+"ece_Faculty_titlebutton":"view All",
+"ece_topleft_title_name":"Prof. Shiva Nand Singh",
+
+
+"ee_title1":"About",
+"ee_title1_para":"The Department of Electrical Engineering was started in 1960. The Department has been consistently producing quality Electrical Engineers since its inception and is also involved in research and development activities. The alumni of the department are well placed in both public and private sectors. In addition to the UG program the department runs PG program in Power Systems and Ph.D. program in different areas of specialization.",
+"ee_title2":"Vision",
+"ee_title2_para":"To be a centre for imparting world class education in the field of electrical engineering and conduct extensive and quality research and to propel innovations for the betterment of society.",
+"ee_title3":"Mission",
+"ee_title3_para":"To train young minds and to equip them with the best possible technical knowledge to meet the current and future demands of the industry, to recognize education and research in close interaction with the industry and installing leadership qualities in young men and women who enter the portals of the institute with sensitivity for social development and with an eye for growth in international perspective.",
+
+"ee_Faculty_titlebutton":"view All",
+"ee_topleft_title_name":"Prof. Rabindra Nath Mahanty",
+
+
+"humanities_title1":"About",
+"humanities_title1_para":"When the institute was established in 1960 as Regional Institute of Technology, the Department came into being as Humanities Department and was fashioned on the lines of the Department of Humanities and Social Sciences at IITs. The Department was engaged in the teaching of English, Philosophy, Psychology, Political Science and Economics to B.Sc. (Engg.) students. In 2014, the Department was upgraded to the Department of Humanities, Social Sciences and Management. The department is currently engaged in teaching English for Communication, Introduction to Soft Skills, Organizational Behaviour and Industrial Psychology, Industrial Economics and Accountancy, Management Information System courses to B Tech (Hons.) students and Technical Communication to M.Tech,Communication kills to M.Sc,Financial Management ,Drag Behaviour and Management to MCA and Electives(principles of eco entrepreneurship Development). The faculty members of the department are also training students in the area of oral and written communication skills for placement purposes. The department plans to start a two year full time, post graduate MBA programme in near future.",
+"humanities_title2":"Vision",
+"humanities_title2_para":"To contribute to the emergence of NIT Jamshedpur as a world class institution, producing highly skilled engineers who are finest specimens of technology at its best merging aesthetics with human values and social responsibility to make this world a better place.",
+"humanities_title3":"Mission",
+"humanities_title3_para":"To contribute to the holistic development of the personality of the students so as to enable them to successfully meet their professional as well as societal challenges and to inculcate essential human values in them and also to make them sensitive to the concerns of environment.",
+
+
+"humanities_Faculty_titlebutton":"view All",
+"humanities_topleft_title_name":"Dr. Rajiv Bhushan",
+
+
+"maths_title1":"About",
+"maths_title1_para":"Department of Mathematics was established since the inception of National Institute of Technology as Regional Institute of Technology, Jamshedpur in 1960. The Department provides an outstanding research environment complemented by excellent teaching for its students to flourish in different areas of academics and industry as well. The department has produced a good number of Ph.D students. The students of the department are well placed in leading Academic Institution, Research and Development organizations and Software industries like IIT’s, ONGC, IBM, WIPRO etc. Currently, Department has initiated M.Sc. Mathematics programme. Also, Department is planning to start new progammes like, 2-year M.Sc. in Applied Mathematics and 5-year Integrated M.Sc. programmes.",
+"maths_title3":"Mission",
+"maths_title3_para":"To provide sound fundamental of the subject. To focus on emerging area of Research fields. To link students with industries and Labs so that they visualize the real power of subject.",
+
+"maths_Faculty_titlebutton":"view All",
+"maths_topleft_title_name":"Dr. Sunil Kumar",
+
+
+"me_title1":"About",
+"me_title1_para":"The Department of Mechanical Engineering is one of the oldest (started in 1960) and the largest department in terms of faculty, students and activities. The Department offers B.Tech (Hons.) in Mechanical Engineering, M.Tech in Computer Integrated Design & Manufacturing (CIDM), M.Tech in Thermal Engineering (TE) and M.Tech in Energy System (ES). Department is also running PhD Program in various research areas in the Mechanical Engineering. It also offers part time PhD program, mainly meant for those employed in industries and academic institutions. The department is having highly qualified and experienced faculty in all streams of Mechanical Engineering. An interactive relationship is maintained between the students and staff which enables the students to develop a sound foundation in the stream in a conduciven environment.",
+"me_title2":"Vision",
+"me_title2_para":"To be a centre for imparting world class education in the field of Mechanical Engineering and conduct extensive and quality research and to propel innovations for the betterment of society.",
+"me_title3":"Mission",
+"me_title3_para":"To train young minds and to equip them with the best possible technical knowledge to meet the current and future demands of the industry, academic & research. To create infrastructure, motivation and culture for the state of the art research work in the area of Mechanical Engineering. To enhance the research and teaching by interaction and development of relation with industry, R&D organization and academic institutions. To develop an energetic environment for excellence, creativity and perfection.",
+
+
+"me_Faculty_titlebutton":"view All",
+"me_topleft_title_name":"Prof. Mani Kant Paswan",
+
+
+"mme_title1":"About",
+"mme_title1_para":"The Department of Metallurgical and Materials Engineering was amongst the four branches with which the institute was initially launched in 1960, with increasing focus on :Materials Technology Foundry Technology Iron & Steel Nanotechnology Mineral Benefaction and the R&D work being carried out in these fields in the metallurgical sector, Materials Engineering was included in the curriculum of the department in 1995.There are M.Tech course on Materials Technology & Foundry Technology.Current Research is going on:Physical Metallurgy Hydro Metallurgy Process Metallurgy Mineral Characterisation & Beneficiation",
+
+"mme_Faculty_titlebutton":"view All",
+"mme_topleft_title_name":"Dr. Ashok Kumar",
+
+
+"phy_title1":"About",
+"phy_title1_para":"The Department of Physics at the National Institute of Technology, Jamshedpur, was formed in 1960. Since its inception, the department has been recognized all over the country for its excellence. The department has consistently produced quality professionals in the field of physics and strived for excellence in research and development. The Department has at present 9 faculty members including DST-Inspire Faculty and 11 research scholars engaged in doctoral research.The Department actively participates in front-line research in several major areas of Physics including Solar Energy, Nuclear scattering and Supersymmetry, Mathematical Physics, Holography and holographic optical element, Speckle Meterology, Condensed Matter Physics, Plasma Physics, Computational Physics and Spectroscopy.At present department offer 2 years Master of Science (Physics) Programme as well as a Ph.D. Programme with specialization in various major areas of Physics. The Department also participates in teaching Engineering Physics to B.Tech. (Hons.) students of all the disciplines namely- Civil Engineering, Computer Science and Engineering, Electrical and Electronics Engineering, Electronics and Communication Engineering, Production and Industrial Engineering, Mechanical Engineering and Metallurgical & Materials Engineering of the Institute. Our M.Sc. students are ranking good in national level competitive exams like CSIR-NET, GATE, JEST as well as in the INSPIRE Fellow scheme offered by the Department of Science and Technology (DST), India.",
+"phy_title2":"Vision",
+"phy_title2_para":"Quality education in physics and produce highly technically trained human resources of world class. Promote research and development in applied physics in the emerging and thrust areas and attainment of academic excellence. Provide greater understanding of the nature of physical science, an appreciation of physics in everyday life, and technical expertise. Excellence in technical and multidisciplinary domain.",
+"phy_title3":"Mission",
+"phy_title3_para":"To provide quality education, understanding in physics and development of experimental skills to produce well prepared graduates. To provide dynamic, forward looking and responsive to global technological development by imparting excellent technical education.",
+
+"phy_Faculty_titlebutton":"view All",
+"phy_topleft_title_name":"Prof. Ujjwal Laha",
+
+
+"pi_title1":"About",
+"pi_title1_para":"The Department of Production & Industrial Engineering was started in year 1988 with the name of “Production Engineering & Management”. The name of this department was changed to Production & Industrial Engineering in the year 2007. The department was accredited by NBA in 2009. This core department has a sanctioned strength of 16 (Sixteen) faculty members with flexible faculty structure. Presently, there are 02 Professor, 03 Associate professors and 08 Assistant Professors. Every faculty member has received doctorate degree in different research areas. The department is running a UG course for B. Tech. (Hons.) degree in Production and industrial Engineering and a PG course in Manufacturing Systems Engineering as well as Ph. D. program in various streams of Production and Industrial Engineering. The Department is currently developing different engineering laboratories like CAD/CAM Lab., Advanced Manufacturing and Flexible manufacturing systems Lab., Non- Traditional Manufacturing lab, and Industrial Engineering & Ergonomics lab and Central workshop. Time to time curricula/syllabus is upgraded as per the market and technology requirement. The department has also proposed to start a new PG course in Production Management which will cater to the current industrial need.",
+"pi_title2":"Vision",
+"pi_title2_para":"To produce engineers and researchers with excellent technical knowledge, research acumen, leadership skills and ethical responsibility.",
+"pi_title3":"Mission",
+"pi_title3_para":"To educate B. Tech., M. Tech and Ph. D students with fundamental knowledge in concerned subjects, and to update them with the state-of-the-art in the field. To develop and maintain laboratories which cater to the needs of the students Quest for inter-disciplinary research. To promote academia-industry collaboration",
+
+"pi_Faculty_titlebutton":"view All",
+"pi_topleft_title_name":"Dr. Shashi Bhushan Prasad",
+
+
+ "curriculum_title":"First Years",
+ "curriculum_title_link":"Curriculum & Syllabus for all First year B.Tech Programme",
+
+
+ "student_statistics_title":"Student Statistics",
+
+ "student_statistics_para_pg": "The table here represents the number of intakes in each department for Post Graduate Programme.",
+
+"statistics_thead_tr1":"Batch",
+"statistics_thead1_tr2":"MCA",
+"statistics_thead1_tr3":"MTech",
+"statistics_thead1_tr4":"Ph.D",
+
+"student_statistics_para_ug": "Table here represents the number of intakes in each department for Under Graduate B.Tech Programme.",
+"statistics_thead2_tr1":"Batch",	
+
+ "Fee_title":"Fee Structure",
+
+"Fee_link1": "Fee Structure for 2014 and 2015 Batch - B.Tech (Hons) Programme",
+"Fee_link2":"Fee Structure for 2014 Batch DASA Students - B.Tech (Hons) Programme.",
+"Fee_link3":"Fee Structure for 2015 Batch DASA Students - B.Tech (Hons) Programme.",
+"Fee_link4":"Fee Structure for 2016 Batch - B.Tech (Hons) Programme.",
+"Fee_link5":"Fee Structure for 2016 Batch DASA Students - B.Tech (Hons) Programme.",
+"Fee_link6":"Fee Structure for 2017 Batch - B.Tech (Hons) Programme",
+"Fee_link7":"Fee Structure for 2017 Batch DASA Students - B.Tech (Hons) Programme",
+"Fee_link8":"Fee Structure for 2015 Batch Students - MCA Programme",
+"Fee_link9":"Fee Structure for 2016 and 2017 Batch Students - M.Tech and MCA Programme",
+"Fee_link10":"Fee Structure for 2017 Batch and all other students except 2017 Batch - M.Sc and Ph.D Programme",
+"Fee_link11": "Fee Structure for Academic Session 2019-20 at NIT Jamshedpur for various Programme",
+"Fee_clicklink":"Click Here to make Payment",
+"Fee_bottomlink":"Please take print out/PDF of the receipt of On-line Payment.",
+
+ "semester_schedule_title":"Master Time table for B.Tech Program.",
+
+ "schedule_1stsem":"First Semester",
+"schedule_2ndsem" :"Third Semester",
+
+
+ "ordinance_title":"Ordinance",
+  "ordinance_title_link1":"Undergraduate Programme",
+ "ordinance_title_link2": "Postgraduate Programme",
+  "ordinance_title_link3": "Ph.D Programme",
+
+  
+"academic_documents_title1":"Academic Calender",
+"academic_documents_title1_link":"Download Academic Calender 2020",
+
+"academic_documents_title2":"List of Holidays",
+"academic_documents_title2_link":"Download List of Holidays"
+
+   
 
 }
