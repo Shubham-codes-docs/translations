@@ -1,0 +1,1221 @@
+[1mdiff --git a/locales/en/translation.json b/locales/en/translation.json[m
+[1mindex 688b7c1..54f72c6 100644[m
+[1m--- a/locales/en/translation.json[m
+[1m+++ b/locales/en/translation.json[m
+[36m@@ -1,269 +1,387 @@[m
+[31m-{  [m
+[31m-  "banner_head_title": "NATIONAL INSTITUTE OF TECHNOLOGY JAMSHEDPUR",[m
+[31m-  "banner_head_lead": "We are leader in Education since 1960.",[m
+[31m-  "vision_home_head": "Our Vision",[m
+[31m-  "vision_home": "To be one of the premier technical institutions for its academic excellence and innovative research to meet the future needs of the society.",[m
+[32m+[m[32m{[m
+[32m+[m
+[32m+[m[32m"title1":"Academics",[m
+[32m+[m[32m"title2":"Admissions",[m
+[32m+[m[32m"title3":"People",[m
+[32m+[m[32m"title4":"Departments",[m
+[32m+[m[32m"title5":"Curriculum",[m
+[32m+[m[32m"title6":"Student Statistics",[m
+[32m+[m[32m"title7":"Fee Structure",[m
+[32m+[m[32m"title8":"Semester Schedule",[m
+[32m+[m[32m"title9":"Ordinance",[m
+[32m+[m[32m"title10":"Academic Documents",[m
+[32m+[m
+[32m+[m[32m"li1":"Academics",[m
+[32m+[m[32m"li2":"Admissions",[m
+[32m+[m[32m"li3":"People",[m
+[32m+[m[32m"li4":"Departments",[m
+[32m+[m[32m"li5":"Curriculum",[m
+[32m+[m[32m"li6":"Student Statistics",[m
+[32m+[m[32m"li7":"Fee Structure",[m
+[32m+[m[32m"li8":"Semester Schedule",[m
+[32m+[m[32m"li9":"Ordinance",[m
+[32m+[m[32m"li10":"Academic Documents",[m
+[32m+[m
+[32m+[m[32m"academics_link":"Click Here",[m
+[32m+[m
+[32m+[m[32m"Academics_subtitle1":"Academics",[m
+[32m+[m[32m"subtitle1_para":"NIT Jamshedpur is a prestigious institute of higher learning producing meritorious students with excellent career growth and universal recognition. The students get the best of opportunities in the form of highly advanced courses and eminent faculty members.The institute is committed to academic excellence and good governance. NIT Jamshedpur was ranked overall 78th for 2015-16 among the best 100 engineering institutes in the country by the National Institutional Ranking Framework (NIRF) for higher education institutions approved by the Minister of Human Resources Development, Government of India. There are 12 departments with 7 Under-graduate(UG) programmes, 23 Post-graduate(PG) programmes and Ph.D. Programmes:",[m
+[32m+[m
+[32m+[m[32m"Academics_subtitle2":"UG Programmes",[m
+[32m+[m[32m"subtitle2_para":"Number of UG Programmes in our institute is 7",[m
+[32m+[m[32m"subtitle2_table1_li1":"Mechanical Engineering",[m
+[32m+[m[32m"subtitle2_table1_li2":"Electrical Engineering",[m
+[32m+[m[32m"subtitle2_table1_li3" :"Metallurgical and Material Engineering",[m
+[32m+[m
+[32m+[m[32m"subtitle2_table2_li1":"Production and Industrial Engineering",[m
+[32m+[m[32m"subtitle2_table2_li2":"Electronics and Communication Engineering",[m
+[32m+[m[32m"subtitle2_table2_li3":"Civil Engineering",[m
+[32m+[m
+[32m+[m[32m"subtitle2_table3_li1":"Computer Science and Engineering",[m
+[32m+[m
+[32m+[m[32m"Academics_subtitle3":"PG Programmes",[m
+[32m+[m[32m"subtitle3_para":"Number of PG Programmes in our institute is 23",[m
+[32m+[m[32m"subtitle3_table1_li1":"Computer Integrated Design and Manufacturing",[m
+[32m+[m[32m"subtitle3_table1_li2":"Materials Technology",[m
+[32m+[m[32m"subtitle3_table1_li3" :"Computer Science and Engineering",[m
+[32m+[m[32m"subtitle3_table1_li4":"Foundry Technology",[m
+[32m+[m[32m"subtitle3_table1_li5":"Industrial and Management Engineering",[m
+[32m+[m[32m"subtitle3_table1_li6" :"Power System Engineering",[m
+[32m+[m[32m"subtitle3_table1_li7":"Structural Engineering",[m
+[32m+[m[32m"subtitle3_table1_li8" :"Surface Science and Engineering",[m
+[32m+[m
+[32m+[m
+[32m+[m[32m"subtitle3_table2_li1":"Manufacturing Systems Engineering",[m
+[32m+[m[32m"subtitle3_table2_li2":"Information Systems Security Engineering",[m
+[32m+[m[32m"subtitle3_table2_li3":"Power Electronics and Drives",[m
+[32m+[m[32m"subtitle3_table2_li4":"Geotechnical Engineering",[m
+[32m+[m[32m"subtitle3_table2_li5":"Energy Systems Engineering",[m
+[32m+[m[32m"subtitle3_table2_li6" :"Extractive Metallurgy",[m
+[32m+[m[32m"subtitle3_table2_li7":"Iron and Steel Technology",[m
+[32m+[m[32m"subtitle3_table2_li8" :"Computer Applications",[m
+[32m+[m
+[32m+[m[32m"subtitle3_table3_li1":"Thermal and Fluid Engineering",[m
+[32m+[m[32m"subtitle3_table3_li2":"Embedded Systems Engineering",[m
+[32m+[m[32m"subtitle3_table3_li3":"Communication Systems Engineering",[m
+[32m+[m[32m"subtitle3_table3_li4":"Water Resources Engineering",[m
+[32m+[m[32m"subtitle3_table3_li5":"Master of Science (M.Sc.) in Mathematics",[m
+[32m+[m[32m"subtitle3_table3_li6" :"Master of Science (M.Sc.) in Physics",[m
+[32m+[m[32m"subtitle3_table3_li7":"Master of Science (M.Sc.) in Chemistry",[m
+[32m+[m
+[32m+[m
+[32m+[m[32m"Academics_subtitle4":"Ph.d Programmes",[m
+[32m+[m[32m"subtitle4_para":"Ph.D Programmes are offered by all the departments. For further details regarding Ph.D Programmes.",[m
+[32m+[m[32m"Academics_subtitle5": "Important Links",[m
+[32m+[m[32m"subtitle5_link1":"Guideline for educational verification of students by outside agencies",[m
+[32m+[m[32m"subtitle5_link2":"Process and procedure to collect original degree from the Institute",[m
+[32m+[m[32m"subtitle5_link3":"Process and procedure to collect Transcript from the Institute",[m
+[32m+[m
+[32m+[m[32m"admissions_subtitle":"Admission Policy",[m
+[32m+[m[32m"subtitle_para":"The Institute adopts the MHRD, Government of India guidelines for admission to all academic programmes of the Institute.",[m
+[32m+[m[32m"course1":"UG",[m
+[32m+[m[32m"course1_para":"The admission to the under graduate programmes is made on the performance in the class 12/equivalent qualifying examination and in the JEE (Main). The Joint Seat Allocation Authority (JoSAA) / Central Seat Allocation Board (CSAB) allocates the seats for Under Graduate Programmes through Common Counseling process.For general guidelines of B.Tech Admissions and documents required,",[m
+[32m+[m[32m"course2":"M.Tech",[m
+[32m+[m[32m"course2_para":"M. Tech. students are admitted on the basis of their GATE score & seat distribution according to Centralized Counselling for M.Tech./M.Arch./M.Plan. Admissions(CCMT). For Online Registration Form and other information of CCMT,",[m
+[32m+[m[32m"course3":"M.Sc",[m
+[32m+[m[32m"course3_para":"The admission to M.Sc. Programmes is based on JAM Score in the JAM examination and through Centralized Counseling for M.Sc. (CCMN).For admission procedure,",[m
+[32m+[m[32m"course4":"MCA",[m
+[32m+[m[32m"course4_para":"The admission to MCA Programme is based on NIT MCA Common Entrance Test (NIMCET) examination jointly conducted by NITs and through centralized common counseling. For Online Registration Form and other information of NIMCET ,",[m
+[32m+[m[32m"course5":"PhD",[m
+[32m+[m[32m"course5_para":"The admission to PhD programme is through direct notification given by the institute. The selection of the candidates are made on the basis of tests/interview conducted by the respective departments.For general guidelines of PhD Admissions and documents required,",[m
+[32m+[m
+[32m+[m[32m"admission_link1":"Click Here",[m
+[32m+[m[32m"admission_link2":"Click Here",[m
+[32m+[m[32m"admission_link3":"Click Here",[m
+[32m+[m[32m"admission_link4":"Click Here",[m
+[32m+[m[32m"admission_link5":"Click Here",[m
+[32m+[m
+[32m+[m[32m"people_title1":"People",[m
+[32m+[m[32m   "people_title1_thead1":"Name",[m
+[32m+[m[32m   "people_title1_thead2":"Post",[m
+[32m+[m[32m   "people_title1_thead3":"Email",[m
+[32m+[m
+[32m+[m[32m   "people_title1_tbody1_tr1":"Prof. Amaresh Kumar",[m
+[32m+[m[32m   "people_title1_tbody1_tr2":"Dean(Academic)",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title1_tbody2_tr1":"Dr. Md Ashique Hassan",[m
+[32m+[m[32m   "people_title1_tbody2_tr2":"Associate Dean(Academic)",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title1_tbody3_tr1":"Dr. Chintalacheruvu Madhusudana Rao",[m
+[32m+[m[32m   "people_title1_tbody3_tr2":"Associate Dean(Academic: Recognition and Accreditation)",[m
+[32m+[m[41m   [m
+[32m+[m[41m   [m
+[32m+[m[32m  "people_title2":"Academic Contacts",[m
+[32m+[m[32m  "people_title2_thead1":"Post",[m
+[32m+[m[32m  "people_title2_thead2":"Name",[m
+[32m+[m[32m  "people_title2_thead3":"Contact",[m
+[32m+[m
+[32m+[m[32m  "people_title2_tbody1_tr1":"Dean Academic",[m
+[32m+[m[32m   "people_title2_tbody1_tr2":"Prof. Amaresh Kumar",[m
+[32m+[m[41m    [m
+ [m
+[32m+[m[32m   "people_title2_tbody2_tr1":"Faculty In-Charge :Examination",[m
+[32m+[m[32m   "people_title2_tbody2_tr2":"Dr. Satish Kumar",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title2_tbody3_tr1":"Associate Faculty In-Charge :Examination",[m
+[32m+[m[32m   "people_title2_tbody3_tr2":"Dr. Snehasis Kundu",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title2_tbody4_tr1":"Faculty In-Charge :Admission",[m
+[32m+[m[32m   "people_title2_tbody4_tr2":"Dr. Satish Kumar",[m
+[32m+[m[41m   [m
+[32m+[m[32m   "people_title2_tbody5_tr1":"Associate Faculty In-Charge :Admission",[m
+[32m+[m[32m   "people_title2_tbody5_tr2":"Dr. Vipin Kumar",[m
+[32m+[m[41m   [m
+ [m
+[32m+[m[32m   "people_title2_tbody6_tr1":"Associate Dean (Academic)",[m
+[32m+[m[32m   "people_title2_tbody6_tr2":"Dr. Md Ashique Hassan",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title2_tbody7_tr1":"Assistant Dean (Academic) : Accreditation",[m
+[32m+[m[32m   "people_title2_tbody7_tr2":"Dr. Ch. M. S. Rao",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title2_tbody8_tr1":"Deputy Registrar",[m
+[32m+[m[32m   "people_title2_tbody8_tr2":"Dr. S. A. Hussain",[m
+[32m+[m[41m   [m
+ [m
+[32m+[m[32m   "people_title2_tbody9_tr1":"Office Staff",[m
+[32m+[m[32m   "people_title2_tbody9_tr2_1":"Sri Nand Kishore Jha (Fee Remission)",[m
+[32m+[m[32m   "people_title2_tbody9_tr2_2":"Sri Tarun Kumar Kar (Examination)",[m
+[32m+[m[32m   "people_title2_tbody9_tr2_3":"Sri Nand Lal Rajak (Registration)",[m
+[32m+[m[41m   [m
+ [m
+[31m-"commentsk": "below is Shashank's Work"[m
+ [m
+[31m-,"about_nitjsr":"About NITJSR"[m
+[31m-,"heading_institute": "Institute"[m
+[31m-,"head_about_nitjsr":"About NITJSR"[m
+[31m-,"head_vision":"Vision And Mission"[m
+[31m-,"head_acts":"Acts And Statues"[m
+[31m-,"head_board_of_governers":"Board Of Governers"[m
+[31m-,"head_finance_committee":"Finance Committee"[m
+[31m-,"head_building_and_work":"Buildings And Works Committee"[m
+[31m-,"head_senate":"Senate"[m
+[31m-,"head_ranking_and_recognition":"Ranking And Recognition"[m
+[32m+[m[32m   "people_title2_tbody10_tr1":"Supporting Staff",[m
+[32m+[m[32m   "people_title2_tbody10_tr2_1":"Sri Manoj Kumar Jha (Dispatch)",[m
+[32m+[m[32m   "people_title2_tbody10_tr2_2":"Sri Shristidhar Mahto",[m
+[32m+[m[32m   "people_title2_tbody10_tr2_3":"Sri Ruhi Manjhi",[m
+[32m+[m[32m   "people_title2_tbody10_tr2_4":"Sri Sunil Kumar Gaur",[m
+ [m
+ [m
+[32m+[m[32m"departments_title":"Departments",[m
+ [m
+[32m+[m[32m"img_civil":"Civil Engineering",[m
+[32m+[m[32m"img_chem":"Chemistry",[m
+[32m+[m[32m"img_computer":"Computer Application",[m
+[32m+[m[32m"img_cse":"Computer Science and Engineering",[m
+[32m+[m[32m"img_ece":"Electrical and Communication Engineering",[m
+[32m+[m[32m"img_ee":"Electrical Engieering",[m
+[32m+[m[32m"img_humanities":"Humanities, Social Sciences and Management",[m
+[32m+[m[32m"img_maths":"Mathematics",[m
+[32m+[m[32m"img_me":"Mechanical Engieering",[m
+[32m+[m[32m"img_mme":"Metallurgical and Materials Engineering",[m
+[32m+[m[32m"img_phy":"Physics",[m
+[32m+[m[32m"img_pi":"Production and Industrial Engineering",[m
+ [m
+[32m+[m[32m"title_civil":"Civil Engineering",[m
+[32m+[m[32m"title_chem":"Chemistry",[m
+[32m+[m[32m"title_computer":"Computer Application",[m
+[32m+[m[32m"title_cse":"Computer Science and Engineering",[m
+[32m+[m[32m"title_ece":"Electrical and Communication Engineering",[m
+[32m+[m[32m"title_ee":"Electrical Engieering",[m
+[32m+[m[32m"title_humanities":"Humanities, Social Sciences and Management",[m
+[32m+[m[32m"title_maths":"Mathematics",[m
+[32m+[m[32m"title_me":"Mechanical Engieering",[m
+[32m+[m[32m"title_mme":"Metallurgical and Materials Engineering",[m
+[32m+[m[32m"title_phy":"Physics",[m
+[32m+[m[32m"title_pi":"Production and Industrial Engineering",[m
+ [m
+[31m-,"heading_about_us":"About Us"[m
+[31m-,"about_us_para":"National Institute of Technology, Jamshedpur,earlier known as Regional Institute of Technology was established on 15th August 1960 as a joint venture of Government of India and the Government of Bihar in the chain of REC's (Regional Engineering College) in India with the aim to generate technical graduates of highest standards who could provide technological leadership to the region. It was among the first eight Regional Engineering Colleges (RECs) established as part of the Second Five-Year Plan (1956 - 1961). This was the only REC in the country which was named as RIT (Regional Institute of Technology). Therefore RIT Jamshedpur was actually the REC of undivided Bihar & Jharkhand. The foundation stone of RIT (REC) Jamshedpur was laid by Dr. Srikrishna Sinha, the then chief minister of Bihar , with the aim of nurturing talent and setting high standards of education and excellence. On 27th December 2002, in the line of all other RECs of India, RIT Jamshedpur (may be read as REC Jamshedpur too) was converted to National Institute of Technology, Jamshedpur with the status of a Deemed University as per the decision of Govt. of India. The Institute is fully funded and governed by the Ministry of Human Resource Development (MHRD), Government of India since 1st April, 2003. On 15 August 2007, NIT Jamshedpur was given the status of the Institute of National Importance through an Act of the Parliament known as the NIT Act. The Institute has 12 departments including engineering, science and humanities. The Institute, with 200 faculty, 4000 students, 150 administrative and supporting staff, is a self-contained campus. It is located on the outskirts of Jamshedpur on 341.3 acres of sprawling, rolling hilly, wooded land. It combines natural beauty of countryside with urban glamour of an industrial area. The flowing river and picturesque backdrop of low hills on one side and large tracks of forest on the other make the campus an ideal place for higher learning and research. It has been growing from strength to strength ever since it was established in 1960. Situated in the heart of the rich mineral and industrial belt of Jharkhand State, the campus encompasses the Main building, the Library, the Computer Center, 13 hostels (9 Boys hostels and 4 Girls hostels), staff quarters, Guest House, a Students Gymkhana, a Post-office , a branch of State Bank of India, two ATMs, central store and a dispensary. The hostels and departments are connected with high speed wireless LAN. The institute maintains courts for basketball, volleyball, badminton and tennis. Apart from this, it also has cricket, hockey and football grounds. The institute is poised for bright and promising future. The courses have been completely restructured and prepared as per the needs of society and industries. There is refreshing development on every front. The institute has achieved impressive placement for its students, with top industrial houses and software companies recruiting the students in large numbers."[m
+[31m-,"head_location":"Location"[m
+[31m-,"location_para":"NIT Jamshedpur is situated in the western part of the city Jamshedpur , which is in the southern end of the state of Jharkhand and is bordered by the states of Orissa and West Bengal. It is just far enough to ensure that the city with its noise is too distant to distract and just near enough to guarantee that all city facilities are immediately available. The institute is strategically located with the unique advantage of being surrounded by giant and medium scale industries like Tata-Steel, Telco, Indian Steel Wire Products, Tata Tubes, Tinplate Company, Tata Timken etc. and reputed Institutes like the National Metallurgical Laboratory, Xavier Labour Relations Institute and National Institute of Foundry and Forge Technology, Ranchi.Click here to view how to reach here."[m
+[31m-,"head_history":"History"[m
+[31m-,"history_para":"NIT, Jamshedpur was formally inaugurated on 15th August 1960 at Adityapur, Jamshedpur by Dr. Srikrishna Sinha, the then and also the first Chief Minister of Bihar and the first Chairman of the Board of Governors of RIT, Jamshedpur. His eloquent speech highlighted the dreams and aspirations to be nurtured by the institute to achieve excellence in higher technical education, research and development. This inaugural address was termed 'the first lecture' in Humanities by the founder Principal Dr. R. P. Verma. It is noteworthy that both the founder Chairman and the founder Principal happened to be freedom fighters. Their nationalistic fervour and passion for progress set the college moving on the right path towards technological development. The historical day at RIT, Jamshedpur was 27th December, 2002 when it was formally upgraded to National Institute of Technology, Jamshedpur with the Deemed University status. R.I.T., Jamshedpur started off by offering undergraduate courses in four branches (viz Civil, Electrical, Mechanical and Metallurgy) of Engineering in 1960. The institute also offers M.Tech, Ph. D., Non-Formal B. Sc. Engineering Programme and MCA programmes."[m
+ [m
+[32m+[m[32m"civil_title1":"About",[m
+[32m+[m[32m"civil_title1_para":"The Department of Civil Engineering of National Institute of Technology (formerly Regional Institute of Technology) Jamshedpur was started since the inception of the institute itself in 1960. This core department has sanctioned strength of 33 (thirty-three) faculty members with flexible faculty structure. The department is running UG course for B. Tech. (Hons) degree in Civil Engineering and PG courses as M. Tech. degree in the streams of Structural Engineering, Geotechnical Engineering and Water Resource Engineering as well as Ph. D. program in various streams of Civil Engineering. The department has well qualified and experienced faculty members. Apart from teaching and research, all faculty members are actively involved in administrative woks and other extracurricular activities for all round development of the Institute. Faculty members of the department are also undertaking design, testing & consultancy works for various organizations leading to resource generation for the Institute.",[m
+[32m+[m[32m"civil_title2":"Vision",[m
+[32m+[m[32m"civil_title2_para":"To become the best department for the research, academic and consultancy with the vigorous participation of faculty, research scholars and students and produce smart solutions with ethics and morals in the field of civil engineering for the benefit of society and industry.",[m
+[32m+[m[32m"civil_title3":"Mission",[m
+[32m+[m[32m"civil_title3_para":"To develop modern laboratories, centre of excellence and advanced computational facilities. To conduct research in all fields of civil engineering and interdisciplinary areas. To motivate research scholars and students towards best professional practices. To make graduating students exposed to industry and R & D organizations to get better opportunities. To offer educational programmes that imparts inventive knowledge with high levels of ethical and human values.",[m
+ [m
+[31m-,"heading_our_vision":"Our Vission"[m
+[31m-,"our_vision_para":"To be one of the premier technical institutions for its academic excellence and innovative research to meet the future needs of the society."[m
+[31m-,"heading_our_mission":"Our Mission"[m
+[31m-,"our_mission_para":"To build conducive environment for learning and creativity. To train students to become technically competent professionals and socially responsible citizens. To develop innovative products and technologies for the betterment of the society."[m
+[32m+[m[32m"Faculty_title":"Faculty",[m
+ [m
+[32m+[m[32m"civil_Faculty_titlebutton":"view All",[m
+ [m
+[31m-,"heading_acts_and_statues":"Acts and Statues"[m
+[32m+[m[32m"Researches_title":"Recent Researches",[m
+ [m
+[32m+[m[32m"topleft_title":"Head of Department",[m
+ [m
+[31m-,"heading_board_of_members":"Members"[m
+[31m-,"head_ex_chairman":"Ex-Officio Chairman"[m
+[31m-,"subhead_ex_chairman":"Prof. Karunesh Kumar Shukla(Director)"[m
+[31m-,"ex_chairman_details":"Director, National Institute of technology Jamshedpur"[m
+[32m+[m[32m"civil_topleft_title_name":"Dr. Rakesh Pratap Singh",[m
+ [m
+[31m-,"head_senate_nominee":"Senate Nominee"[m
+[31m-,"subhead_senate_nominee":"Prof. A.K.L.Srivastava  &  Dr. Uday Kumar"[m
+[32m+[m[32m"topleft_title_contact":"contact",[m
+[32m+[m[32m"topleft_title_detail1":"Phone(HOD)",[m
+[32m+[m[32m"topleft_title_detail2":"Phone(HOD Office)",[m
+[32m+[m[32m"topleft_title_detail3":"Email",[m
+[32m+[m[32m"topleft_title_detail4":"Fax",[m
+[32m+[m[32m"topleft_title_detail5":"Address",[m
+[32m+[m[32m"topleft_title_detail5_address":"P.O.RIT,Jamshedpur, Jharkhand,India- 831014",[m
+ [m
+[31m-,"head_NIT_Council_Nominee":"NIT Council Nominee"[m
+[31m-,"subhead_NIT_Council_Nominee":"Dr. Savita Mishra"[m
+[32m+[m[32m"topright_title":"Notices And Annoncements",[m
+ [m
+[31m-,"head_NIT_Council_Member":"NIT Council Member"[m
+[31m-,"subhead_NIT_Council_Member":"Mr. Bhanu Prakash Jalan"[m
+[32m+[m[32m"chem_title1":"About",[m
+[32m+[m[32m"chem_title1_para":"Department of Chemistry, National Institute of Technology, Jamshedpur was originally founded as Regional Institute of Technology in 11260 with the aim of nurturing talent and setting high standards of education and excellence. The Department offers instruction in General Chemistry and Engineering Chemistry to the students in different branches of Engineering students at B.Tech level. The Department started Post Graduate Programme (M.Tech) in Surface Science and Engineering since 1982.The department is equipped with various instruments. Besides teaching, the highly qualified and energetic faculty members of the Department have contributed a lot to elevate the prestige of the institute through their research activities of both basic and applied areas of chemistry.",[m
+[32m+[m[32m"chem_title2":"Vision",[m
+[32m+[m[32m"chem_title2_para":"To create the Department of Chemistry as a centre of excellence in science and technology through enhanced collaboration between Industries and academia and serving the country. Building world class research facility to train young minds through extensive research curriculum. To provide a pool of bright scientists for advanced scientific endeavour of our country.",[m
+[32m+[m[32m"chem_title3":"Mission",[m
+[32m+[m[32m"chem_title3_para":"To provide good fundamental concept of Chemistry applied to the Engineering field. To introduce the importance of Chemistry in industry as well as in research field. To study the importance of chemicals, chemical reactions and physical phenomena, synthesis in higher study of Engineering.",[m
+ [m
+[31m-,"head_MHRD_New_Delhi":"MHRD,New Delhi"[m
+[31m-,"subhead_MHRD_New_Delhi":"JS & FA(MHRD, New Delhi)  &  JS(MHRD, New Delhi)"[m
+ [m
+[31m-,"head_members":"Members"[m
+[31m-,"subhead_member1":"Professor Pushpak Bhattacharyya"[m
+[31m-,"member1_details":"Director, IIT Patna"[m
+[32m+[m[32m"chem_Faculty_titlebutton":"view All",[m
+[32m+[m[32m"chem_topleft_title_name":"Dr. Balram Ambade",[m
+ [m
+[31m-,"subhead_member2":"Professor D.K. Singh"[m
+[31m-,"member2_details":"Director, BIT Sindri"[m
+[32m+[m[32m"ca_title1":"About",[m
+[32m+[m[32m"ca_title1_para":"The Department of Computer Applications at the National Institute of Technology Jamshedpur, was formed in 1987. Since its inception, the department has always been recognized all over the country for its excellence. The Department has consistently produced quality professionals in the field of Computer & Network and strived for excellence in research and development. MIS of NIT Jamshedpur is managed by Department of Computer Applications.",[m
+ [m
+[31m-,"subhead_member3":"Director"[m
+[31m-,"member3_details":"Department of Higher and Technical Education,Govt. of Jharkhand"[m
+[32m+[m[32m"ca_Faculty_titlebutton":"view All",[m
+[32m+[m[32m"ca_topleft_title_name":"Prof. Dilip Kumar Yadav",[m
+ [m
+[31m-,"heading_secretary":"Secretary"[m
+[31m-,"subheading_secretary":"Colonel Nisheeth Kumar Rai (Retd.)"[m
+ [m
+[31m-,"heading-min_of_meet":"Minutes of Meetings"[m
+[32m+[m[32m"cse_title1":"About",[m
+[32m+[m[32m"cse_title1_para":"The Department of Computer Science and Engineering at the National Institute of Technology Jamshedpur, was formed in 1992. Since its inception, the department has always been recognized all over the country for its excellence. The Department has consistently produced quality professionals in the field of Computer Science & Engineering and strived for excellence in research and development.",[m
+[32m+[m[32m"cse_title2":"Vision",[m
+[32m+[m[32m"cse_title2_para":"Producing high quality industry ready Computer engineers to cater to the needs of the society.",[m
+[32m+[m[32m"cse_title3":"Mission",[m
+[32m+[m[32m"cse_title3_para":"To train young minds and to equip them with the best possible technical knowledge to meet the current and future demands of the industry, academia & research. To create infrastructure, motivation and culture for the state of the art research work in the area of Computer Science & Information Technology.",[m
+ [m
+[32m+[m[32m"cse_Faculty_titlebutton":"view All",[m
+[32m+[m[32m"cse_topleft_title_name":"Dr. Sanjay Kumar",[m
+ [m
+ [m
+[32m+[m[32m"ece_title1":"About",[m
+[32m+[m[32m"ece_title1_para":"Department of Electronics and Communication Engineering was started in 1989. The department covers a host of subjects inclusive of Electronic Circuits, Microprocessor, Digital signal processing, Analog communication, Digital communication, Mobile communication, VLSI, Embedded systems, Instrumentation etc. The department has laboratories catering to all the subjects of studies. There are five research scholars working in different specializations under the groups of Communication Engineering, VLSI and Embedded systems, Signal Processing, Instrumentation and Soft computing. The Department has highly motivated faculty pool to cater our needs.",[m
+[32m+[m[32m"ece_title2":"Vision",[m
+[32m+[m[32m"ece_title2_para":"Global Knowledge Hub Excellence in technical and interdisciplinary domain Amalgam of research and entrepreneurship in pursuit of Make in India drive Beckoning pillar for digital India",[m
+[32m+[m[32m"ece_title3":"Mission",[m
+[32m+[m[32m"ece_title3_para":"Imparting total quality education to develop next generation professional scholar, fit for globally competitive environment. Value creation through economic, social, and environmental development using original ideas through discovery, inquiry, innovation, research, transformational scholarship, and creative activities. Dramatic increase in product oriented research for establishing a self-sustaining and wealth creating centre by involving the interaction between committed, diverse faculty, staff, students and community, to serve the societal needs of the State of Jharkhand, India and ultimately, the world.",[m
+ [m
+[31m-,"heading_Finance_Committee":"Finance Committee"[m
+[31m-,"Finance_Committee_members":"Members"[m
+ [m
+[31m-,"mem_1_name":"Prof. Karunesh Kumar Shukla(Director)"[m
+[31m-,"mem_1_post":"Chairman"[m
+[31m-,"mem_1_contact":"director@nitjsr.ac.in , 06572374108"[m
+[32m+[m[32m"ece_Faculty_titlebutton":"view All",[m
+[32m+[m[32m"ece_topleft_title_name":"Prof. Shiva Nand Singh",[m
+ [m
+[31m-,"mem_2_name":"Colonel Nisheeth Kumar Rai (Retd.)(Registrar (I/C))"[m
+[31m-,"mem_2_post":"Secretary"[m
+[31m-,"mem_2_contact":"registrar@nitjsr.ac.in , 0657-237-4027"[m
+ [m
+[31m-,"mem_3_name":"Mrs. Darshana M. Dabral(JS & FA , MHRD, New Delhi.)"[m
+[31m-,"mem_3_post":"Member"[m
+[32m+[m[32m"ee_title1":"About",[m
+[32m+[m[32m"ee_title1_para":"The Department of Electrical Engineering was started in 1960. The Department has been consistently producing quality Electrical Engineers since its inception and is also involved in research and development activities. The alumni of the department are well placed in both public and private sectors. In addition to the UG program the department runs PG program in Power Systems and Ph.D. program in different areas of specialization.",[m
+[32m+[m[32m"ee_title2":"Vision",[m
+[32m+[m[32m"ee_title2_para":"To be a centre for imparting world class education in the field of electrical engineering and conduct extensive and quality research and to propel innovations for the betterment of society.",[m
+[32m+[m[32m"ee_title3":"Mission",[m
+[32m+[m[32m"ee_title3_para":"To train young minds and to equip them with the best possible technical knowledge to meet the current and future demands of the industry, to recognize education and research in close interaction with the industry and installing leadership qualities in young men and women who enter the portals of the institute with sensitivity for social development and with an eye for growth in international perspective.",[m
+ [m
+[31m-,"mem_4_name":"JS, MHRD, New Delhi"[m
+[31m-,"mem_4_post":"Member"[m
+[32m+[m[32m"ee_Faculty_titlebutton":"view All",[m
+[32m+[m[32m"ee_topleft_title_name":"Prof. Rabindra Nath Mahanty",[m
+ [m
+[31m-,"mem_5_name":"Shree Bhanu Prakash Jalan"[m
+[31m-,"mem_5_post":"Member (BOG Representative)"[m
+ [m
+[31m-,"mem_6_name":"Smt. Savita Mishra"[m
+[31m-,"mem_6_post":"Member (BOG Representative)"[m
+[32m+[m[32m"humanities_title1":"About",[m
+[32m+[m[32m"humanities_title1_para":"When the institute was established in 1960 as Regional Institute of Technology, the Department came into being as Humanities Department and was fashioned on the lines of the Department of Humanities and Social Sciences at IITs. The Department was engaged in the teaching of English, Philosophy, Psychology, Political Science and Economics to B.Sc. (Engg.) students. In 2014, the Department was upgraded to the Department of Humanities, Social Sciences and Management. The department is currently engaged in teaching English for Communication, Introduction to Soft Skills, Organizational Behaviour and Industrial Psychology, Industrial Economics and Accountancy, Management Information System courses to B Tech (Hons.) students and Technical Communication to M.Tech,Communication kills to M.Sc,Financial Management ,Drag Behaviour and Management to MCA and Electives(principles of eco entrepreneurship Development). The faculty members of the department are also training students in the area of oral and written communication skills for placement purposes. The department plans to start a two year full time, post graduate MBA programme in near future.",[m
+[32m+[m[32m"humanities_title2":"Vision",[m
+[32m+[m[32m"humanities_title2_para":"To contribute to the emergence of NIT Jamshedpur as a world class institution, producing highly skilled engineers who are finest specimens of technology at its best merging aesthetics with human values and social responsibility to make this world a better place.",[m
+[32m+[m[32m"humanities_title3":"Mission",[m
+[32m+[m[32m"humanities_title3_para":"To contribute to the holistic development of the personality of the students so as to enable them to successfully meet their professional as well as societal challenges and to inculcate essential human values in them and also to make them sensitive to the concerns of environment.",[m
+ [m
+[31m-,"head_minofmeet_fin_comm":"Minutes of Meetings"[m
+ [m
+[32m+[m[32m"humanities_Faculty_titlebutton":"view All",[m
+[32m+[m[32m"humanities_topleft_title_name":"Dr. Rajiv Bhushan",[m
+ [m
+ [m
+[32m+[m[32m"maths_title1":"About",[m
+[32m+[m[32m"maths_title1_para":"Department of Mathematics was established since the inception of National Institute of Technology as Regional Institute of Technology, Jamshedpur in 1960. The Department provides an outstanding research environment complemented by excellent teaching for its students to flourish in different areas of academics and industry as well. The department has produced a good number of Ph.D students. The students of the department are well placed in leading Academic Institution, Research and Development organizations and Software industries like IIT’s, ONGC, IBM, WIPRO etc. Currently, Department has initiated M.Sc. Mathematics programme. Also, Department is planning to start new progammes like, 2-year M.Sc. in Applied Mathematics and 5-year Integrated M.Sc. programmes.",[m
+[32m+[m[32m"maths_title3":"Mission",[m
+[32m+[m[32m"maths_title3_para":"To provide sound fundamental of the subject. To focus on emerging area of Research fields. To link students with industries and Labs so that they visualize the real power of subject.",[m
+ [m
+[32m+[m[32m"maths_Faculty_titlebutton":"view All",[m
+[32m+[m[32m"maths_topleft_title_name":"Dr. Sunil Kumar",[m
+ [m
+ [m
+[31m-,"heading_building_and_work_comittee":"Buildings and Works Committee"[m
+[31m-,"building_and_work_comittee_members":"Members"[m
+[32m+[m[32m"me_title1":"About",[m
+[32m+[m[32m"me_title1_para":"The Department of Mechanical Engineering is one of the oldest (started in 1960) and the largest department in terms of faculty, students and activities. The Department offers B.Tech (Hons.) in Mechanical Engineering, M.Tech in Computer Integrated Design & Manufacturing (CIDM), M.Tech in Thermal Engineering (TE) and M.Tech in Energy System (ES). Department is also running PhD Program in various research areas in the Mechanical Engineering. It also offers part time PhD program, mainly meant for those employed in industries and academic institutions. The department is having highly qualified and experienced faculty in all streams of Mechanical Engineering. An interactive relationship is maintained between the students and staff which enables the students to develop a sound foundation in the stream in a conduciven environment.",[m
+[32m+[m[32m"me_title2":"Vision",[m
+[32m+[m[32m"me_title2_para":"To be a centre for imparting world class education in the field of Mechanical Engineering and conduct extensive and quality research and to propel innovations for the betterment of society.",[m
+[32m+[m[32m"me_title3":"Mission",[m
+[32m+[m[32m"me_title3_para":"To train young minds and to equip them with the best possible technical knowledge to meet the current and future demands of the industry, academic & research. To create infrastructure, motivation and culture for the state of the art research work in the area of Mechanical Engineering. To enhance the research and teaching by interaction and development of relation with industry, R&D organization and academic institutions. To develop an energetic environment for excellence, creativity and perfection.",[m
+ [m
+[31m-,"b_mem_1_name":"Prof. Karunesh Kumar Shukla(Director)"[m
+[31m-,"b_mem_1_post":"Chairman"[m
+[31m-,"b_mem_1_contact":"director@nitjsr.ac.in , 06572374108"[m
+ [m
+[31m-,"b_mem_2_name":"Colonel Nisheeth Kumar Rai (Retd.)(Registrar (I/C))"[m
+[31m-,"b_mem_2_post":"Secretary"[m
+[31m-,"b_mem_2_contact":"registrar@nitjsr.ac.in , 0657-237-4027"[m
+[32m+[m[32m"me_Faculty_titlebutton":"view All",[m
+[32m+[m[32m"me_topleft_title_name":"Prof. Mani Kant Paswan",[m
+ [m
+[31m-,"b_mem_3_name":"JS, MHRD, New Delhi"[m
+[31m-,"b_mem_3_post":"Member"[m
+ [m
+[31m-,"b_mem_4_name":"Shri Vivek Prakash Srivastava (Chief Engineer(Civil) I.I.T, Kharagpur)"[m
+[31m-,"b_mem_4_post":"Member"[m
+[32m+[m[32m"mme_title1":"About",[m
+[32m+[m[32m"mme_title1_para":"The Department of Metallurgical and Materials Engineering was amongst the four branches with which the institute was initially launched in 1960, with increasing focus on :Materials Technology Foundry Technology Iron & Steel Nanotechnology Mineral Benefaction and the R&D work being carried out in these fields in the metallurgical sector, Materials Engineering was included in the curriculum of the department in 1995.There are M.Tech course on Materials Technology & Foundry Technology.Current Research is going on:Physical Metallurgy Hydro Metallurgy Process Metallurgy Mineral Characterisation & Beneficiation",[m
+ [m
+[31m-,"b_mem_5_name":"Prof. A.K.L. Srivastava (Dean (P&D), NIT Jamshedpur)"[m
+[31m-,"b_mem_5_post":"Member"[m
+[32m+[m[32m"mme_Faculty_titlebutton":"view All",[m
+[32m+[m[32m"mme_topleft_title_name":"Dr. Ashok Kumar",[m
+ [m
+[31m-,"b_mem_6_name":"Prof. A.K. Choudhary (Professor, Civil Engineering, NIT Jamshedpur)"[m
+[31m-,"b_mem_6_post":"Member"[m
+ [m
+[31m-,"head_minof_work_comittee":"Minutes of Meetings"[m
+[32m+[m[32m"phy_title1":"About",[m
+[32m+[m[32m"phy_title1_para":"The Department of Physics at the National Institute of Technology, Jamshedpur, was formed in 1960. Since its inception, the department has been recognized all over the country for its excellence. The department has consistently produced quality professionals in the field of physics and strived for excellence in research and development. The Department has at present 9 faculty members including DST-Inspire Faculty and 11 research scholars engaged in doctoral research.The Department actively participates in front-line research in several major areas of Physics including Solar Energy, Nuclear scattering and Supersymmetry, Mathematical Physics, Holography and holographic optical element, Speckle Meterology, Condensed Matter Physics, Plasma Physics, Computational Physics and Spectroscopy.At present department offer 2 years Master of Science (Physics) Programme as well as a Ph.D. Programme with specialization in various major areas of Physics. The Department also participates in teaching Engineering Physics to B.Tech. (Hons.) students of all the disciplines namely- Civil Engineering, Computer Science and Engineering, Electrical and Electronics Engineering, Electronics and Communication Engineering, Production and Industrial Engineering, Mechanical Engineering and Metallurgical & Materials Engineering of the Institute. Our M.Sc. students are ranking good in national level competitive exams like CSIR-NET, GATE, JEST as well as in the INSPIRE Fellow scheme offered by the Department of Science and Technology (DST), India.",[m
+[32m+[m[32m"phy_title2":"Vision",[m
+[32m+[m[32m"phy_title2_para":"Quality education in physics and produce highly technically trained human resources of world class. Promote research and development in applied physics in the emerging and thrust areas and attainment of academic excellence. Provide greater understanding of the nature of physical science, an appreciation of physics in everyday life, and technical expertise. Excellence in technical and multidisciplinary domain.",[m
+[32m+[m[32m"phy_title3":"Mission",[m
+[32m+[m[32m"phy_title3_para":"To provide quality education, understanding in physics and development of experimental skills to produce well prepared graduates. To provide dynamic, forward looking and responsive to global technological development by imparting excellent technical education.",[m
+ [m
+[32m+[m[32m"phy_Faculty_titlebutton":"view All",[m
+[32m+[m[32m"phy_topleft_title_name":"Prof. Ujjwal Laha",[m
+ [m
+ [m
+[32m+[m[32m"pi_title1":"About",[m
+[32m+[m[32m"pi_title1_para":"The Department of Production & Industrial Engineering was started in year 1988 with the name of “Production Engineering & Management”. The name of this department was changed to Production & Industrial Engineering in the year 2007. The department was accredited by NBA in 2009. This core department has a sanctioned strength of 16 (Sixteen) faculty members with flexible faculty structure. Presently, there are 02 Professor, 03 Associate professors and 08 Assistant Professors. Every faculty member has received doctorate degree in different research areas. The department is running a UG course for B. Tech. (Hons.) degree in Production and industrial Engineering and a PG course in Manufacturing Systems Engineering as well as Ph. D. program in various streams of Production and Industrial Engineering. The Department is currently developing different engineering laboratories like CAD/CAM Lab., Advanced Manufacturing and Flexible manufacturing systems Lab., Non- Traditional Manufacturing lab, and Industrial Engineering & Ergonomics lab and Central workshop. Time to time curricula/syllabus is upgraded as per the market and technology requirement. The department has also proposed to start a new PG course in Production Management which will cater to the current industrial need.",[m
+[32m+[m[32m"pi_title2":"Vision",[m
+[32m+[m[32m"pi_title2_para":"To produce engineers and researchers with excellent technical knowledge, research acumen, leadership skills and ethical responsibility.",[m
+[32m+[m[32m"pi_title3":"Mission",[m
+[32m+[m[32m"pi_title3_para":"To educate B. Tech., M. Tech and Ph. D students with fundamental knowledge in concerned subjects, and to update them with the state-of-the-art in the field. To develop and maintain laboratories which cater to the needs of the students Quest for inter-disciplinary research. To promote academia-industry collaboration",[m
+ [m
+[31m-,"commentsk2":"above is shashank's work" ,[m
+[31m-  [m
+[31m-  [m
+[31m-  [m
+[31m-"commenths1" : "below is himanshu's work" ,[m
+[31m-[m
+[31m-  "p-home" : "People Home" ,[m
+[31m-  "director" : "Director" ,[m
+[31m-  "deans" : "Deans" ,[m
+[31m-  "associate" : "Associate Deans" ,[m
+[31m-  "assistant" : "Assistant Deans" ,[m
+[31m-  "hod" : "Head of Departments" ,[m
+[31m-  "fic" : "Faculty In-charge" ,[m
+[31m-  "fac" : "Faculty" ,[m
+[31m-  "ward" : "Wardens" ,[m
+[31m-  "reg" : "Registrar" ,[m
+[31m-  "off" : "Officers" ,[m
+[31m-  "staff" : "Staff" ,[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-   "profile-head" : "Profile" ,[m
+[31m-   "dean-head" : "Deans" ,[m
+[31m-[m
+[31m-[m
+[31m-   "asso-d-head" : "Associate Deans",[m
+[31m-      "card-md-hassan" : "Dr. Md Ashique Hassan",[m
+[31m-       "p-hassan" : "Academic" , [m
+[31m-      "card-rao" : "Dr. Chintalacheruvu Madhusudana Rao",[m
+[31m-       "p-rao" : "Academic: Recognition and Accreditation",[m
+[31m-      "card-tushar" : "Dr. Tushar Banerjee" ,[m
+[31m-       "p-tushar" : "Industry and Alumni Relations",[m
+[31m-      "card-vishesh" : "Dr. Vishesh Ranjan Kar",[m
+[31m-       "p-vishesh" : "Research and Consultancy",[m
+[31m-      "card-prashant" : "Dr. Prashant Kumar" ,[m
+[31m-       "p-prashant" : "Students Welfare",[m
+[31m-      "card-subhash" : "Dr. Subhash Singh",[m
+[31m-       "p-subhash" : "Faculty Welfare",[m
+[31m-      "card-awdhesh" : "Dr. Awdhesh Kumar Choudhary",[m
+[31m-       "p-awdhesh" : "Planning and Development",[m
+[31m-      "card-sanjay" : "Dr. Sanjay Kumar" ,[m
+[31m-       "p-sanjay" : "Planning and Development",[m
+[31m-      "card-namrata" : "Dr. Kumari Namrata",[m
+[31m-       "p-namrata" : "Students Welfare",[m
+[31m-  [m
+[31m-   "assis-d-head" : "Assistant Deans",[m
+[31m-    "hod-page" :"Head of Departments",[m
+[31m-     "sel-dept" : "Select Departments",[m
+[31m-      "placehold" : "All departments",[m
+[31m-      "all-dept" : "All departments",[m
+[31m-      "cse" : "Computer Science and Engineering",[m
+[31m-      "ee" : "Electrical Engineering",[m
+[31m-      "ece" :"Electronics and Communication Enginneering",[m
+[31m-      "ce" : "Civil Engineering",[m
+[31m-      "me" : "Mechanical Engineering",[m
+[31m-      "mm" : "Metallurgy Engineering",[m
+[31m-      "pe" : "Production and Industrial Engineering",[m
+[31m-      "phy" : "Physics",[m
+[31m-      "math" : "Maths",[m
+[31m-      "human" : "Humanities",[m
+[31m-      "chem" : "Chemistry",[m
+[31m-      "mca" : "MCA",[m
+[31m-[m
+[31m-[m
+[31m-      "fic-head" : "Faculty InCharge",[m
+[31m-[m
+[31m-      "fac-head" : "Faculty", [m
+[31m-      "ritik" : "Ritik Raj",[m
+[31m-      "ass-pro" : "Assistant Professor",[m
+[31m-      "teach-assis" : "Teaching Assistant",[m
+[31m-      "cs-short" : "CS",[m
+[31m-      "vivek" : "Vivek Sharma",[m
+[31m-      "kk" : "Koushalendra Kumar Singh",[m
+[31m-      "nir" : "Niranjan-Kumar",[m
+[31m-      "prof" : "Professor",[m
+[31m-      "ee-short" : "EE",[m
+[31m-      "nam" : "Kumari Namrata",[m
+[31m-      "asso-prof" : "Associate Professor",[m
+[31m-      "prashant" : "Prashant Kumar",[m
+[31m-      "ec-short" : "EC",[m
+[31m-      "vir" : "Virendra Kumar",[m
+[31m-      "ce-short" : "CE",[m
+[31m-      "name-comment" : " some names are given in deans-sec",[m
+[31m-      "me-short" : "ME",[m
+[31m-      "prabha" : "Prabha Chand",[m
+[31m-      "ram" : "Ram Vinoy Sharma",[m
+[31m-      "armes" : "Amaresh Kumar",[m
+[31m-      "subhas" : "Subhash Kumar",[m
+[31m-      "tushar" : "Tushar Banerjee",[m
+[31m-      "pi-short" : "PI",[m
+[31m-      "mandal" : "Tarni Mandal",[m
+[31m-      "ma" : "MA",[m
+[31m-      "abhis" : "Abhishek Kumar",[m
+[31m-[m
+[31m-[m
+[31m-      "warden-head" : "Wardens",[m
+[31m-      "c-ward" : "Cheif Warden",[m
+[31m-      "ass-ward"  :"Assistant Warden",[m
+[31m-      "a" : "Hostel-A",[m
+[31m-      "b" : "Hostel-B",[m
+[31m-      "c" : "Hostel-C",[m
+[31m-      "d" : "Hostel-D",[m
+[31m-      "e" : "Hostel-E",[m
+[31m-      "f" : "Hostel-F",[m
+[31m-      "g" : "Hostel-G",[m
+[31m-      "h" : "Hostel-H",[m
+[31m-      "i" : "Hostel-I",[m
+[31m-      "amb" : "Ambedkar",[m
+[31m-      "rlb" : "RLB",[m
+[31m-[m
+[31m-[m
+[31m-      "regis-head" : "Registrar Head",[m
+[31m-      "offi-head" : "Officers",[m
+[31m-      "staff-head" : "Staff",[m
+[31m-  [m
+[31m-  [m
+[31m-   "side-panel" : "contents of side panel" ,[m
+[31m-    "s-ho" : "Home",[m
+[31m-    "s-insti" : "Institute",[m
+[31m-    "s-aca" : "Academics",[m
+[31m-    "s-stud" : "Students",[m
+[31m-    "s-pep" : "People",[m
+[31m-    "s-recru" : "Recruitments",[m
+[31m-    "s-reser" : "Research & Development",[m
+[31m-    "s-ten" : "Tender",[m
+[31m-    "s-not" : "Notices",[m
+[31m-    "s-cel" : "Cells",[m
+[31m-    [m
+[31m-"commenths2" : "above is himanshu's work" [m
+[32m+[m[32m"pi_Faculty_titlebutton":"view All",[m
+[32m+[m[32m"pi_topleft_title_name":"Dr. Shashi Bhushan Prasad",[m
+[32m+[m
+[32m+[m
+[32m+[m[32m "curriculum_title":"First Years",[m
+[32m+[m[32m "curriculum_title_link":"Curriculum & Syllabus for all First year B.Tech Programme",[m
+[32m+[m
+[32m+[m
+[32m+[m[32m "student_statistics_title":"Student Statistics",[m
+ [m
+[32m+[m[32m "student_statistics_para_pg": "The table here represents the number of intakes in each department for Post Graduate Programme.",[m
+ [m
+[32m+[m[32m"statistics_thead_tr1":"Batch",[m
+[32m+[m[32m"statistics_thead1_tr2":"MCA",[m
+[32m+[m[32m"statistics_thead1_tr3":"MTech",[m
+[32m+[m[32m"statistics_thead1_tr4":"Ph.D",[m
+ [m
+[32m+[m[32m"student_statistics_para_ug": "Table here represents the number of intakes in each department for Under Graduate B.Tech Programme.",[m
+[32m+[m[32m"statistics_thead2_tr1":"Batch",[m[41m	[m
+[32m+[m
+[32m+[m[32m "Fee_title":"Fee Structure",[m
+[32m+[m
+[32m+[m[32m"Fee_link1": "Fee Structure for 2014 and 2015 Batch - B.Tech (Hons) Programme",[m
+[32m+[m[32m"Fee_link2":"Fee Structure for 2014 Batch DASA Students - B.Tech (Hons) Programme.",[m
+[32m+[m[32m"Fee_link3":"Fee Structure for 2015 Batch DASA Students - B.Tech (Hons) Programme.",[m
+[32m+[m[32m"Fee_link4":"Fee Structure for 2016 Batch - B.Tech (Hons) Programme.",[m
+[32m+[m[32m"Fee_link5":"Fee Structure for 2016 Batch DASA Students - B.Tech (Hons) Programme.",[m
+[32m+[m[32m"Fee_link6":"Fee Structure for 2017 Batch - B.Tech (Hons) Programme",[m
+[32m+[m[32m"Fee_link7":"Fee Structure for 2017 Batch DASA Students - B.Tech (Hons) Programme",[m
+[32m+[m[32m"Fee_link8":"Fee Structure for 2015 Batch Students - MCA Programme",[m
+[32m+[m[32m"Fee_link9":"Fee Structure for 2016 and 2017 Batch Students - M.Tech and MCA Programme",[m
+[32m+[m[32m"Fee_link10":"Fee Structure for 2017 Batch and all other students except 2017 Batch - M.Sc and Ph.D Programme",[m
+[32m+[m[32m"Fee_link11": "Fee Structure for Academic Session 2019-20 at NIT Jamshedpur for various Programme",[m
+[32m+[m[32m"Fee_clicklink":"Click Here to make Payment",[m
+[32m+[m[32m"Fee_bottomlink":"Please take print out/PDF of the receipt of On-line Payment.",[m
+[32m+[m
+[32m+[m[32m "semester_schedule_title":"Master Time table for B.Tech Program.",[m
+[32m+[m
+[32m+[m[32m "schedule_1stsem":"First Semester",[m
+[32m+[m[32m"schedule_2ndsem" :"Third Semester",[m
+[32m+[m
+[32m+[m
+[32m+[m[32m "ordinance_title":"Ordinance",[m
+[32m+[m[32m  "ordinance_title_link1":"Undergraduate Programme",[m
+[32m+[m[32m "ordinance_title_link2": "Postgraduate Programme",[m
+[32m+[m[32m  "ordinance_title_link3": "Ph.D Programme",[m
+[32m+[m
+[32m+[m[41m  [m
+[32m+[m[32m"academic_documents_title1":"Academic Calender",[m
+[32m+[m[32m"academic_documents_title1_link":"Download Academic Calender 2020",[m
+[32m+[m
+[32m+[m[32m"academic_documents_title2":"List of Holidays",[m
+[32m+[m[32m"academic_documents_title2_link":"Download List of Holidays"[m
+[32m+[m
+[32m+[m[41m   [m
+ }[m
+[41m+[m
+[1mdiff --git a/locales/hi/translation.json b/locales/hi/translation.json[m
+[1mindex 3ced420..d983096 100644[m
+[1m--- a/locales/hi/translation.json[m
+[1m+++ b/locales/hi/translation.json[m
+[36m@@ -1,283 +1,385 @@[m
+ {[m
+[31m-  "banner_head_title":"राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर",[m
+[31m-  "banner_head_lead":"हम 1960 से शिक्षा के क्षेत्र में अग्रणी हैं।",[m
+[31m-  "vision_home_head":"हमारा नज़रिया",[m
+[31m-  "vision_home":"समाज की भविष्य की जरूरतों को पूरा करने के लिए अपनी अकादमिक उत्कृष्टता और नवीन अनुसंधान के लिए प्रमुख तकनीकी संस्थानों में से एक होना।"[m
+[32m+[m[41m   [m
+[32m+[m[32m"title1":"शैक्षणिक",[m
+[32m+[m[32m"title2":"दाखिले",[m
+[32m+[m[32m"title3":"लोग",[m
+[32m+[m[32m"title4":"विभागों",[m
+[32m+[m[32m"title5":"पाठ्यक्रम",[m
+[32m+[m[32m"title6":"छात्र सांख्यिकी",[m
+[32m+[m[32m"title7":"शुल्क संरचना",[m
+[32m+[m[32m"title8":"सेमेस्टर अनुसूची",[m
+[32m+[m[32m"title9":"अध्यादेश",[m
+[32m+[m[32m"title10":"शैक्षणिक दस्तावेज",[m
+[32m+[m
+[32m+[m
+[32m+[m[32m"li1":"शैक्षणिक",[m
+[32m+[m[32m"li2":"दाखिले",[m
+[32m+[m[32m"li3":"लोग",[m
+[32m+[m[32m"li4":"विभागों",[m
+[32m+[m[32m"li5":"पाठ्यक्रम",[m
+[32m+[m[32m"li6":"छात्र सांख्यिकी",[m
+[32m+[m[32m"li7":"शुल्क संरचना",[m
+[32m+[m[32m"li8":"सेमेस्टर अनुसूची",[m
+[32m+[m[32m"li9":"अध्यादेश",[m
+[32m+[m[32m"li10":"शैक्षणिक दस्तावेज",[m
+[32m+[m
+[32m+[m[32m"academics_link":"यहां क्लिक करें",[m
+[32m+[m
+[32m+[m[32m"Academics_subtitle1":"शैक्षणिक",[m
+[32m+[m[32m"subtitle1_para":"एनआईटी जमशेदपुर उत्कृष्ट कैरियर विकास और सार्वभौमिक मान्यता के साथ उच्च शिक्षा प्राप्त मेधावी छात्रों का एक प्रतिष्ठित संस्थान है। छात्रों को अत्यधिक उन्नत पाठ्यक्रमों और प्रख्यात संकाय सदस्यों के रूप में बेहतरीन अवसर मिलते हैं। संस्थान अकादमिक उत्कृष्टता और सुशासन के लिए प्रतिबद्ध है। मानव संसाधन विकास मंत्री, भारत सरकार द्वारा अनुमोदित उच्च शिक्षा संस्थानों के लिए राष्ट्रीय संस्थागत रैंकिंग फ्रेमवर्क (NIRF) द्वारा देश के सर्वश्रेष्ठ 100 इंजीनियरिंग संस्थानों में से NIT जमशेदपुर को 2015-16 के लिए समग्र 78 वें स्थान पर रखा गया था। 7 अंडर-ग्रेजुएट (यूजी) कार्यक्रमों के साथ 12 विभाग हैं, 23 स्नातकोत्तर (पीजी) कार्यक्रम और पीएचडी। कार्यक्रमों:",[m
+[32m+[m
+[32m+[m[32m"Academics_subtitle2":"यूजी कार्यक्रम",[m
+[32m+[m[32m"subtitle2_para":"हमारे संस्थान में यूजी कार्यक्रमों की संख्या 7 है",[m
+[32m+[m[32m"subtitle2_table1_li1":"यांत्रिक अभियांत्रिकी",[m
+[32m+[m[32m"subtitle2_table1_li2":"विद्युत अभियांत्रिकी",[m
+[32m+[m[32m"subtitle2_table1_li3" :"धातुकर्म और सामग्री अभियांत्रिकी",[m
+[32m+[m
+[32m+[m[32m"subtitle2_table2_li1":"उत्पादन और औद्योगिक अभियांत्रिकी",[m
+[32m+[m[32m"subtitle2_table2_li2":"इलेक्ट्रॉनिक्स और संचार अभियांत्रिकी",[m
+[32m+[m[32m"subtitle2_table2_li3":"सिविल अभियांत्रिकी",[m
+[32m+[m
+[32m+[m[32m"subtitle2_table3_li1":"कंप्यूटर विज्ञान और अभियांत्रिकी",[m
+[32m+[m
+[32m+[m[32m"Academics_subtitle3":"पीजी कार्यक्रम",[m
+[32m+[m[32m"subtitle3_para":"हमारे संस्थान में पीजी कार्यक्रमों की संख्या 23 है",[m
+[32m+[m[32m"subtitle3_table1_li1":"कंप्यूटर एकीकृत डिजाइन और विनिर्माण",[m
+[32m+[m[32m"subtitle3_table1_li2":"सामग्री प्रौद्योगिकी",[m
+[32m+[m[32m"subtitle3_table1_li3" :"कंप्यूटर विज्ञान और अभियांत्रिकी",[m
+[32m+[m[32m"subtitle3_table1_li4":"फाउंड्री टेक्नोलॉजी",[m
+[32m+[m[32m"subtitle3_table1_li5":"औद्योगिक और प्रबंधन अभियांत्रिकी",[m
+[32m+[m[32m"subtitle3_table1_li6" :"पावर सिस्टम अभियांत्रिकी",[m
+[32m+[m[32m"subtitle3_table1_li7":"संरचनात्मक अभियांत्रिकी",[m
+[32m+[m[32m"subtitle3_table1_li8" :"भूतल विज्ञान और अभियांत्रिकी",[m
+[32m+[m
+[32m+[m
+[32m+[m[32m"subtitle3_table2_li1":"विनिर्माण सिस्टम अभियांत्रिकी",[m
+[32m+[m[32m"subtitle3_table2_li2":"सूचना प्रणाली सुरक्षा अभियांत्रिकी",[m
+[32m+[m[32m"subtitle3_table2_li3":"पावर इलेक्ट्रॉनिक्स और ड्राइव",[m
+[32m+[m[32m"subtitle3_table2_li4":"भू - तकनीकी अभियांत्रिकी",[m
+[32m+[m[32m"subtitle3_table2_li5":"एनर्जी सिस्टम अभियांत्रिकी",[m
+[32m+[m[32m"subtitle3_table2_li6" :"एक्स्ट्रेक्टिव धातुकर्म",[m
+[32m+[m[32m"subtitle3_table2_li7":"आयरन एंड स्टील टेक्नोलॉजी",[m
+[32m+[m[32m"subtitle3_table2_li8" :"कम्पुटर अनुप्रयोग",[m
+[32m+[m
+[32m+[m[32m"subtitle3_table3_li1":"थर्मल और द्रव इंजीनियरिंग",[m
+[32m+[m[32m"subtitle3_table3_li2":"एंबेडेड सिस्टम इंजीनियरिंग",[m
+[32m+[m[32m"subtitle3_table3_li3":"संचार प्रणाली इंजीनियरिंग",[m
+[32m+[m[32m"subtitle3_table3_li4":"जल संसाधन इंजीनियरिंग",[m
+[32m+[m[32m"subtitle3_table3_li5":"गणित में मास्टर ऑफ साइंस (M.Sc.)",[m
+[32m+[m[32m"subtitle3_table3_li6" :"भौतिकी में मास्टर ऑफ साइंस (M.Sc.)",[m
+[32m+[m[32m"subtitle3_table3_li7":"मास्टर ऑफ साइंस (M.Sc.) रसायन विज्ञान में",[m
+[32m+[m
+[32m+[m
+[32m+[m[32m"Academics_subtitle4":"पीएचडी कार्यक्रम",[m
+[32m+[m[32m"subtitle4_para":"सभी विभागों द्वारा पीएचडी कार्यक्रम की पेशकश की जाती है। पीएचडी कार्यक्रमों के बारे में अधिक जानकारी के लिए। ",[m
+[32m+[m
+[32m+[m[32m"Academics_subtitle5": "महत्वपूर्ण लिंक",[m
+[32m+[m[32m"subtitle5_link1":"बाहरी एजेंसियों द्वारा छात्रों के शैक्षिक सत्यापन के लिए दिशानिर्देश",[m
+[32m+[m[32m"subtitle5_link2":"संस्थान से मूल डिग्री लेने के लिए प्रक्रिया और प्रक्रिया",[m
+[32m+[m[32m"subtitle5_link3":"संस्थान से ट्रांसक्रिप्ट इकट्ठा करने की प्रक्रिया और प्रक्रिया",[m
+[32m+[m
+[32m+[m[32m"admissions_subtitle":"प्रवेश नीति",[m
+[32m+[m[32m"subtitle_para":"संस्थान संस्थान के सभी शैक्षणिक कार्यक्रमों में प्रवेश के लिए एमएचआरडी, भारत सरकार के दिशानिर्देशों को अपनाता है।",[m
+[32m+[m[32m"course1":"यूजी",[m
+[32m+[m[32m"course1_para":"अंडर ग्रेजुएट कार्यक्रमों में प्रवेश कक्षा 12 / समकक्ष योग्यता परीक्षा और जेईई (मुख्य) में प्रदर्शन पर किया जाता है। संयुक्त सीट आवंटन प्राधिकरण (JoSAA) / केंद्रीय सीट आवंटन बोर्ड (CSAB) सामान्य परामर्श प्रक्रिया के माध्यम से अंडर ग्रेजुएट प्रोग्राम के लिए सीटें आवंटित करता है। B.Tech प्रवेश और आवश्यक दस्तावेजों के सामान्य दिशानिर्देशों के लिए,।",[m
+[32m+[m[32m"course2":"एम.टेक",[m
+[32m+[m[32m"course2_para":"एम.टेक छात्रों को उनके GATE स्कोर और सीट वितरण के आधार पर M.Tech./M.Arch./M.Plan के लिए केंद्रीकृत परामर्श के आधार पर प्रवेश दिया जाता है। प्रवेश (CCMT)। ऑनलाइन पंजीकरण फॉर्म और CCMT की अन्य जानकारी के लिए, ",[m
+[32m+[m[32m"course3":"एम.एससी.",[m
+[32m+[m[32m"course3_para":"M.Sc. कार्यक्रम JAM परीक्षा में JAM स्कोर और M.Sc. के लिए केंद्रीकृत परामर्श के माध्यम से आधारित है। (CCMN)। प्रवेश प्रक्रिया के लिए, ",[m
+[32m+[m[32m"course4":"एमसीए",[m
+[32m+[m[32m"course4_para":"MCA प्रोग्राम में प्रवेश NIT MCA कॉमन एंट्रेंस टेस्ट (NIMCET) परीक्षा पर आधारित है, जो NIT द्वारा संयुक्त रूप से आयोजित की जाती है और केंद्रीकृत सामान्य परामर्श के माध्यम से होती है। ऑनलाइन पंजीकरण फॉर्म और एनआईएमसीईटी की अन्य जानकारी के लिए, ",[m
+[32m+[m[32m"course5":"पीएचडी",[m
+[32m+[m[32m"course5_para":"पीएचडी कार्यक्रम में प्रवेश संस्थान द्वारा दी गई सीधी अधिसूचना के माध्यम से होता है। उम्मीदवारों का चयन संबंधित विभागों द्वारा आयोजित परीक्षणों / साक्षात्कार के आधार पर किया जाता है। पीएचडी प्रवेश और आवश्यक दस्तावेजों के सामान्य दिशानिर्देशों के लिए, ",[m
+[32m+[m
+[32m+[m[32m"admission_link1":"यहां क्लिक करें",[m
+[32m+[m[32m"admission_link2":"यहां क्लिक करें",[m
+[32m+[m[32m"admission_link3":"यहां क्लिक करें",[m
+[32m+[m[32m"admission_link4":"यहां क्लिक करें",[m
+[32m+[m[32m"admission_link5":"यहां क्लिक करें",[m
+[32m+[m
+[32m+[m[32m"people_title1":"लोग",[m
+[32m+[m[32m   "people_title1_thead1":"नाम",[m
+[32m+[m[32m   "people_title1_thead2":"पद",[m
+[32m+[m[32m   "people_title1_thead3":"ईमेल",[m
+[32m+[m
+[32m+[m[32m   "people_title1_tbody1_tr1":"प्रो.अमरेश कुमार",[m
+[32m+[m[32m   "people_title1_tbody1_tr2":"डीन (अकादमिक)",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title1_tbody2_tr1":"डॉ.एमडी आशिक हसन",[m
+[32m+[m[32m   "people_title1_tbody2_tr2":"एसोसिएट डीन (अकादमिक)",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title1_tbody3_tr1":"डॉ.चिंतलचेरुवु मधुसूदन राव",[m
+[32m+[m[32m   "people_title1_tbody3_tr2":"एसोसिएट डीन (अकादमिक: मान्यता और प्रत्यायन)",[m
+[32m+[m[41m   [m
+[32m+[m[41m   [m
+[32m+[m[32m  "people_title2":"अकादमिक संपर्क",[m
+[32m+[m[32m  "people_title2_thead1":"पद",[m
+[32m+[m[32m  "people_title2_thead2":"नाम",[m
+[32m+[m[32m  "people_title2_thead3":"संपर्क करें",[m
+[32m+[m
+[32m+[m[32m  "people_title2_tbody1_tr1":"डीन एकेडमिक",[m
+[32m+[m[32m   "people_title2_tbody1_tr2":"प्रो.अमरेश कुमार",[m
+[32m+[m[41m    [m
+[32m+[m
+[32m+[m[32m   "people_title2_tbody2_tr1":"संकाय प्रभारी: परीक्षा",[m
+[32m+[m[32m   "people_title2_tbody2_tr2":"डॉ.सतीश कुमार",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title2_tbody3_tr1":"एसोसिएट फैकल्टी इन-चार्ज: परीक्षा",[m
+[32m+[m[32m   "people_title2_tbody3_tr2":"डॉ। स्नेहासि कुंडू",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title2_tbody4_tr1":"संकाय प्रभारी: प्रवेश",[m
+[32m+[m[32m   "people_title2_tbody4_tr2":"डॉ.सतीश कुमार",[m
+[32m+[m[41m   [m
+[32m+[m[32m   "people_title2_tbody5_tr1":"सहयोगी संकाय प्रभारी: प्रवेश",[m
+[32m+[m[32m   "people_title2_tbody5_tr2":"डॉ.विपिन कुमार",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title2_tbody6_tr1":"एसोसिएट डीन (अकादमिक)",[m
+[32m+[m[32m   "people_title2_tbody6_tr2":"डॉ.एमडी आशिक हसन",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title2_tbody7_tr1":"सहायक डीन (अकादमिक): प्रत्यायन",[m
+[32m+[m[32m   "people_title2_tbody7_tr2":"डॉ.चौ.एम.एस.राव",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title2_tbody8_tr1":"उप पंजीयक",[m
+[32m+[m[32m   "people_title2_tbody8_tr2":"डॉ.एस. ए .हुसैन",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m[32m   "people_title2_tbody9_tr1":"कार्यालय के कर्मचारी",[m
+[32m+[m[32m   "people_title2_tbody9_tr2_1":"श्री नंद किशोर झा (शुल्क छूट)",[m
+[32m+[m[32m   "people_title2_tbody9_tr2_2":"श्री तरुण कुमार कर (परीक्षा)",[m
+[32m+[m[32m   "people_title2_tbody9_tr2_3":"श्री नंद लाल रजक (पंजीकरण)",[m
+[32m+[m[41m   [m
+[32m+[m
+[32m+[m
+[32m+[m[32m   "people_title2_tbody10_tr1":"सहायक कर्मचारी",[m
+[32m+[m[32m   "people_title2_tbody10_tr2_1":"श्री मनोज कुमार झा (डिस्पैच)",[m
+[32m+[m[32m   "people_title2_tbody10_tr2_2":"श्री श्रीतिधर महतो",[m
+[32m+[m[32m   "people_title2_tbody10_tr2_3":"श्री रूही मांझी",[m
+[32m+[m[32m   "people_title2_tbody10_tr2_4":"श्री सुनील कुमार गौड़",[m
+[32m+[m
+[32m+[m
+[32m+[m[32m"departments_title":"विभागों",[m
+[32m+[m
+[32m+[m[32m"img_civil":"सिविल अभियांत्रिकी",[m
+[32m+[m[32m"img_chem":"रसायन विज्ञान",[m
+[32m+[m[32m"img_computer":"कंप्यूटर अनुप्रयोग",[m
+[32m+[m[32m"img_cse":"कंप्यूटर विज्ञान और अभियांत्रिकी",[m
+[32m+[m[32m"img_ece":"इलेक्ट्रॉनिक्स और संचार अभियांत्रिकी",[m
+[32m+[m[32m"img_ee":"विद्युत अभियांत्रिकी",[m
+[32m+[m[32m"img_humanities":"मानविकी, सामाजिक विज्ञान और प्रबंधन",[m
+[32m+[m[32m"img_maths":"गणित",[m
+[32m+[m[32m"img_me":"यांत्रिक अभियांत्रिकी",[m
+[32m+[m[32m"img_mme":"धातुकर्म और सामग्री अभियांत्रिकी",[m
+[32m+[m[32m"img_phy":"भौतिक विज्ञान",[m
+[32m+[m[32m"img_pi":"उत्पादन और औद्योगिक अभियांत्रिकी",[m
+[32m+[m
+[32m+[m[32m"title_civil":"सिविल अभियांत्रिकी",[m
+[32m+[m[32m"title_chem":"रसायन विज्ञान",[m
+[32m+[m[32m"title_computer":"कंप्यूटर अनुप्रयोग",[m
+[32m+[m[32m"title_cse":"कंप्यूटर विज्ञान और अभियांत्रिकी",[m
+[32m+[m[32m"title_ece":"इलेक्ट्रॉनिक्स और संचार अभियांत्रिकी",[m
+[32m+[m[32m"title_ee":"विद्युत अभियांत्रिकी",[m
+[32m+[m[32m"title_humanities":"मानविकी, सामाजिक विज्ञान और प्रबंधन",[m
+[32m+[m[32m"title_maths":"गणित",[m
+[32m+[m[32m"title_me":"यांत्रिक अभियांत्रिकी",[m
+[32m+[m[32m"title_mme":"धातुकर्म और सामग्री अभियांत्रिकी",[m
+[32m+[m[32m"title_phy":"भौतिक विज्ञान",[m
+[32m+[m[32m"title_pi":"उत्पादन और औद्योगिक अभियांत्रिकी",[m
+[32m+[m
+[32m+[m
+[32m+[m[32m"civil_title1":"विषय",[m
+[32m+[m[32m"civil_title1_para":"राष्ट्रीय प्रौद्योगिकी संस्थान (पूर्व में क्षेत्रीय प्रौद्योगिकी संस्थान) जमशेदपुर के सिविल इंजीनियरिंग विभाग की शुरुआत 1960 में ही संस्थान की स्थापना के बाद से हुई थी। इस मुख्य विभाग ने लचीली संकाय संरचना के साथ 33 (तैंतीस) संकाय सदस्यों की शक्ति को मंजूरी दी है। विभाग बी.टेक के लिए यूजी कोर्स चला रहा है। (ऑनर्स) सिविल इंजीनियरिंग और पीजी पाठ्यक्रमों में एम। टेक के रूप में डिग्री। सिविल इंजीनियरिंग की विभिन्न धाराओं में स्ट्रक्चरल इंजीनियरिंग, जियोटेक्निकल इंजीनियरिंग और जल संसाधन इंजीनियरिंग के साथ-साथ पीएचडी कार्यक्रम की डिग्री। विभाग में अच्छी तरह से योग्य और अनुभवी संकाय सदस्य हैं। शिक्षण और अनुसंधान के अलावा, सभी संकाय सदस्य संस्थान के सर्वांगीण विकास के लिए प्रशासनिक रूप से सक्रिय और अन्य पाठ्येतर गतिविधियों में शामिल हैं। विभाग के संकाय सदस्य संस्थान के लिए संसाधन निर्माण के लिए अग्रणी विभिन्न संगठनों के लिए डिजाइन, परीक्षण और परामर्श कार्य भी कर रहे हैं।",[m
+[32m+[m[32m"civil_title2":"विजन",[m
+[32m+[m[32m"civil_title2_para":"संकाय, अनुसंधान विद्वानों और छात्रों की जोरदार भागीदारी के साथ अनुसंधान, शैक्षणिक और परामर्श के लिए सबसे अच्छा विभाग बनने के लिए, समाज और उद्योग के लाभ के लिए सिविल इंजीनियरिंग के क्षेत्र में नैतिकता और नैतिकता के साथ स्मार्ट समाधान का उत्पादन करना।",[m
+[32m+[m[32m"civil_title3":"मिशन",[m
+[32m+[m[32m"civil_title3_para":"आधुनिक प्रयोगशालाओं, उत्कृष्टता के केंद्र और उन्नत कम्प्यूटेशनल सुविधाओं को विकसित करना। सिविल इंजीनियरिंग और अंतःविषय क्षेत्रों के सभी क्षेत्रों में अनुसंधान करने के लिए। सर्वश्रेष्ठ पेशेवर प्रथाओं के प्रति अनुसंधान विद्वानों और छात्रों को प्रेरित करना। बेहतर अवसर प्राप्त करने के लिए उद्योग और आर एंड डी संगठनों के संपर्क में आने वाले छात्रों को स्नातक बनाना। शैक्षिक कार्यक्रमों की पेशकश करने के लिए जो नैतिक और मानवीय मूल्यों के उच्च स्तर के साथ आविष्कारशील ज्ञान प्रदान करता है।",[m
+[32m+[m
+[32m+[m[32m"Faculty_title":"संकाय",[m
+ [m
+[32m+[m[32m"civil_Faculty_titlebutton":"सभी देखें",[m
+ [m
+[31m- , "commentsk" : "Below is Shashank's section"[m
+[32m+[m[32m"Researches_title":"हाल के शोध",[m
+ [m
+[32m+[m[32m"topleft_title":"विभाग के प्रमुख",[m
+ [m
+[31m- ,"about_nitjsr":"NITJSR के बारे में"[m
+[31m-,"heading_institute": "संस्था"[m
+[31m-,"head_about_nitjsr":"NITJSR के बारे में"[m
+[31m-,"head_vision":"दूरदर्शिता और मिशन"[m
+[31m-,"head_acts":"अधिनियम और मूर्तियाँ"[m
+[31m-,"head_board_of_governers":"शासी मंडल"[m
+[31m-,"head_finance_committee":"वित्त समिति"[m
+[31m-,"head_building_and_work":"भवन और निर्माण समिति"[m
+[31m-,"head_senate":"प्रबंधकारिणी समिति"[m
+[31m-,"head_ranking_and_recognition":"रैंकिंग और मान्यता"[m
+[32m+[m[32m"civil_topleft_title_name":"डॉ.राकेश प्रताप सिंह",[m
+ [m
+[32m+[m[32m"topleft_title_contact":"संपर्क करें",[m
+[32m+[m[32m"topleft_title_detail1":"फ़ोन (HOD)",[m
+[32m+[m[32m"topleft_title_detail2":"फ़ोन (HOD ऑफिस)",[m
+[32m+[m[32m"topleft_title_detail3":"ईमेल",[m
+[32m+[m[32m"topleft_title_detail4":"फैक्स",[m
+[32m+[m[32m"topleft_title_detail5":"पता",[m
+[32m+[m[32m"topleft_title_detail5_address":"प.ो.ृत,जमशेदपुर, झारखण्ड,इंडिया- 831014",[m
+ [m
+[32m+[m[32m"topright_title":"नोटिस और घोषणाएँ",[m
+ [m
+[32m+[m[32m"chem_title1":"विषय",[m
+[32m+[m[32m"chem_title1_para":"डिपार्टमेंट ऑफ केमिस्ट्री, नेशनल इंस्टीट्यूट ऑफ टेक्नोलॉजी, जमशेदपुर को मूल रूप से 11260 में टैलेंट इंस्टीट्यूट ऑफ टेक्नोलॉजी के रूप में स्थापित किया गया था, जिसका उद्देश्य प्रतिभाओं का पोषण और शिक्षा और उत्कृष्टता के उच्च मानक स्थापित करना था। विभाग B.Tech स्तर पर इंजीनियरिंग छात्रों की विभिन्न शाखाओं में छात्रों को सामान्य रसायन विज्ञान और इंजीनियरिंग रसायन विज्ञान में निर्देश प्रदान करता है। विभाग ने 1982 से भूतल विज्ञान और इंजीनियरिंग में स्नातकोत्तर कार्यक्रम (एम.टेक) शुरू किया। विभाग विभिन्न उपकरणों से लैस है। शिक्षण के अलावा, विभाग के उच्च योग्य और ऊर्जावान संकाय सदस्यों ने रसायन विज्ञान के बुनियादी और लागू दोनों क्षेत्रों के अपने अनुसंधान गतिविधियों के माध्यम से संस्थान की प्रतिष्ठा को बढ़ाने में बहुत योगदान दिया है।",[m
+[32m+[m[32m"chem_title2":"विजन",[m
+[32m+[m[32m"chem_title2_para":"उद्योग और शिक्षाविदों के बीच सहयोग और देश की सेवा के माध्यम से विज्ञान और प्रौद्योगिकी के क्षेत्र में उत्कृष्टता के केंद्र के रूप में रसायन विज्ञान विभाग का निर्माण करना। व्यापक अनुसंधान पाठ्यक्रम के माध्यम से युवा दिमाग को प्रशिक्षित करने के लिए विश्व स्तरीय अनुसंधान सुविधा का निर्माण। हमारे देश के उन्नत वैज्ञानिक प्रयासों के लिए उज्ज्वल वैज्ञानिकों का एक पूल प्रदान करना।",[m
+[32m+[m[32m"chem_title3":"मिशन",[m
+[32m+[m[32m"chem_title3_para":"इंजीनियरिंग क्षेत्र में लागू रसायन विज्ञान की अच्छी मौलिक अवधारणा प्रदान करने के लिए। उद्योग के साथ-साथ अनुसंधान क्षेत्र में रसायन विज्ञान के महत्व का परिचय देना। इंजीनियरिंग के उच्च अध्ययन में रसायनों, रासायनिक प्रतिक्रियाओं और भौतिक घटनाओं के महत्व का अध्ययन करने के लिए संश्लेषण।",[m
+ [m
+[32m+[m[32m"chem_Faculty_titlebutton":"सभी देखें",[m
+[32m+[m[32m"chem_topleft_title_name":"डॉ बलराम अंबादे",[m
+ [m
+[31m-,"heading_about_us":"हमारे बारे में"[m
+[31m-,"about_us_para":"राष्ट्रीय प्रौद्योगिकी संस्थान, जमशेदपुर, जिसे पहले क्षेत्रीय प्रौद्योगिकी संस्थान के रूप में जाना जाता था, 15 अगस्त 1960 को भारत सरकार और बिहार सरकार के संयुक्त उपक्रम के रूप में आरईसी के क्षेत्रीय (रीजनल इंजीनियरिंग कॉलेज) की श्रृंखला के रूप में स्थापित किया गया था। उच्चतम मानकों के तकनीकी स्नातक जो क्षेत्र को तकनीकी नेतृत्व प्रदान कर सकते हैं। यह द्वितीय पंचवर्षीय योजना (1956 - 1961) के हिस्से के रूप में स्थापित पहले आठ क्षेत्रीय इंजीनियरिंग कॉलेजों (आरईसी) में से एक था। यह देश का एकमात्र आरईसी था जिसे RIT (क्षेत्रीय प्रौद्योगिकी संस्थान) के रूप में नामित किया गया था। इसलिए RIT जमशेदपुर वास्तव में अविभाजित बिहार और झारखंड का REC था। RIT (REC) जमशेदपुर की आधारशिला बिहार की तत्कालीन मुख्यमंत्री डॉ। श्रीकृष्ण सिन्हा द्वारा रखी गई थी, जिनका उद्देश्य प्रतिभाओं का पोषण करना और शिक्षा और उत्कृष्टता के उच्च मानकों को स्थापित करना था। 27 दिसंबर 2002 को, भारत के अन्य सभी आरईसी की पंक्ति में, RIT जमशेदपुर (REC जमशेदपुर भी पढ़ा जा सकता है) को राष्ट्रीय प्रौद्योगिकी संस्थान, जमशेदपुर में सरकार के निर्णय के अनुसार एक डीम्ड विश्वविद्यालय की स्थिति में परिवर्तित कर दिया गया। भारत की। यह संस्थान 1 अप्रैल, 2003 से मानव संसाधन विकास मंत्रालय (MHRD), भारत सरकार द्वारा पूरी तरह से वित्त पोषित और शासित है। 15 अगस्त 2007 को, NIT जमशेदपुर को संसद के एक अधिनियम के माध्यम से राष्ट्रीय महत्व के संस्थान का दर्जा दिया गया था। एनआईटी अधिनियम के रूप में जाना जाता है। संस्थान में इंजीनियरिंग, विज्ञान और मानविकी सहित 12 विभाग हैं। 200 संकाय, 4000 छात्रों, 150 प्रशासनिक और सहायक कर्मचारियों के साथ संस्थान, एक स्व-निहित परिसर है। यह जमशेदपुर के बाहरी इलाके में 341.3 एकड़ में फैला हुआ, पहाड़ी, लुढ़कती हुई भूमि पर स्थित है। यह एक औद्योगिक क्षेत्र के शहरी ग्लैमर के साथ ग्रामीण इलाकों की प्राकृतिक सुंदरता को जोड़ती है। एक तरफ कम पहाड़ियों की बहती नदी और दूसरी तरफ बड़ी पहाड़ियों की सुरम्य पृष्ठभूमि परिसर को उच्च शिक्षा और अनुसंधान के लिए एक आदर्श स्थान बनाती है। यह 1960 से स्थापित होने के बाद से लगातार ताकत से बढ़ रहा है। झारखंड राज्य के समृद्ध खनिज और औद्योगिक बेल्ट के केंद्र में स्थित, परिसर में मुख्य भवन, पुस्तकालय, कंप्यूटर केंद्र, 13 छात्रावास (9 लड़के) शामिल हैं। हॉस्टल और 4 गर्ल्स हॉस्टल), स्टाफ क्वार्टर, गेस्ट हाउस, एक छात्र जिमखाना, एक पोस्ट-ऑफिस, भारतीय स्टेट बैंक की एक शाखा, दो एटीएम, केंद्रीय स्टोर और एक डिस्पेंसरी। हॉस्टल और विभाग हाई स्पीड वायरलेस लैन से जुड़े हैं। संस्थान बास्केटबॉल, वॉलीबॉल, बैडमिंटन और टेनिस के लिए अदालतें रखता है। इसके अलावा, इसमें क्रिकेट, हॉकी और फुटबॉल के मैदान भी हैं। संस्थान उज्ज्वल और होनहार भविष्य के लिए तैयार है। पाठ्यक्रम को पूरी तरह से पुनर्गठित किया गया है और समाज और उद्योगों की जरूरतों के अनुसार तैयार किया गया है। हर मोर्चे पर ताज़ा विकास हो रहा है। संस्थान ने अपने छात्रों के लिए प्रभावशाली प्लेसमेंट हासिल किया है, जिसमें शीर्ष औद्योगिक घरानों और सॉफ्टवेयर कंपनियों ने बड़ी संख्या में छात्रों की भर्ती की है।"[m
+[31m-,"head_location":"स्थान"[m
+[31m-,"location_para":"NIT जमशेदपुर जमशेदपुर शहर के पश्चिमी भाग में स्थित है, जो झारखंड राज्य के दक्षिणी छोर पर है और इसकी सीमा उड़ीसा और पश्चिम बंगाल से लगती है। यह सुनिश्चित करने के लिए अभी तक पर्याप्त है कि इसके शोर के साथ शहर ध्यान भंग करने के लिए बहुत दूर है और बस शहर के सभी सुविधाओं को तुरंत उपलब्ध होने की गारंटी देने के लिए पर्याप्त है। संस्थान रणनीतिक रूप से टाटा-स्टील, टेल्को, इंडियन स्टील वायर प्रोडक्ट्स, टाटा ट्यूब्स, टिनप्लेट कंपनी, टाटा टिम्केन आदि जैसे प्रतिष्ठित और मध्यम स्तर के उद्योगों से घिरे होने के अद्वितीय लाभ के साथ स्थित है और राष्ट्रीय धातुकर्म प्रयोगशाला, जेवियर जैसे प्रतिष्ठित संस्थान हैं। लेबर रिलेशंस इंस्टीट्यूट और नेशनल इंस्टीट्यूट ऑफ फाउंड्री एंड फोर्ज टेक्नोलॉजी, रांची। यहां तक ​​पहुंचने के लिए यहां क्लिक करें।"[m
+[31m-,"head_history":"इतिहास"[m
+[31m-,"history_para":"NIT, जमशेदपुर का औपचारिक रूप से उद्घाटन 15 अगस्त 1960 को आदित्यपुर, जमशेदपुर में किया गया था, तत्कालीन और बिहार के पहले मुख्यमंत्री और RIT, जमशेदपुर के गवर्नर बोर्ड के पहले अध्यक्ष। उनके वाक्पटु भाषण ने उच्च तकनीकी शिक्षा, अनुसंधान और विकास में उत्कृष्टता प्राप्त करने के लिए संस्थान द्वारा पोषित किए जाने वाले सपनों और आकांक्षाओं पर प्रकाश डाला। इस उद्घाटन संबोधन को संस्थापक प्राचार्य डॉ। आर। पी। वर्मा ने मानविकी में 'पहला व्याख्यान' करार दिया। यह उल्लेखनीय है कि संस्थापक अध्यक्ष और संस्थापक प्रिंसिपल दोनों स्वतंत्रता सेनानी थे। उनकी राष्ट्रवादी उत्कंठा और प्रगति के लिए जुनून ने कॉलेज को तकनीकी विकास की ओर सही रास्ते पर ला खड़ा किया। RIT, जमशेदपुर में ऐतिहासिक दिन 27 दिसंबर, 2002 का था, जब इसे औपचारिक रूप से राष्ट्रीय प्रौद्योगिकी संस्थान, जमशेदपुर को डीआईजी विश्वविद्यालय का दर्जा दिया गया था। R.I.T., जमशेदपुर ने 1960 में इंजीनियरिंग की चार शाखाओं (अर्थात सिविल, इलेक्ट्रिकल, मैकेनिकल और धातुकर्म) में स्नातक पाठ्यक्रम की पेशकश शुरू की थी। संस्थान एम.टेक, पीएचडी, गैर-औपचारिक बी। एससी। इंजीनियरिंग कार्यक्रम और एमसीए कार्यक्रम।"[m
+ [m
+[32m+[m[32m"ca_title1":"विषय",[m
+[32m+[m[32m"ca_title1_para":"राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर में कंप्यूटर अनुप्रयोग विभाग का गठन 1987 में किया गया था। अपनी स्थापना के बाद से, विभाग को अपनी उत्कृष्टता के लिए हमेशा पूरे देश में मान्यता दी गई है। विभाग ने लगातार कंप्यूटर और नेटवर्क के क्षेत्र में गुणवत्ता वाले पेशेवरों का उत्पादन किया है और अनुसंधान और विकास में उत्कृष्टता के लिए प्रयास किया है। NIT जमशेदपुर के MIS को कंप्यूटर एप्लीकेशन विभाग द्वारा प्रबंधित किया जाता है।",[m
+ [m
+[32m+[m[32m"ca_Faculty_titlebutton":"सभी देखें",[m
+[32m+[m[32m"ca_topleft_title_name":"प्रोफ. दिलीप कुमार यादव",[m
+ [m
+ [m
+[31m-,"heading_our_vision":"हमारा नज़रिया"[m
+[31m-,"our_vision_para":"समाज की भविष्य की जरूरतों को पूरा करने के लिए अपनी अकादमिक उत्कृष्टता और नवीन अनुसंधान के लिए प्रमुख तकनीकी संस्थानों में से एक होना।"[m
+[31m-,"heading_our_mission":"हमारा लक्ष्य"[m
+[31m-,"our_mission_para":"सीखने और रचनात्मकता के लिए अनुकूल वातावरण का निर्माण करना। छात्रों को तकनीकी रूप से सक्षम पेशेवर और सामाजिक रूप से जिम्मेदार नागरिक बनने के लिए प्रशिक्षित करना। समाज की भलाई के लिए नवीन उत्पादों और प्रौद्योगिकियों का विकास करना।"[m
+[32m+[m[32m"cse_title1":"विषय",[m
+[32m+[m[32m"cse_title1_para":"राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर में कंप्यूटर विज्ञान और इंजीनियरिंग विभाग का गठन 1992 में किया गया था। इसकी स्थापना के बाद से, विभाग को इसकी उत्कृष्टता के लिए हमेशा पूरे देश में मान्यता दी गई है। विभाग ने लगातार कंप्यूटर विज्ञान और इंजीनियरिंग के क्षेत्र में गुणवत्ता वाले पेशेवरों का उत्पादन किया है और अनुसंधान और विकास में उत्कृष्टता के लिए प्रयास किया है।",[m
+[32m+[m[32m"cse_title2":"विजन",[m
+[32m+[m[32m"cse_title2_para":"समाज की जरूरतों को पूरा करने के लिए उच्च गुणवत्ता वाले उद्योग तैयार कंप्यूटर इंजीनियर तैयार करना।",[m
+[32m+[m[32m"cse_title3":"मिशन",[m
+[32m+[m[32m"cse_title3_para":"युवा दिमागों को प्रशिक्षित करना और उन्हें उद्योग, शिक्षा और अनुसंधान की वर्तमान और भविष्य की मांगों को पूरा करने के लिए सर्वोत्तम संभव तकनीकी ज्ञान से लैस करना। कंप्यूटर विज्ञान और सूचना प्रौद्योगिकी के क्षेत्र में कला अनुसंधान कार्य की स्थिति के लिए बुनियादी ढाँचा, प्रेरणा और संस्कृति बनाना।",[m
+ [m
+[32m+[m[32m"cse_Faculty_titlebutton":"सभी देखें",[m
+[32m+[m[32m"cse_topleft_title_name":"डॉ. संजय कुमार",[m
+ [m
+[32m+[m[32m"ece_title1":"विषय",[m
+[32m+[m[32m"ece_title1_para":"इलेक्ट्रॉनिक्स और संचार इंजीनियरिंग विभाग 1989 में शुरू किया गया था। विभाग इलेक्ट्रॉनिक सर्किट, माइक्रोप्रोसेसर, डिजिटल सिग्नल प्रोसेसिंग, एनालॉग संचार, डिजिटल संचार, मोबाइल संचार, वीएलएसआई, एंबेडेड सिस्टम, इंस्ट्रूमेंटेशन इत्यादि विषयों को शामिल करता है। विभाग प्रयोगशालाएं है। पढ़ाई के सभी विषयों के लिए खानपान। कम्युनिकेशन इंजीनियरिंग, वीएलएसआई और एंबेडेड सिस्टम, सिग्नल प्रोसेसिंग, इंस्ट्रूमेंटेशन और सॉफ्ट कंप्यूटिंग के समूहों के तहत विभिन्न विशेषज्ञताओं में पांच शोध विद्वान काम कर रहे हैं। विभाग ने हमारी आवश्यकताओं को पूरा करने के लिए संकाय पूल को अत्यधिक प्रेरित किया है।",[m
+[32m+[m[32m"ece_title2":"विजन",[m
+[32m+[m[32m"ece_title2_para":"ग्लोबल नॉलेज हब तकनीकी और अंतःविषय डोमेन में उत्कृष्टता, अनुसंधान और उद्यमशीलता के मेक इन इंडिया के अनुसरण में डिजिटल इंडिया के लिए बेकिंग पिलर ड्राइव",[m
+[32m+[m[32m"ece_title3":"मिशन",[m
+[32m+[m[32m"ece_title3_para":"अगली पीढ़ी के पेशेवर विद्वान को विकसित करने के लिए कुल गुणवत्ता की शिक्षा प्रदान करना, विश्व स्तर पर प्रतिस्पर्धी माहौल के लिए फिट है। खोज, पूछताछ, नवाचार, अनुसंधान, परिवर्तनकारी छात्रवृत्ति, और रचनात्मक गतिविधियों के माध्यम से मूल विचारों का उपयोग करके आर्थिक, सामाजिक और पर्यावरणीय विकास के माध्यम से मूल्य सृजन। झारखंड राज्य, भारत और अंततः विश्व की सामाजिक आवश्यकताओं की सेवा के लिए प्रतिबद्ध, विविध संकाय, कर्मचारियों, छात्रों और समुदाय के बीच बातचीत को शामिल करके एक आत्मनिर्भर और धन सृजन केंद्र की स्थापना के लिए उत्पाद उन्मुख अनुसंधान में नाटकीय वृद्धि।",[m
+ [m
+[32m+[m[32m"ece_Faculty_titlebutton":"सभी देखें",[m
+[32m+[m[32m"ece_topleft_title_name":"प्रो.शिव नंद सिंह",[m
+ [m
+[31m-,"heading_acts_and_statues":"अधिनियम और मूर्तियाँ"[m
+ [m
+[32m+[m[32m"ee_title1":"About",[m
+[32m+[m[32m"ee_title1_para":"1960 में इलेक्ट्रिकल इंजीनियरिंग विभाग शुरू किया गया था। विभाग अपनी स्थापना के बाद से लगातार गुणवत्ता वाले इलेक्ट्रिकल इंजीनियरों का उत्पादन कर रहा है और अनुसंधान और विकास गतिविधियों में भी शामिल है। विभाग के पूर्व छात्रों को सार्वजनिक और निजी दोनों क्षेत्रों में अच्छी तरह से रखा गया है। यूजी कार्यक्रम के अलावा विभाग पावर सिस्टम्स और पीएचडी में पीजी कार्यक्रम चलाता है। विशेषज्ञता के विभिन्न क्षेत्रों में कार्यक्रम।",[m
+[32m+[m[32m"ee_title2":"विजन",[m
+[32m+[m[32m"ee_title2_para":"इलेक्ट्रिकल इंजीनियरिंग के क्षेत्र में विश्व स्तर की शिक्षा प्रदान करने और व्यापक और गुणवत्ता अनुसंधान आयोजित करने और समाज की बेहतरी के लिए नवाचारों को बढ़ावा देने के लिए एक केंद्र होने के लिए।",[m
+[32m+[m[32m"ee_title3":"मिशन",[m
+[32m+[m[32m"ee_title3_para":"युवा मन को प्रशिक्षित करने और उद्योग की वर्तमान और भविष्य की मांगों को पूरा करने के लिए सर्वोत्तम संभव तकनीकी ज्ञान से लैस करने के लिए, उद्योग के साथ निकट संपर्क में शिक्षा और अनुसंधान को पहचानने और युवा पुरुषों और महिलाओं में नेतृत्व गुणों को स्थापित करने के लिए जो सुधार के पोर्टल में प्रवेश करते हैं। सामाजिक विकास के लिए संवेदनशीलता के साथ और अंतरराष्ट्रीय परिप्रेक्ष्य में विकास के लिए एक आंख के साथ संस्थान।",[m
+ [m
+[31m-,"heading_board_of_members":"सदस्यों"[m
+[31m-,"head_ex_chairman":"पूर्व आधिकारिक अध्यक्ष"[m
+[31m-,"subhead_ex_chairman":"Prof. Karunesh Kumar Shukla(Director)"[m
+[31m-,"ex_chairman_details":"निदेशक, राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर"[m
+[32m+[m[32m"ee_Faculty_titlebutton":"सभी देखें",[m
+[32m+[m[32m"ee_topleft_title_name":"प्रोफ. रबिन्द्र नाथ म्हणती",[m
+ [m
+[31m-,"head_senate_nominee":"सीनेट नामांकित व्यक्ति"[m
+[31m-,"subhead_senate_nominee":"Prof. A.K.L.Srivastava  &  Dr. Uday Kumar"[m
+ [m
+[31m-,"head_NIT_Council_Nominee":"एनआईटी परिषद के उम्मीदवार"[m
+[31m-,"subhead_NIT_Council_Nominee":"Dr. Savita Mishra"[m
+[32m+[m[32m"humanities_title1":"विषय",[m
+[32m+[m[32m"humanities_title1_para":"जब संस्थान को 1960 में क्षेत्रीय प्रौद्योगिकी संस्थान के रूप में स्थापित किया गया था, तब विभाग मानविकी विभाग के रूप में आया था और आईआईटी में मानविकी और सामाजिक विज्ञान विभाग की तर्ज पर बनाया गया था। विभाग अंग्रेजी, दर्शनशास्त्र, मनोविज्ञान, राजनीति विज्ञान और अर्थशास्त्र से B.Sc. (इंजी।) छात्र। 2014 में, विभाग को मानविकी, सामाजिक विज्ञान और प्रबंधन विभाग में अपग्रेड किया गया था। विभाग वर्तमान में संचार, सॉफ्ट स्किल्स, संगठनात्मक व्यवहार और औद्योगिक मनोविज्ञान, औद्योगिक अर्थशास्त्र और लेखा, बीटेक (ऑनर्स) के प्रबंधन सूचना प्रणाली पाठ्यक्रम के छात्रों और तकनीकी संचार के लिए एम टेक, संचार अभ्यास के लिए अंग्रेजी सिखाने में लगा हुआ है। M.Sc, वित्तीय प्रबंधन, खींचें व्यवहार और प्रबंधन MCA और ऐच्छिक (इको उद्यमिता विकास के सिद्धांत) के लिए। विभाग के संकाय सदस्य प्लेसमेंट उद्देश्यों के लिए मौखिक और लिखित संचार कौशल के क्षेत्र में छात्रों को प्रशिक्षित कर रहे हैं। विभाग की योजना है कि निकट भविष्य में दो साल का पूर्णकालिक स्नातकोत्तर कार्यक्रम शुरू किया जाए।",[m
+[32m+[m[32m"humanities_title2":"विजन",[m
+[32m+[m[32m"humanities_title2_para":"एनआईटी जमशेदपुर को एक विश्वस्तरीय संस्था के रूप में उभरने में योगदान देने के लिए, अत्यधिक कुशल इंजीनियरों का उत्पादन करना जो इस दुनिया को एक बेहतर स्थान बनाने के लिए मानवीय मूल्यों और सामाजिक जिम्मेदारी के साथ अपनी सर्वश्रेष्ठ विलय सौंदर्यशास्त्र में प्रौद्योगिकी के बेहतरीन नमूने हैं।",[m
+[32m+[m[32m"humanities_title3":"मिशन",[m
+[32m+[m[32m"humanities_title3_para":"छात्रों के व्यक्तित्व के समग्र विकास में योगदान करने के लिए ताकि उन्हें अपने व्यावसायिक और सामाजिक चुनौतियों को सफलतापूर्वक पूरा करने में सक्षम बनाया जा सके और उनमें आवश्यक मानवीय मूल्यों को विकसित किया जा सके और उन्हें पर्यावरण की चिंताओं के प्रति संवेदनशील बनाया जा सके।",[m
+ [m
+[31m-,"head_NIT_Council_Member":"एनआईटी परिषद के सदस्य"[m
+[31m-,"subhead_NIT_Council_Member":"Mr. Bhanu Prakash Jalan"[m
+[32m+[m[32m"humanities_Faculty_titlebutton":"सभी देखें",[m
+[32m+[m[32m"humanities_topleft_title_name":"डॉ. राजीव भूषन",[m
+ [m
+[31m-,"head_MHRD_New_Delhi":"एमएचआरडी, नई दिल्ली"[m
+[31m-,"subhead_MHRD_New_Delhi":"JS & FA(MHRD, New Delhi)  &  JS(MHRD, New Delhi)"[m
+ [m
+[31m-,"head_members":"सदस्यों"[m
+[31m-,"subhead_member1":"Professor Pushpak Bhattacharyya"[m
+[31m-,"member1_details":"निदेशक, आईआईटी पटना"[m
+[32m+[m[32m"maths_title1":"विषय",[m
+[32m+[m[32m"maths_title1_para":"1960 में राष्ट्रीय प्रौद्योगिकी संस्थान, जमशेदपुर के रूप में राष्ट्रीय प्रौद्योगिकी संस्थान की स्थापना के बाद से गणित विभाग की स्थापना की गई थी। विभाग अपने छात्रों और शिक्षाविदों के विभिन्न क्षेत्रों में भी फलने-फूलने के लिए उत्कृष्ट शिक्षण द्वारा पूरक उत्कृष्ट शोध वातावरण प्रदान करता है। विभाग ने पीएचडी छात्रों की एक अच्छी संख्या का उत्पादन किया है। विभाग के छात्रों को प्रमुख शैक्षणिक संस्थानों, अनुसंधान और विकास संगठनों और सॉफ्टवेयर उद्योगों जैसे IIT, ONGC, IBM, WIPRO आदि में रखा गया है। वर्तमान में, विभाग ने M.Sc. गणित का कार्यक्रम। साथ ही, विभाग 2-वर्षीय M.Sc. एप्लाइड मैथमैटिक्स और 5 वर्षीय इंटीग्रेटेड एम.एससी। कार्यक्रम।",[m
+[32m+[m[32m"maths_title3":"मिशन",[m
+[32m+[m[32m"maths_title3_para":"विषय के ध्वनि मौलिक प्रदान करने के लिए। अनुसंधान क्षेत्रों के उभरते क्षेत्र पर ध्यान केंद्रित करने के लिए। छात्रों को उद्योगों और प्रयोगशालाओं के साथ जोड़ने के लिए ताकि वे विषय की वास्तविक शक्ति की कल्पना करें।",[m
+ [m
+[31m-,"subhead_member2":"Professor D.K. Singh"[m
+[31m-,"member2_details":"निदेशक, बीआईटी सिंदरी"[m
+[32m+[m[32m"maths_Faculty_titlebutton":"सभी देखें",[m
+[32m+[m[32m"maths_topleft_title_name":"डॉ. सुनील कुमार",[m
+ [m
+[31m-,"subhead_member3":"निदेशक"[m
+[31m-,"member3_details":"उच्च और तकनीकी शिक्षा विभाग, सरकार। झारखंड का"[m
+ [m
+[31m-,"heading_secretary":"सचिव"[m
+[31m-,"subheading_secretary":"Colonel Nisheeth Kumar Rai (Retd.)"[m
+[32m+[m[32m"me_title1":"विषय",[m
+[32m+[m[32m"me_title1_para":"मैकेनिकल इंजीनियरिंग विभाग सबसे पुराना (1960 में शुरू) और संकाय, छात्रों और गतिविधियों के मामले में सबसे बड़ा विभाग है। विभाग मैकेनिकल इंजीनियरिंग में B.Tech (ऑनर्स), कंप्यूटर इंटीग्रेटेड डिज़ाइन एंड मैन्युफैक्चरिंग (CIDM) में M.Tech, थर्मल इंजीनियरिंग (M.Tech) में M.Tech और ऊर्जा प्रणाली (ES) में M.Tech प्रदान करता है। विभाग मैकेनिकल इंजीनियरिंग में विभिन्न अनुसंधान क्षेत्रों में पीएचडी कार्यक्रम भी चला रहा है। यह अंशकालिक पीएचडी कार्यक्रम भी प्रदान करता है, जो मुख्य रूप से उद्योगों और शैक्षणिक संस्थानों में कार्यरत लोगों के लिए है। विभाग मैकेनिकल इंजीनियरिंग की सभी धाराओं में उच्च योग्य और अनुभवी संकाय है। छात्रों और कर्मचारियों के बीच एक पारस्परिक संबंध बनाए रखा जाता है जो छात्रों को एक अनुकूल वातावरण में स्ट्रीम में एक ध्वनि नींव विकसित करने में सक्षम बनाता है।",[m
+[32m+[m[32m"me_title2":"विजन",[m
+[32m+[m[32m"me_title2_para":"मैकेनिकल इंजीनियरिंग के क्षेत्र में विश्व स्तर की शिक्षा प्रदान करने के लिए एक केंद्र होना और व्यापक और गुणवत्ता अनुसंधान का संचालन करना और समाज की भलाई के लिए नवाचारों को बढ़ावा देना।",[m
+[32m+[m[32m"me_title3":"मिशन",[m
+[32m+[m[32m"me_title3_para":"युवा दिमागों को प्रशिक्षित करना और उन्हें उद्योग, शैक्षणिक और अनुसंधान की वर्तमान और भविष्य की मांगों को पूरा करने के लिए सर्वोत्तम संभव तकनीकी ज्ञान से लैस करना। मैकेनिकल इंजीनियरिंग के क्षेत्र में कला अनुसंधान कार्य की स्थिति के लिए बुनियादी ढाँचा, प्रेरणा और संस्कृति बनाना। उद्योग, आर एंड डी संगठन और शैक्षणिक संस्थानों के साथ बातचीत और विकास द्वारा अनुसंधान और शिक्षण को बढ़ाने के लिए। उत्कृष्टता, रचनात्मकता और पूर्णता के लिए एक ऊर्जावान वातावरण विकसित करना।",[m
+ [m
+[31m-,"heading-min_of_meet":"बैठक के कार्यवृत्त"[m
+[32m+[m[32m"me_Faculty_titlebutton":"सभी देखें",[m
+[32m+[m[32m"me_topleft_title_name":"प्रोफ. मणि कांत पासवान",[m
+ [m
+ [m
+[32m+[m[32m"mme_title1":"विषय",[m
+[32m+[m[32m"mme_title1_para":"मेटलर्जिकल एंड मैटेरियल्स इंजीनियरिंग विभाग चार शाखाओं में से था जिसके साथ संस्थान को शुरू में 1960 में शुरू किया गया था, जिस पर ध्यान केंद्रित किया गया था: मैटेरियल टेक्नोलॉजी फाउंड्री टेक्नोलॉजी आयरन एंड स्टील नैनो टेक्नोलॉजी मिनरल बेनेफिट एंड आरएंडडी का काम इन क्षेत्रों में किया जा रहा है। सेक्टर, मैटेरियल्स इंजीनियरिंग को 1995 में विभाग के पाठ्यक्रम में शामिल किया गया था। सामग्री प्रौद्योगिकी और फाउंड्री प्रौद्योगिकी पर एम.टेक पाठ्यक्रम हैं। वर्तमान में अनुसंधान चल रहा है: भौतिक धातुकर्म हाइड्रो धातुकर्म प्रक्रिया धातुकर्म खनिज अभिलक्षण और लाभकारी",[m
+ [m
+[32m+[m[32m"mme_Faculty_titlebutton":"सभी देखें",[m
+[32m+[m[32m"mme_topleft_title_name":"डॉ. अशोक कुमार",[m
+ [m
+ [m
+[32m+[m[32m"phy_title1":"विषय",[m
+[32m+[m[32m"phy_title1_para":"राष्ट्रीय प्रौद्योगिकी संस्थान, जमशेदपुर में भौतिकी विभाग का गठन 1960 में किया गया था। इसकी स्थापना के बाद से, विभाग को इसकी उत्कृष्टता के लिए पूरे देश में मान्यता दी गई है। विभाग ने भौतिकी के क्षेत्र में लगातार गुणवत्ता वाले पेशेवरों का उत्पादन किया है और अनुसंधान और विकास में उत्कृष्टता के लिए प्रयास किया है। विभाग में वर्तमान में डीएसटी-इंस्पायर फैकल्टी सहित 11 संकाय सदस्य और डॉक्टोरल रिसर्च में 11 रिसर्च स्कॉलर हैं। विभाग सक्रिय रूप से सौर ऊर्जा, परमाणु बिखरने और सुपरस्मेट्री, गणितीय भौतिकी, होलोग्राफी सहित भौतिकी के कई प्रमुख क्षेत्रों में फ्रंट-लाइन अनुसंधान में भाग लेता है। और होलोग्राफिक ऑप्टिकल तत्व, स्पेकल मीटरोलॉजी, कंडेंस्ड मैटर भौतिकी, प्लाज़्मा भौतिकी, कम्प्यूटेशनल भौतिकी और स्पेक्ट्रोस्कोपी। वर्तमान विभाग 2 साल के मास्टर ऑफ साइंस (भौतिकी) कार्यक्रम के साथ-साथ पीएचडी की पेशकश करते हैं। भौतिकी के विभिन्न प्रमुख क्षेत्रों में विशेषज्ञता के साथ कार्यक्रम। विभाग B.Tech को इंजीनियरिंग भौतिकी सिखाने में भी भाग लेता है। (ऑनर्स।) सभी विषयों के छात्र अर्थात्- सिविल इंजीनियरिंग, कंप्यूटर साइंस एंड इंजीनियरिंग, इलेक्ट्रिकल और इलेक्ट्रॉनिक्स इंजीनियरिंग, इलेक्ट्रॉनिक्स और कम्युनिकेशन इंजीनियरिंग, प्रोडक्शन एंड इंडस्ट्रियल इंजीनियरिंग, मैकेनिकल इंजीनियरिंग और इंस्टीट्यूट के मेटालर्जिकल एंड मैटेरियल्स इंजीनियरिंग। हमारे एम.एससी। छात्र भारत के राष्ट्रीय स्तर की प्रतियोगी परीक्षाओं जैसे CSIR-NET, GATE, JEST के साथ-साथ विज्ञान और प्रौद्योगिकी विभाग (DST), भारत द्वारा दी जाने वाली INSPIRE फेलो योजना में अच्छी रैंकिंग कर रहे हैं।",[m
+[32m+[m[32m"phy_title2":"विजन",[m
+[32m+[m[32m"phy_title2_para":"भौतिकी में गुणवत्तापूर्ण शिक्षा और विश्व स्तर के उच्च तकनीकी रूप से प्रशिक्षित मानव संसाधन का उत्पादन। उभरते और जोर क्षेत्रों में लागू भौतिकी में अनुसंधान और विकास को बढ़ावा देना और अकादमिक उत्कृष्टता की प्राप्ति। भौतिक विज्ञान की प्रकृति, रोजमर्रा की जिंदगी में भौतिकी की प्रशंसा और तकनीकी विशेषज्ञता की अधिक समझ प्रदान करें। तकनीकी और बहु-विषयक डोमेन में उत्कृष्टता।",[m
+[32m+[m[32m"phy_title3":"मिशन",[m
+[32m+[m[32m"phy_title3_para":"अच्छी तरह से तैयार स्नातकों का उत्पादन करने के लिए गुणवत्ता शिक्षा, भौतिकी में समझ और प्रयोगात्मक कौशल का विकास करना। उत्कृष्ट तकनीकी शिक्षा प्रदान करके वैश्विक तकनीकी विकास को गतिशील, अग्रगामी और उत्तरदायी प्रदान करना।",[m
+ [m
+[31m-,"heading_Finance_Committee":"वित्त समिति"[m
+[31m-,"Finance_Committee_members":"सदस्यों"[m
+[31m-[m
+[31m-,"mem_1_name":"Prof. Karunesh Kumar Shukla(Director)"[m
+[31m-,"mem_1_post":"अध्यक्ष"[m
+[31m-,"mem_1_contact":"director@nitjsr.ac.in , 06572374108"[m
+[31m-[m
+[31m-,"mem_2_name":"Colonel Nisheeth Kumar Rai (Retd.)(Registrar (I/C))"[m
+[31m-,"mem_2_post":"सचिव"[m
+[31m-,"mem_2_contact":"registrar@nitjsr.ac.in , 0657-237-4027"[m
+[31m-[m
+[31m-,"mem_3_name":"Mrs. Darshana M. Dabral(JS & FA , MHRD, New Delhi.)"[m
+[31m-,"mem_3_post":"सदस्य"[m
+[31m-[m
+[31m-,"mem_4_name":"JS, MHRD, New Delhi"[m
+[31m-,"mem_4_post":"सदस्य"[m
+[31m-[m
+[31m-,"mem_5_name":"Shree Bhanu Prakash Jalan"[m
+[31m-,"mem_5_post":"सदस्य (बीओजी प्रतिनिधि)"[m
+[31m-[m
+[31m-,"mem_6_name":"Smt. Savita Mishra"[m
+[31m-,"mem_6_post":"सदस्य (बीओजी प्रतिनिधि)"[m
+[31m-[m
+[31m-,"head_minofmeet_fin_comm":"बैठक के कार्यवृत्त"[m
+[32m+[m[32m"phy_Faculty_titlebutton":"सभी देखें",[m
+[32m+[m[32m"phy_topleft_title_name":"प्रो.उसके बछड़े",[m
+ [m
+ [m
+[32m+[m[32m"pi_title1":"विषय",[m
+[32m+[m[32m"pi_title1_para":"उत्पादन और औद्योगिक इंजीनियरिंग विभाग 1988 में 'उत्पादन इंजीनियरिंग और प्रबंधन' के नाम से शुरू किया गया था। वर्ष 2007 में इस विभाग का नाम बदलकर प्रोडक्शन एंड इंडस्ट्रियल इंजीनियरिंग कर दिया गया। विभाग को 2009 में एनबीए द्वारा मान्यता दी गई। इस मुख्य विभाग में लचीली संकाय संरचना के साथ 16 (सोलह) संकाय सदस्यों की स्वीकृति है। वर्तमान में, 02 प्रोफेसर, 03 एसोसिएट प्रोफेसर और 08 सहायक प्रोफेसर हैं। प्रत्येक संकाय सदस्य ने विभिन्न शोध क्षेत्रों में डॉक्टरेट की उपाधि प्राप्त की है। विभाग बी.टेक के लिए एक यूजी कोर्स चला रहा है। (ऑनर्स।) प्रोडक्शन एंड इंडस्ट्रियल इंजीनियरिंग में डिग्री और मैन्युफैक्चरिंग सिस्टम इंजीनियरिंग में पीजी कोर्स के साथ-साथ प्रोडक्शन और इंडस्ट्रियल इंजीनियरिंग की विभिन्न धाराओं में पीएचडी प्रोग्राम। विभाग वर्तमान में सीएडी / सीएएम लैब, एडवांस्ड मैन्युफैक्चरिंग और फ्लेक्सिबल मैन्युफैक्चरिंग सिस्टम लैब।, नॉन-ट्रेडिशनल मैन्युफैक्चरिंग लैब और इंडस्ट्रियल इंजीनियरिंग एंड एर्गोनॉमिक्स लैब और सेंट्रल वर्कशॉप जैसी विभिन्न इंजीनियरिंग प्रयोगशालाओं का विकास कर रहा है। समय-समय पर पाठ्यक्रम / पाठ्यक्रम को बाजार और प्रौद्योगिकी की आवश्यकता के अनुसार उन्नत किया जाता है। विभाग ने उत्पादन प्रबंधन में एक नया पीजी पाठ्यक्रम शुरू करने का भी प्रस्ताव किया है जो वर्तमान औद्योगिक आवश्यकता को पूरा करेगा।",[m
+[32m+[m[32m"pi_title2":"विजन",[m
+[32m+[m[32m"pi_title2_para":"उत्कृष्ट तकनीकी ज्ञान, अनुसंधान कौशल, नेतृत्व कौशल और नैतिक जिम्मेदारी के साथ इंजीनियरों और शोधकर्ताओं का उत्पादन करना।",[m
+[32m+[m[32m"pi_title3":"मिशन",[m
+[32m+[m[32m"pi_title3_para":"संबंधित विषयों में मौलिक ज्ञान के साथ बी.टेक, एम। टेक और पीएचडी छात्रों को शिक्षित करने के लिए और उन्हें क्षेत्र में अत्याधुनिक के साथ अद्यतन करने के लिए। प्रयोगशालाओं को विकसित करने और बनाए रखने के लिए जो छात्रों की जरूरतों को पूरा करते हैं अंतर-अनुशासनिक अनुसंधान के लिए क्वेस्ट। शिक्षा-उद्योग सहयोग को बढ़ावा देना",[m
+ [m
+[32m+[m[32m"pi_Faculty_titlebutton":"सभी देखें",[m
+[32m+[m[32m"pi_topleft_title_name":"डॉ.शशि भूषण प्रसाद",[m
+ [m
+[32m+[m[41m  [m
+[32m+[m[32m "curriculum_title":"पहला साल",[m
+[32m+[m[32m "curriculum_title_link":"सभी प्रथम वर्ष के बीटेक प्रोग्राम के लिए पाठ्यक्रम और पाठ्यक्रम",[m
+ [m
+ [m
+[32m+[m[32m "student_statistics_title":"छात्र सांख्यिकी",[m
+ [m
+[31m-,"heading_building_and_work_comittee":"भवन और निर्माण समिति"[m
+[31m-,"building_and_work_comittee_members":"सदस्यों"[m
+[32m+[m[32m "student_statistics_para_pg": "यहां तालिका पोस्ट ग्रेजुएट प्रोग्राम के लिए प्रत्येक विभाग में इंटेक की संख्या का प्रतिनिधित्व करती है।",[m
+ [m
+[31m-,"b_mem_1_name":"Prof. Karunesh Kumar Shukla(Director)"[m
+[31m-,"b_mem_1_post":"अध्यक्ष"[m
+[31m-,"b_mem_1_contact":"director@nitjsr.ac.in , 06572374108"[m
+[32m+[m[32m"statistics_thead_tr1":"बैच",[m
+[32m+[m[32m"statistics_thead1_tr2":"एमसीए",[m
+[32m+[m[32m"statistics_thead1_tr3":"एमटेक",[m
+[32m+[m[32m"statistics_thead1_tr4":"पीएचडी",[m
+ [m
+[31m-,"b_mem_2_name":"Colonel Nisheeth Kumar Rai (Retd.)(Registrar (I/C))"[m
+[31m-,"b_mem_2_post":"सचिव"[m
+[31m-,"b_mem_2_contact":"registrar@nitjsr.ac.in , 0657-237-4027"[m
+[32m+[m[32m"student_statistics_para_ug": "यहां तालिका अंडर ग्रेजुएट बी.टेक प्रोग्राम के लिए प्रत्येक विभाग में इंटेक की संख्या का प्रतिनिधित्व करती है।",[m
+[32m+[m[32m"statistics_thead2_tr1":"बैच",[m[41m	[m
+ [m
+[31m-,"b_mem_3_name":"JS, MHRD, New Delhi"[m
+[31m-,"b_mem_3_post":"सदस्यों"[m
+[32m+[m[32m "Fee_title":"शुल्क संरचना",[m
+ [m
+[31m-,"b_mem_4_name":"Shri Vivek Prakash Srivastava (Chief Engineer(Civil) I.I.T, Kharagpur)"[m
+[31m-,"b_mem_4_post":"सदस्यों"[m
+[32m+[m[32m"Fee_link1": "2014 और 2015 बैच के लिए शुल्क संरचना - बीटेक (ऑनर्स) कार्यक्रम",[m
+[32m+[m[32m"Fee_link2":"2014 बैच डीएएसए छात्रों के लिए शुल्क संरचना - बी.टेक (ऑनर्स) कार्यक्रम।",[m
+[32m+[m[32m"Fee_link3":"2015 बैच डीएएसए छात्रों के लिए शुल्क संरचना - बी.टेक (ऑनर्स) कार्यक्रम।",[m
+[32m+[m[32m"Fee_link4":"2016 बैच के लिए शुल्क संरचना - बीटेक (ऑनर्स) कार्यक्रम।",[m
+[32m+[m[32m"Fee_link5":"2016 बैच डीएएसए छात्रों के लिए शुल्क संरचना - बीटेक (ऑनर्स) कार्यक्रम।",[m
+[32m+[m[32m"Fee_link6":"2017 बैच के लिए शुल्क संरचना - बीटेक (ऑनर्स) कार्यक्रम",[m
+[32m+[m[32m"Fee_link7":"2017 बैच डीएएसए छात्रों के लिए शुल्क संरचना - बी.टेक (ऑनर्स) कार्यक्रम",[m
+[32m+[m[32m"Fee_link8":"2015 बैच के छात्रों के लिए फीस संरचना - एमसीए कार्यक्रम",[m
+[32m+[m[32m"Fee_link9":"2016 और 2017 बैच के छात्रों के लिए फीस संरचना - एम.टेक और एमसीए कार्यक्रम",[m
+[32m+[m[32m"Fee_link10":"2017 बैच के लिए शुल्क संरचना और 2017 बैच - M.Sc और Ph.D कार्यक्रम को छोड़कर अन्य सभी छात्रों को",[m
+[32m+[m[32m"Fee_link11": "विभिन्न कार्यक्रमों के लिए एनआईटी जमशेदपुर में शैक्षणिक सत्र 2019-20 के लिए शुल्क संरचना",[m
+[32m+[m[32m"Fee_clicklink":"भुगतान करने के लिए यहां क्लिक करें",[m
+[32m+[m[32m"Fee_bottomlink":"कृपया ऑन-लाइन भुगतान की रसीद का प्रिंट आउट / पीडीएफ लें।",[m
+ [m
+[31m-,"b_mem_5_name":"Prof. A.K.L. Srivastava (Dean (P&D), NIT Jamshedpur)"[m
+[31m-,"b_mem_5_post":"सदस्यों"[m
+[32m+[m[32m "semester_schedule_title":"बीटेक प्रोग्राम के लिए मास्टर टाइम टेबल।",[m
+ [m
+[31m-,"b_mem_6_name":"Prof. A.K. Choudhary (Professor, Civil Engineering, NIT Jamshedpur)"[m
+[31m-,"b_mem_6_post":"सदस्यों"[m
+[32m+[m[32m "schedule_1stsem":"पहला सेमेस्टर",[m
+[32m+[m[32m"schedule_2ndsem" :"तीसरा सेमेस्टर",[m
+ [m
+[31m-,"head_minof_work_comittee":"बैठक के कार्यवृत्त"[m
+ [m
+[32m+[m[32m "ordinance_title":"अध्यादेश",[m
+[32m+[m[32m  "ordinance_title_link1":"अंडरग्रेजुएट प्रोग्राम",[m
+[32m+[m[32m "ordinance_title_link2": "स्नातकोत्तर कार्यक्रम",[m
+[32m+[m[32m  "ordinance_title_link3": "पीएचडी कार्यक्रम",[m
+ [m
+[32m+[m[41m  [m
+[32m+[m[32m"academic_documents_title1":"अकादमिक कैलेंडर",[m
+[32m+[m[32m"academic_documents_title1_link":"डाउनलोड अकादमिक कैलेंडर 2020",[m
+ [m
+[32m+[m[32m"academic_documents_title2":"छुट्टियों की सूची",[m
+[32m+[m[32m"academic_documents_title2_link":"छुट्टियों की सूची डाउनलोड करें"[m
+ [m
+ [m
+[31m-,"commentsk2":"above is shashank's work",[m
+[31m-  [m
+[31m-  [m
+[31m-  "commenthk1" : "below is himanshu's work",[m
+[31m-  [m
+[31m- [m
+[31m-  "p-home" : "लोग" ,[m
+[31m-  "director" : "निदेशक" ,[m
+[31m-  "deans" : "डीन" ,[m
+[31m-  "associate" : "सहयोगी डीन" ,[m
+[31m-  "assistant" : "सहायक डीन" ,[m
+[31m-  "hod" : "विभाग के प्रमुख" ,[m
+[31m-  "fic" : "संकाय प्रभारी" ,[m
+[31m-  "fac" : "संकाय" ,[m
+[31m-  "ward" : "वार्डन" ,[m
+[31m-  "reg" : "रजिस्ट्रार" ,[m
+[31m-  "off" : "अफ़सर" ,[m
+[31m-  "staff" : "कर्मचारी" ,[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-   "dir-profile-head" : "प्रोफ़ाइल" ,[m
+[31m-   "dean-head" : "डीन",[m
+[31m-[m
+[31m-[m
+[31m-   "asso-d-head" : "सहयोगी डीन",[m
+[31m-    "card-md-hassan" : "डॉ। एमडी आशिक हसन",[m
+[31m-    "card-rao" : "डॉ। चिंतलचेरुवु मधुसूदन राव",[m
+[31m-     "p-rao" : "शैक्षणिक: मान्यता और प्रत्यायन",[m
+[31m-    "card-tushar" : "डॉ। तुषार बैनर्जी" ,[m
+[31m-      "p-tushar" : "उद्योग और पूर्व छात्र संबंध",[m
+[31m-    "card-vishesh" : "डॉ। विशेश रंजन कर",[m
+[31m-      "p-vishesh" : "अनुसंधान और परामर्श",[m
+[31m-    "card-prashant" : "डॉ। प्रशांत कुमार" ,[m
+[31m-      "p-prashant" : "छात्र कल्याण",[m
+[31m-    "card-subhash" : "डॉ। सुभाष सिंह",[m
+[31m-      "p-subhash" : "संकाय कल्याण",[m
+[31m-    "card-awdhesh" : "डॉ अवधेश कुमार चौधरी",[m
+[31m-      "p-awdhesh" : "योजना और विकास",[m
+[31m-    "card-sanjay" : "डॉ संजय कुमार" ,[m
+[31m-     "p-sanjay" : "योजना और विकास",[m
+[31m-    "card-namrata" : "डॉ। कुमारी नम्रता",[m
+[31m-      "p-namrata" : "छात्र कल्याण" ,[m
+[31m-  [m
+[31m-  [m
+[31m-        "assis-d-head" : "सहायक डीन",[m
+[31m-      "hod-page" :"विभागों के प्रमुख",[m
+[31m-       "sel-dept" : "विभागों का चयन करें",[m
+[31m-        "placehold" : "सभी विभाग",[m
+[31m-        "all-dept" : "सभी विभाग",[m
+[31m-        "cse" : "कंप्यूटर साइंस और इंजीनियरिंग",[m
+[31m-        "ee" : "विद्युत इंजीनियरिंग",[m
+[31m-        "ece" :"इलेक्ट्रॉनिक्स और संचार इंजीनियरिंग",[m
+[31m-        "ce" : "असैनिक इंजीनियरिंग",[m
+[31m-        "me" : "मैकेनिकल इंजीनियरिंग",[m
+[31m-        "mm" : "धातुकर्म इंजीनियरिंग",[m
+[31m-        "pe" : "उत्पादन और औद्योगिक इंजीनियरिंग",[m
+[31m-        "phy" : "भौतिक विज्ञान",[m
+[31m-        "math" : "गणित",[m
+[31m-        "human" : "मानविकी",[m
+[31m-        "chem" : "रसायन विज्ञान",[m
+[31m-        "mca" : "कंप्यूटर एप्लीकेशन में मास्टर्स",[m
+[31m-[m
+[31m-      "fic-head" : "संकाय प्रभारी",[m
+[31m-[m
+[31m-      "fac-head" : "संकाय",[m
+[31m-      "ritik" : "ऋतिक राज",[m
+[31m-      "ass-pro" : "सहेयक प्रोफेसर",[m
+[31m-      "teach-assis" : "शिक्षण सहायक",[m
+[31m-      "cs-short" : "सी.एस.",[m
+[31m-      "vivek" : "विवेक शर्मा",[m
+[31m-      "kk" : "कौशलेंद्र कुमार सिंह",[m
+[31m-      "nir" : "निरंजन कुमार",[m
+[31m-      "prof" : "प्रोफ़ेसर",[m
+[31m-      "ee-short" : "ई.ई.",[m
+[31m-      "nam" : "कुमारी नम्रता",[m
+[31m-      "asso-prof" : "सह-आचार्य",[m
+[31m-      "prashant" : "प्रशांत कुमार",[m
+[31m-      "ece-short" : "ई.सी.ई",[m
+[31m-      "vir" : "वीरेंदर कुमार",[m
+[31m-      "ce-short" : "सी.ई.",[m
+[31m-      "name-comment" : " some names are given in deans-sec",[m
+[31m-      "me-short" : "एम.ई.",[m
+[31m-      "prabha" : "प्रभा चंद",[m
+[31m-      "ram" : "राम विनय शर्मा",[m
+[31m-      "armes" : "अमरेश कुमार",[m
+[31m-      "subhas" : "सुभाष कुमार",[m
+[31m-      "tushar" : "तुषार बैनर्जी",[m
+[31m-      "pi-short" : "पी.आई.",[m
+[31m-      "mandal" : "तरनी मंडल",[m
+[31m-      "ma" : "एम.ए.",[m
+[31m-      "abhis" : "अभिषेक कुमार",[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-    "warden-head" : "वार्डन",[m
+[31m-      "c-ward" : "मुख्य वार्डन",[m
+[31m-      "ass-ward"  :"सहायक वार्डन",[m
+[31m-      "a" : "छात्रावास-ए",[m
+[31m-      "b" : "छात्रावास-बी",[m
+[31m-      "c" : "छात्रावास-सी",[m
+[31m-      "d" : "छात्रावास-डी",[m
+[31m-      "e" : "छात्रावास-इ",[m
+[31m-      "f" : "छात्रावास-एफ",[m
+[31m-      "g" : "छात्रावास-जी",[m
+[31m-      "h" : "छात्रावास-एच",[m
+[31m-      "i" : "छात्रावास-मैं",[m
+[31m-      "amb" : "अम्बेडकर",[m
+[31m-      "rlb" : "आरएलबी",[m
+[31m-[m
+[31m-[m
+[31m-    "regis-head" : "रजिस्ट्रार",[m
+[31m-    "offi-head" : "अधिकारियों",[m
+[31m-    "staff-head" : "कर्मचारी",[m
+[31m-[m
+[31m-    "recru" : "भर्ती सूचना",[m
+[31m-     "t-sl" : "क्रमिक संख्या",[m
+[31m-     "t-issu" : "जारी करने की तिथि",[m
+[31m-     "t-title" : "शीर्षक",[m
+[31m-     "t-dead" : "समयसीमा",[m
+[31m-     "t-down" : "डाउनलोड",[m
+[31m-  [m
+[31m-  [m
+[31m-  "side-panel" : "contents of side" ,[m
+[31m-    "s-ho" : "घर",[m
+[31m-    "s-insti" : "संस्था",[m
+[31m-    "s-aca" : "शैक्षणिक",[m
+[31m-    "s-stud" : "छात्र",[m
+[31m-    "s-pep" : "लोग",[m
+[31m-    "s-recru" : "भर्ती",[m
+[31m-    "s-reser" : "अनुसंधान एवं विकास",[m
+[31m-    "s-ten" : "निविदा",[m
+[31m-    "s-not" : "नोटिस",[m
+[31m-    "s-cel" : "प्रकोष्ठों",[m
+[31m-  [m
+[31m-  [m
+[31m- "commenthk2" : "above is himanshu's work"[m
+ [m
+ }[m
