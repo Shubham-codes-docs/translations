@@ -778,7 +778,50 @@
 "academic_documents_title2":"List of Holidays",
 "academic_documents_title2_link":"Download List of Holidays",
 
+"cells_li1":"SC-ST Cell",
+ "cells_li2":"IPR Cell",
+ "cells_li3":"Grievance Cell",
+ "cells_li4":"Reservation Cell",
+ "cells_li5":"Publication Cell",
+ "cells_li6":"Public Relation Cell",
+ "cells_li7":"Hindi Cell",
+ "cells_li8":"Women Cell",
+
+"default_para":"This Section will be updated soon .",
+
+ "cells_topleft_heading":"Cells",
+ "cells_top_subtitle":"Important Documents",
+ "sc-st_para_li1": " SC-ST Cell.",
+
+ "sc-st_para_li2":"Reservation & Welfare Committee.",
+
+ "sc-st_para_li3":" Nomiantion of Liason Officer for enforcement of orders of reservation in posts and services of the institute.",
+ "womencell_top_subtitle1":"Sexual Harassment of Women at Workplace",
+ "womencell_top_subtitle2_th1":"Name",
+ "womencell_top_subtitle2_th2":"Contact",
+ "womencell_top_subtitle2_tr1":"Dr. Mahinder Kapoor (Chairperson, Internal Complain Committee)",
+ "womencell_top_subtitle3":"Downloads",
+ "womencell_Downloads_link1":"  Office Memorandum - F.No.11013-3-2009-Esst dated 21.07.2009 issued by the Department of Personal & Training Government of India.",
+ 
+ "womencell_Downloads_link2":"Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act 2013.",
+
+ "womencell_Downloads_link3":"Handbook on Sexual Harassment of Women at Workplace.",
+
+ "womencell_Downloads_link4":"Internal Complaints Committee for the Sexual Harassment of Women at Workplace.",
+
+ "pan_gst_heading":"PAN & GST Details",
+ "pan_gst_tleft1":"Registered Name",	
+ "pan_gst_tleft2":"Registered Address",
+ "pan_gst_tleft3":"PAN (Permanent Account Number)",
+ "pan_gst_tleft4":"GST Permanent",
+ "pan_gst_tleft5":"State Of Registration",
+ "pan_gst_tleft6":"ITax Deduction and Collection Account Number (TAN)",
+ 
+ "pan_gst_tright1":"National Institute Of Technology Jamshedpur",
+ "pan_gst_tright2":"NIT Jamshedpur Campus, Adityapur Jharkhand 831014",
+ "pan_gst_tright3":"Jharkhand",
   
+  "commentp3":"above is pratibha's work",
   
   "commets" : "below is Suvrodeep's Work",
    
