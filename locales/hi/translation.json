@@ -789,6 +789,51 @@
    
    "academic_documents_title2":"छुट्टियों की सूची",
    "academic_documents_title2_link":"छुट्टियों की सूची डाउनलोड करें",
+  
+  "cells_li1":"एससी-एसटी प्रकोष्ठ",
+ "cells_li2":"आईपीआर प्रकोष्ठ",
+ "cells_li3":"शिकायत प्रकोष्ठ",
+ "cells_li4":"आरक्षण प्रकोष्ठ",
+ "cells_li5":"प्रकाशन प्रकोष्ठ",
+ "cells_li6":"जनसंपर्क प्रकोष्ठ",
+ "cells_li7":"हिंदी प्रकोष्ठ",
+ "cells_li8":"महिला प्रकोष्ठ",
+
+"default_para":"इस अनुभाग को जल्द ही अपडेट किया जाएगा।",
+
+ "cells_topleft_heading":"प्रकोष्ठों",
+ "cells_top_subtitle":"महत्वपूर्ण दस्तावेज",
+ "sc-st_para_li1": " एससी-एसटी प्रकोष्ठ।",
+
+ "sc-st_para_li2":"आरक्षण और कल्याण समिति।",
+
+ "sc-st_para_li3":"संस्थान के पदों और सेवाओं में आरक्षण के आदेशों को लागू करने के लिए संपर्क अधिकारी का नामांकन।",
+ "womencell_top_subtitle1":"कार्यस्थल पर महिलाओं का यौन उत्पीड़न",
+ "womencell_top_subtitle2_th1":"नाम",
+ "womencell_top_subtitle2_th2":"संपर्क करें",
+ "womencell_top_subtitle2_tr1":"डॉ. महिंदर कपूर (अध्यक्ष, आंतरिक शिकायत समिति)",
+ "womencell_top_subtitle3":"डाउनलोड",
+ "womencell_Downloads_link1":"कार्यालय ज्ञापन - एफ.सं.11013-3-2009-एस्ट दिनांक 21.07.2009 भारत सरकार के व्यक्तिगत और प्रशिक्षण विभाग द्वारा जारी किया गया।",
+ 
+ "womencell_Downloads_link2":"कार्यस्थल पर महिलाओं का यौन उत्पीड़न (रोकथाम, निषेध और निवारण) अधिनियम 2013।",
+
+ "womencell_Downloads_link3":"कार्यस्थल पर महिलाओं के यौन उत्पीड़न पर पुस्तिका।",
+
+ "womencell_Downloads_link4":"कार्यस्थल पर महिलाओं के यौन उत्पीड़न के लिए आंतरिक शिकायत समिति।",
+
+ "pan_gst_heading":"पैन और जीएसटी विवरण",
+ "pan_gst_tleft1":"पंजीकृत नाम",	
+ "pan_gst_tleft2":"पंजीकृत पता",
+ "pan_gst_tleft3":"पैन (स्थायी खाता संख्या)",
+ "pan_gst_tleft4":"जीएसटी स्थायी",
+ "pan_gst_tleft5":"पंजीकरण की स्थिति",
+ "pan_gst_tleft6":"ITax कटौती और संग्रह खाता संख्या (TAN)",
+ 
+ "pan_gst_tright1":"राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर",
+ "pan_gst_tright2":"एनआईटी जमशेदपुर परिसर, आदित्यपुर झारखंड 831014",
+ "pan_gst_tright3":"झारखंड",
+ 
+  "commentp":"above is pratibha's work",
    
    "commenk": "below is Suvrodeep's Work",
   
