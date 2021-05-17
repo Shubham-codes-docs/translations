@@ -253,9 +253,35 @@
 
 
 
+,"heading_legal_cases":"List Of Legal Cases"
+,"casename":"Case Name"
+,"stats":"Status"
+,"file":"File"
 
 
+,"heading_rti":"Right to Information"
+,"pos":"Position"
+,"rti_Name":"Name"
+,"rti_phone":"Phone"
+,"rti_email":"Email"
+,"1rti":"First Appellate Authority (FAA)"
+,"1name":"Prof. Amaresh Kumar Professor Department of Production and Industrial Engineering"
+,"1fon":"0657-237-4131"
+,"1mail":"akumar.prod@nitjsr.ac.in"
+,"2rti":"Central Public Information Officer (CPIO)"
+,"2name":"Dr. Sripati Jha Associate Professor Department of Mathematics"
+,"2mail":"sjha.math@nitjsr.ac.in"
 
+,"head_filing":"Filing of RTI Application Form"
+,"fil_1":" A person seeking information may file an application on form either in writing or by e-mail giving particulars of the information being sought."
+,"fil_2":"The application along with the requisite fee can be submitted in the form of Cash/Demand Draft/Bankers' Cheque. Demand Draft/Bankers' Cheque can be sent in favour of 'Director, National Institute of Technology, Jamshedpur' payable at SBI, RIT Campus Branch, Jamshedpur, 831014"
+,"fil_3":"In case request is made by e-mail, the fee should be deposited within seven days. Non-receipt of fee will imply withdrawal of request."
+
+,"head_impinf":"Important Information"
+,"1_imp":"The Institute will make an endeavour to provide information sought within 30 days on payment of requisite fees."
+,"2_imp":"The time limit of providing information concerning life and liberty of a person is 48 hours."
+,"3_imp":"In case the information pertains to a third party, the time limit is 40 days."
+,"4_imp":"If no reply or information is received as above, it is deemed to have been rejected. The applicant will be intimated the reasons for rejection."
 
 
 
